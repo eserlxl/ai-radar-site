@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Eigen Radar — Yapay Zekâ / AI</title>
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 18:53:55 +0000</lastBuildDate>
+    <itunes:author>Eigen Radar</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
+    <itunes:category text="News" />
     <item>
       <title>Moonshot'ın açık ağırlıklı Kimi K3'ü ABD-Çin YZ tartışmasını alevlendirdi — Moonshot's open-weight Kimi K3 reignites the US-China AI debate</title>
       <description>Moonshot AI'nin yeni açık ağırlıklı modeli Kimi K3, Şanghay'daki Dünya Yapay Zeka Konferansı'nda Xi Jinping'in konuşmasıyla aynı haftaya denk geldi; Nasdaq yaklaşık %1 geriledi ve çip hisseleri satıldı. — Moonshot AI's new open-weight Kimi K3 model landed the same week as Xi Jinping's speech at Shanghai's World AI Conference; the Nasdaq fell about 1% as investors sold chip stocks.</description>

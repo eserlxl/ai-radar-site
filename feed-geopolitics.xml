@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Eigen Radar — Jeopolitik / Geopolitics</title>
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 18:53:55 +0000</lastBuildDate>
+    <itunes:author>Eigen Radar</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
+    <itunes:category text="News" />
     <item>
       <title>ABD, Bender Abbas yakınında köprüleri ve demiryolunu vurdu — US expands strikes to bridges and rail lines near Bandar Abbas</title>
       <description>CENTCOM, Hürmüz Boğazı'na kıyı Bender Abbas limanı çevresinde altı köprü ile bir demiryolu kavşağını vurduğunu açıkladı; yedinci gece süren saldırılarda gözetleme tesisleri ve yeraltı silah depoları da hedef alındı. — CENTCOM said it struck six bridges and a rail junction around the port city of Bandar Abbas near the Strait of Hormuz, part of a seventh consecutive night of strikes that also hit surveillance sites and underground weapons depots.</description>

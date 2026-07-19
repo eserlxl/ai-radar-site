@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Eigen Radar — Bilim / Science</title>
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 18:53:55 +0000</lastBuildDate>
+    <itunes:author>Eigen Radar</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
+    <itunes:category text="News" />
     <item>
       <title>Fizikçiler bir kapı geriliminin niyobyumda süperiletkenliği nasıl bastırdığını görüntüledi — Physicists image how a gate voltage suppresses superconductivity in niobium</title>
       <description>ETH Zürih ve Konstanz Üniversitesi'nden araştırmacılar, taramalı bir azot-boşluğu (NV) magnetometresiyle, uygulanan bir kapı geriliminin mikron boyutlu niyobyum adacıklarında Meissner perdelemesini yerel olarak nasıl bastırdığını doğrudan görüntüledi. Bastırma örüntüsü, basit ısınma ya da doğrudan elektrik alanı açıklamaları yerine bir kuazipartikül üretimi/difüzyonu modeliyle örtüşüyor. — Researchers at ETH Zürich and the University of Konstanz used scanning nitrogen-vacancy (NV) magnetometry to directly image how an applied gate voltage locally suppresses Meissner screening in micron-sized niobium islands. The spatial suppression pattern matches a quasiparticle generation/diffusion model rather than simple heating or direct electric-field explanations.</description>

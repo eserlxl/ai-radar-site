@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Eigen Radar — Ekonomi ve Piyasalar / Economics &amp; Markets</title>
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 19 Jul 2026 16:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 18:53:55 +0000</lastBuildDate>
+    <itunes:author>Eigen Radar</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
+    <itunes:category text="News" />
     <item>
       <title>Yatırımcılar Fed toplantısına denk gelen bir bahisle Bitcoin'in 72.000 dolara çıkacağına 2,5 milyar dolar yatırdı — Traders wager $2.5bn that bitcoin hits $72,000 right as the Fed meets</title>
       <description>Deribit'te büyük blok işlemler, yatırımcıların 31 Temmuz vadeli 70.000 dolarlık alım opsiyonlarını satın alıp 72.000 dolarlık opsiyonları sattığını gösteriyor; Fed'in 29 Temmuz kararından yalnızca iki gün sonrasına denk gelen pozisyonun nominal büyüklüğü 2,5 milyar dolar. Vadeli işlem piyasaları faizin %3,5-%3,75 aralığında sabit kalma ihtimalini %75-80 olarak fiyatlıyor. — Large block trades on Deribit show traders buying $70,000 bitcoin calls and selling $72,000 calls for July 31 expiry, a notional $2.5 billion bet timed two days after the Fed's July 29 decision, where futures currently price a 75-80% chance rates hold at 3.5%-3.75%.</description>
