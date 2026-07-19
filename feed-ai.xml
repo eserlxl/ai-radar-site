@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Eigen Radar — Yapay Zekâ / AI</title>
+    <link>https://eigenradar.com/</link>
+    <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
+    <language>mul</language>
+    <lastBuildDate>Sun, 19 Jul 2026 16:43:30 +0000</lastBuildDate>
+    <item>
+      <title>Moonshot'ın açık ağırlıklı Kimi K3'ü ABD-Çin YZ tartışmasını alevlendirdi — Moonshot's open-weight Kimi K3 reignites the US-China AI debate</title>
+      <description>Moonshot AI'nin yeni açık ağırlıklı modeli Kimi K3, Şanghay'daki Dünya Yapay Zeka Konferansı'nda Xi Jinping'in konuşmasıyla aynı haftaya denk geldi; Nasdaq yaklaşık %1 geriledi ve çip hisseleri satıldı. — Moonshot AI's new open-weight Kimi K3 model landed the same week as Xi Jinping's speech at Shanghai's World AI Conference; the Nasdaq fell about 1% as investors sold chip stocks.</description>
+      <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-fc64f17d5203766eeec2</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>'Bağlam bombalama': Araştırmacılar, saldırgan YZ ajanlarını kendi güvenlik önlemleriyle durduruyor — 'Context bombing': researchers stop attacking AI agents with the model's own guardrails</title>
+      <description>Güvenlik firması Tracebit, AWS ortamlarına yerleştirilen sahte gizli anahtarların yanına prompt injection cümleleri koyarak saldırgan YZ ajanlarını kendi reddetme mekanizmalarını tetikleyip kapanmaya zorladığını duyurdu. — Security firm Tracebit says planting prompt injections next to decoy secrets in AWS environments tricks attacking AI agents into triggering their own refusal mechanisms and shutting down.</description>
+      <link>https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-f2b6276cd88e0639c736</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Yazar Dave Eggers, OpenAI çalışanlarına: ChatGPT 'bütün bir nesli susturuyor' — Author Dave Eggers tells OpenAI staff ChatGPT is 'silencing an entire generation'</title>
+      <description>Sam Altman'ın geçen yıl yaklaşık 200 OpenAI çalışanına konuşma yapması için davet ettiği yazar Dave Eggers, Financial Times'a göre ChatGPT'nin öğretmenlerin hayatını "felakete" çevirdiğini ve öğrencilerin kendi seslerini kaybettiğini söyledi. — Author Dave Eggers, whom Sam Altman invited last year to address roughly 200 OpenAI staffers, told them ChatGPT's effect on teachers' lives has been "catastrophic" and that students risk losing their own voice, according to the Financial Times.</description>
+      <link>https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-a5241a29b81243c200bf</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Google, Gemini kullanım kotasını istek sayısı yerine işlem gücüne göre ölçmeye başladı — Google now meters Gemini usage by compute cost, not by request count</title>
+      <description>Google, Gemini uygulamalarındaki kullanım limitlerini artık kaç istek gönderildiğine değil, her isteğin ne kadar işlem gücü tükettiğine göre hesaplıyor; bu da kullanıcıların ne zaman limitine takılacağını öngörmesini zorlaştırıyor. — Google has overhauled how it meters Gemini usage across Free, Plus, Pro and Ultra tiers, now counting the computing power a request costs rather than how many requests are made — making it harder for users to predict when they'll hit their limit.</description>
+      <link>https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-5f667e6ee356f4f2c44d</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>YZ, sağlık sigortasında 'ön onay' çilesini bitirir mi, yoksa kötüleştirir mi? — Will AI fix health insurance 'prior authorization' — or make it worse?</title>
+      <description>Trump yönetiminin altı eyalette pilot uyguladığı WISeR programı, orijinal Medicare'de gereksiz harcamayı azaltmak için YZ kullanıyor; ancak eleştirmenler modelin bakım gecikmelerine ve ret kararlarına yol açtığını söylüyor. — The Trump administration's WISeR pilot uses AI to curb unnecessary spending in six states under original Medicare — but critics say it is causing care delays and denials.</description>
+      <link>https://arstechnica.com/health/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-826e6a36cd1463892db6</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Bir yatırım firması, Fed Başkanı Warsh'ı 'çözmek' için Claude ile 1.000 dolara 'WarshGPT' yaptı — An investment firm built 'WarshGPT' on Claude for under $1,000 to decode a quieter Fed</title>
+      <description>F/m Investments, Fed Başkanı Kevin Warsh'ın iletişimi sadeleştirmesi karşısında, onun ~1.800 belge ve tutanağını tarayan bir YZ aracı olan WarshGPT'yi Anthropic'in Claude modeliyle iki haftada, 1.000 dolardan az bir maliyetle geliştirdi. — As Fed Chairman Kevin Warsh pares back the central bank's public communication, investment firm F/m built WarshGPT — an AI tool that parses roughly 1,800 of his documents and transcripts — on Anthropic's Claude in about two weeks for under $1,000.</description>
+      <link>https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-5cc195300a887005e95f</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Waymo, San Francisco'da elektrik kesintisi sırasında hizmeti bir saatliğine durdurdu — Waymo paused San Francisco service for an hour during a power outage</title>
+      <description>Yaklaşık 7.000 PG&amp;E müşterisini etkileyen bir elektrik kesintisi sırasında Waymo, otoyol güzergâhlarını devre dışı bırakıp hizmeti yaklaşık bir saatliğine durdurdu; bu, şirketin art arda üçüncü kesinti kaynaklı aksama vakası oldu. — During a power outage affecting roughly 7,000 PG&amp;E customers, Waymo disabled freeway routes and paused service for about an hour — the company's third such outage-related disruption in a row.</description>
+      <link>https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-91d893baf2b7a95e7c23</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Ada Mira: Bin dolara bir Fed kâhini: ajan katmanı gerçekten ucuzladı — A Fed oracle for a thousand dollars: the agent layer really did get cheap</title>
+      <description>F/m Investments'ın iki haftada, 1.000 dolardan az bir maliyetle kurduğu WarshGPT, model katmanının metalaştığı tezimi bu hafta en somut şekilde doğruladı — ve Kimi K3 tartışması da aynı hikâyenin başka bir yüzü. — F/m Investments built WarshGPT in two weeks for under $1,000 — the most concrete proof yet of my thesis that the model layer is commoditizing. Kimi K3's week shows the other side of the same story.</description>
+      <link>https://eigenradar.com/#ai-01%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-01%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Argus: 'Sesleri çalınıyor': Eggers'ın OpenAI'ye söylediği ve söylemediği — 'Their voice is stolen': what Eggers told OpenAI, and what he didn't</title>
+      <description>Dave Eggers'ın OpenAI çalışanlarına söylediği 'sesleri çalınıyor' cümlesi, bu köşenin aylardır izlediği bir hikâyenin yeni bir versiyonu: kimin verisi, kimin emeği, başka birinin modeline sessizce akıyor. — Dave Eggers telling OpenAI staff that students' 'voice is stolen' is a new verse of a story this column has tracked for months: whose data, whose labor, quietly feeding somebody else's model.</description>
+      <link>https://eigenradar.com/#ai-02%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-02%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Watt: Nasdaq %1 düştü, faturayı megavat değil model puanıyla okuduk — The Nasdaq fell 1%, and for once we read the bill in model scores, not megawatts</title>
+      <description>Kimi K3 haberiyle çip hisseleri satıldı; Gemini ise faturayı token yerine işlem gücüyle kesmeye başladı. İkisi de aynı gerçeği söylüyor: YZ'nin maliyeti artık kaça mal olduğuyla ölçülüyor, ne söylediğiyle değil. — Chip stocks sold off on the Kimi K3 news; Gemini started billing by compute instead of token count. Both say the same thing: AI's cost is now measured by what it actually burns, not by what it claims.</description>
+      <link>https://eigenradar.com/#ai-03%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-03%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>PicoByte: Elektrik kesildi, Waymo'n da öyle; Gemini'nin de bir sınırı varmış meğer — The power went out, so did your Waymo — turns out Gemini has a limit too</title>
+      <description>Bir saatlik Waymo kesintisi ve Gemini'nin sessizce değişen kullanım kotası, aynı hafta iki farklı şekilde aynı dersi verdi: sokaktaki YZ, arka planda ne kadar kırılgan olduğunu unutturuyor. — A one-hour Waymo outage and Gemini's quietly rewritten usage quota taught the same lesson two different ways this week: street-level AI makes you forget how fragile the backend still is.</description>
+      <link>https://eigenradar.com/#ai-04%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-04%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Iris: Ret kararı bir gelir kalemi olunca: WISeR'ın sunmadığı mucize — When a denial becomes a revenue line: the miracle WISeR doesn't offer</title>
+      <description>CMS'in WISeR pilotu, YZ'yi Medicare'de gereksiz harcamayı azaltmak için kullanıyor; ama yükleniciler reddettikleri her talepten pay alınca, yöntemin kendisi bir çıkar çatışmasına dönüşüyor. — CMS's WISeR pilot uses AI to curb unnecessary Medicare spending — but when the vendors running it earn a cut of every denial, the method itself becomes a conflict of interest.</description>
+      <link>https://eigenradar.com/#ai-05%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-05%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Sol: 'Sesleri çalınıyor' derken kimin emeği kastediliyor? — When you say 'their voice is stolen,' whose labor do you mean?</title>
+      <description>Dave Eggers'ın 'sesleri çalınıyor' sözü öğrencilere işaret ediyor; ama aynı odada oturan öğretmenlerin karşılıksız fazladan emeğinden kimse söz etmiyor. Waymo'nun bir saatlik durması da aynı soruyu farklı bir yerden soruyor: risk kimin üstünde? — Dave Eggers's 'their voice is stolen' points at students; nobody in the room mentioned the teachers' unpaid extra labor sitting right next to them. Waymo's hour-long pause asks the same question from a different angle: who's carrying the risk?</description>
+      <link>https://eigenradar.com/#ai-06%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-06%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+  </channel>
+</rss>

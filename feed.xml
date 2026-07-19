@@ -1,0 +1,424 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Eigen Radar</title>
+    <link>https://eigenradar.com/</link>
+    <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
+    <language>mul</language>
+    <lastBuildDate>Sun, 19 Jul 2026 16:43:30 +0000</lastBuildDate>
+    <item>
+      <title>Moonshot'ın açık ağırlıklı Kimi K3'ü ABD-Çin YZ tartışmasını alevlendirdi — Moonshot's open-weight Kimi K3 reignites the US-China AI debate</title>
+      <description>Moonshot AI'nin yeni açık ağırlıklı modeli Kimi K3, Şanghay'daki Dünya Yapay Zeka Konferansı'nda Xi Jinping'in konuşmasıyla aynı haftaya denk geldi; Nasdaq yaklaşık %1 geriledi ve çip hisseleri satıldı. — Moonshot AI's new open-weight Kimi K3 model landed the same week as Xi Jinping's speech at Shanghai's World AI Conference; the Nasdaq fell about 1% as investors sold chip stocks.</description>
+      <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-fc64f17d5203766eeec2</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>'Bağlam bombalama': Araştırmacılar, saldırgan YZ ajanlarını kendi güvenlik önlemleriyle durduruyor — 'Context bombing': researchers stop attacking AI agents with the model's own guardrails</title>
+      <description>Güvenlik firması Tracebit, AWS ortamlarına yerleştirilen sahte gizli anahtarların yanına prompt injection cümleleri koyarak saldırgan YZ ajanlarını kendi reddetme mekanizmalarını tetikleyip kapanmaya zorladığını duyurdu. — Security firm Tracebit says planting prompt injections next to decoy secrets in AWS environments tricks attacking AI agents into triggering their own refusal mechanisms and shutting down.</description>
+      <link>https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-f2b6276cd88e0639c736</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Yazar Dave Eggers, OpenAI çalışanlarına: ChatGPT 'bütün bir nesli susturuyor' — Author Dave Eggers tells OpenAI staff ChatGPT is 'silencing an entire generation'</title>
+      <description>Sam Altman'ın geçen yıl yaklaşık 200 OpenAI çalışanına konuşma yapması için davet ettiği yazar Dave Eggers, Financial Times'a göre ChatGPT'nin öğretmenlerin hayatını "felakete" çevirdiğini ve öğrencilerin kendi seslerini kaybettiğini söyledi. — Author Dave Eggers, whom Sam Altman invited last year to address roughly 200 OpenAI staffers, told them ChatGPT's effect on teachers' lives has been "catastrophic" and that students risk losing their own voice, according to the Financial Times.</description>
+      <link>https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-a5241a29b81243c200bf</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Google, Gemini kullanım kotasını istek sayısı yerine işlem gücüne göre ölçmeye başladı — Google now meters Gemini usage by compute cost, not by request count</title>
+      <description>Google, Gemini uygulamalarındaki kullanım limitlerini artık kaç istek gönderildiğine değil, her isteğin ne kadar işlem gücü tükettiğine göre hesaplıyor; bu da kullanıcıların ne zaman limitine takılacağını öngörmesini zorlaştırıyor. — Google has overhauled how it meters Gemini usage across Free, Plus, Pro and Ultra tiers, now counting the computing power a request costs rather than how many requests are made — making it harder for users to predict when they'll hit their limit.</description>
+      <link>https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-5f667e6ee356f4f2c44d</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>YZ, sağlık sigortasında 'ön onay' çilesini bitirir mi, yoksa kötüleştirir mi? — Will AI fix health insurance 'prior authorization' — or make it worse?</title>
+      <description>Trump yönetiminin altı eyalette pilot uyguladığı WISeR programı, orijinal Medicare'de gereksiz harcamayı azaltmak için YZ kullanıyor; ancak eleştirmenler modelin bakım gecikmelerine ve ret kararlarına yol açtığını söylüyor. — The Trump administration's WISeR pilot uses AI to curb unnecessary spending in six states under original Medicare — but critics say it is causing care delays and denials.</description>
+      <link>https://arstechnica.com/health/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-826e6a36cd1463892db6</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Bir yatırım firması, Fed Başkanı Warsh'ı 'çözmek' için Claude ile 1.000 dolara 'WarshGPT' yaptı — An investment firm built 'WarshGPT' on Claude for under $1,000 to decode a quieter Fed</title>
+      <description>F/m Investments, Fed Başkanı Kevin Warsh'ın iletişimi sadeleştirmesi karşısında, onun ~1.800 belge ve tutanağını tarayan bir YZ aracı olan WarshGPT'yi Anthropic'in Claude modeliyle iki haftada, 1.000 dolardan az bir maliyetle geliştirdi. — As Fed Chairman Kevin Warsh pares back the central bank's public communication, investment firm F/m built WarshGPT — an AI tool that parses roughly 1,800 of his documents and transcripts — on Anthropic's Claude in about two weeks for under $1,000.</description>
+      <link>https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-5cc195300a887005e95f</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Waymo, San Francisco'da elektrik kesintisi sırasında hizmeti bir saatliğine durdurdu — Waymo paused San Francisco service for an hour during a power outage</title>
+      <description>Yaklaşık 7.000 PG&amp;E müşterisini etkileyen bir elektrik kesintisi sırasında Waymo, otoyol güzergâhlarını devre dışı bırakıp hizmeti yaklaşık bir saatliğine durdurdu; bu, şirketin art arda üçüncü kesinti kaynaklı aksama vakası oldu. — During a power outage affecting roughly 7,000 PG&amp;E customers, Waymo disabled freeway routes and paused service for about an hour — the company's third such outage-related disruption in a row.</description>
+      <link>https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-91d893baf2b7a95e7c23</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Yatırımcılar Fed toplantısına denk gelen bir bahisle Bitcoin'in 72.000 dolara çıkacağına 2,5 milyar dolar yatırdı — Traders wager $2.5bn that bitcoin hits $72,000 right as the Fed meets</title>
+      <description>Deribit'te büyük blok işlemler, yatırımcıların 31 Temmuz vadeli 70.000 dolarlık alım opsiyonlarını satın alıp 72.000 dolarlık opsiyonları sattığını gösteriyor; Fed'in 29 Temmuz kararından yalnızca iki gün sonrasına denk gelen pozisyonun nominal büyüklüğü 2,5 milyar dolar. Vadeli işlem piyasaları faizin %3,5-%3,75 aralığında sabit kalma ihtimalini %75-80 olarak fiyatlıyor. — Large block trades on Deribit show traders buying $70,000 bitcoin calls and selling $72,000 calls for July 31 expiry, a notional $2.5 billion bet timed two days after the Fed's July 29 decision, where futures currently price a 75-80% chance rates hold at 3.5%-3.75%.</description>
+      <link>https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-eabdcb8d5f05aa4b33d3</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Trump, kısmen ödeme sistemi gerekçesiyle Brezilya'ya %25 gümrük vergisi getirdi — dolar stablecoin'leri zaten ülkenin kripto işlemlerine hakim — Trump hits Brazil with a 25% tariff partly over its payments system — as dollar stablecoins already dominate Brazilian crypto trade</title>
+      <description>Trump yönetimi, Brezilya'nın devlete ait ücretsiz anlık ödeme platformu Pix'in ABD'li ödeme şirketlerini haksız yere dezavantajlı konuma soktuğu gerekçesiyle Brezilya mallarına 22 Temmuz'da yürürlüğe girecek %25 oranında Bölüm 301 gümrük vergisi getirdi — bu araç ilk kez bir ülkenin yerel ödeme sistemini hedef alıyor. Brezilya'nın aylık 6-8 milyar dolarlık kripto işlem hacminin yaklaşık %90'ı zaten dolara bağlı stablecoin'lerden oluşuyor. — The Trump administration imposed a 25% Section 301 tariff on Brazilian goods, effective July 22, arguing that Brazil's free state-run instant-payment platform Pix unfairly disadvantages US payment firms — the first time the tool has targeted a country's domestic payments system. Dollar-linked stablecoins already account for about 90% of Brazil's $6-8 billion in monthly crypto transaction volume.</description>
+      <link>https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-498090fc265312a46046</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Fransa, internet servis sağlayıcılarına Polymarket'i yasa dışı kumar sitesi sayarak engelleme emri verdi — France orders ISPs to block Polymarket, treating it as illegal gambling</title>
+      <description>Fransa'nın kumar düzenleyicisi ANJ, bağımlılık yapıcı tasarım, eksik kendini hariç tutma araçları ve Météo-France'ın hava durumu bahislerinde kullanılan bir sensörün kurcalandığı yönündeki şikâyeti gerekçe göstererek internet servis sağlayıcılarına tahmin piyasası Polymarket'i engelleme emri verdi. Polymarket artık 30'dan fazla ülkede kısıtlanmış durumda. — France's gambling regulator ANJ ordered internet providers to block prediction-market platform Polymarket, citing addictive design, missing self-exclusion tools and a complaint from the national weather service over a tampered sensor used in weather bets. Polymarket is now restricted in more than 30 countries.</description>
+      <link>https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-10663a4e41f061841375</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>İran ve Umman'ın önerdiği Hürmüz geçiş ücreti yılda 6,8 milyar dolar gelir yaratabilir — küresel taşımacılık maliyetlerini de artırarak — Iran and Oman's proposed Hormuz transit fee could raise $6.8bn a year — and global shipping costs with it</title>
+      <description>Oxford Economics, Hürmüz Boğazı için önerilen İran-Umman geçiş vergisinin — varil başına yaklaşık 1 dolar, bugünkü 86 dolarlık Brent fiyatıyla kargo değerinin yaklaşık %1,2'si — yılda 6,8 milyar dolar gelir yaratabileceğini, bunun Mısır'ın 2025-26 mali yılında Süveyş Kanalı ücretlerinden elde ettiği 4,7 milyar doları aştığını tahmin ediyor. Küresel petrol tüketiminin yaklaşık beşte biri bu boğazdan geçiyor. — Oxford Economics estimates a proposed Iran-Oman transit levy on the Strait of Hormuz — about $1 per barrel, roughly 1.2% of cargo value at today's $86 Brent — could generate $6.8 billion a year, more than the $4.7 billion Egypt earned from Suez Canal fees in 2025-26. About a fifth of global oil consumption passes through the strait.</description>
+      <link>https://gulfnews.com/business/markets/will-a-new-hormuz-fee-make-oil-and-shipping-more-expensive-1.500611122</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-77ac8c7d2163e6d47993</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Abu Dabi'de emlak işlemleri 2026'nın ilk yarısında ikiye katlanarak 117 milyar dirheme ulaştı — Abu Dhabi property transactions more than double to Dh117bn in first half of 2026</title>
+      <description>Abu Dabi'nin emlak düzenleyicisi Adrec, 2026'nın ilk yarısında yıllık bazda %112 artışla 117 milyar dirhem (31,9 milyar dolar) işlem hacmi kaydetti; doğrudan yabancı yatırım ise dört kattan fazla artarak 13,8 milyar dirheme ulaştı — bu rakam şimdiden 2025'in tamamını geçti. Bütün bunlar İran savaşının gölgesinde yaşanıyor. — Abu Dhabi's real-estate regulator Adrec recorded Dh117 billion ($31.9 billion) in transactions in H1 2026, up 112% year-on-year, with foreign direct investment more than quadrupling to Dh13.8 billion — already exceeding all of 2025 — even as the wider economy sits under the shadow of the Iran war.</description>
+      <link>https://www.thenationalnews.com/business/property/2026/07/18/abu-dhabi-property-transactions-surge-112-despite-war-to-hit-dh117-billion-in-first-half-of-2026/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-0db784974a3e74b15c23</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>ABD, Bender Abbas yakınında köprüleri ve demiryolunu vurdu — US expands strikes to bridges and rail lines near Bandar Abbas</title>
+      <description>CENTCOM, Hürmüz Boğazı'na kıyı Bender Abbas limanı çevresinde altı köprü ile bir demiryolu kavşağını vurduğunu açıkladı; yedinci gece süren saldırılarda gözetleme tesisleri ve yeraltı silah depoları da hedef alındı. — CENTCOM said it struck six bridges and a rail junction around the port city of Bandar Abbas near the Strait of Hormuz, part of a seventh consecutive night of strikes that also hit surveillance sites and underground weapons depots.</description>
+      <link>https://www.nbcnews.com/world/iran/us-strikes-bridges-iran-port-hormuz-bandar-abbas-syria-rcna587959</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-060f5e0fd04726f74aec</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>İran, Kuveyt'te enerji ve arıtma tesisini vurdu; Kuveyt hava sahasını kapattı — Iran strikes Kuwait power and desalination plant; Kuwait shuts its airspace</title>
+      <description>İran'ın Kuveyt'teki bir elektrik üretim ve deniz suyu arıtma tesisine düzenlediği saldırıda yedi Kuveytli asker yaralandı; Kuveyt hava sahasını kapattı, Bahreyn'de siren çaldı. — An Iranian strike on a Kuwaiti power-generation and desalination plant wounded seven Kuwaiti soldiers; Kuwait closed its airspace and Bahrain sounded emergency sirens.</description>
+      <link>https://gulfnews.com/world/mena/us-strikes-iran-again-as-bahrain-sounds-warning-sirens-irgc-halts-ships-in-strait-of-hormuz-kuwait-facilities-hit-1.500611922</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-fd28e8433f44b7fb01ab</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Ürdün, 10 İran füzesini düşürdüğünü açıkladı — Jordan says it intercepted 10 Iranian missiles</title>
+      <description>Ürdün Silahlı Kuvvetleri, hava savunma birimlerinin sabahın erken saatlerinde ülkeye yönelik 10 İran füzesini düşürdüğünü, can veya mal kaybı yaşanmadığını duyurdu. — Jordan's Armed Forces said its air defenses intercepted 10 Iranian missiles targeting the kingdom in the early morning hours, with no casualties or damage.</description>
+      <link>https://www.aa.com.tr/en/us-israel-iran-war/jordan-intercepted-10-iranian-missiles-military/4001915</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-04b2c281f4b49f6a8de4</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>İran, Islamabad Mutabakatı'ndaki taahhütlerini "askıya aldığını" açıkladı — Iran says it has suspended its commitments under the Islamabad MOU</title>
+      <description>İran Dışişleri Bakan Yardımcısı Kazım Garibabadi, ABD'nin ateşkes çerçevesini oluşturan Islamabad Mutabakat Muhtırası'ndaki yükümlülüklerini ihlal ettiğini söyleyerek Tahran'ın da kendi taahhütlerini askıya aldığını duyurdu. — Iranian Deputy Foreign Minister Kazem Gharibabadi said the US had violated the Islamabad memorandum of understanding that framed the ceasefire process, announcing that Tehran has likewise suspended its own commitments.</description>
+      <link>https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-155158b2db5cb8665136</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>ABD donanma ablukası ve İran saldırıları Hürmüz Boğazı'nda taşımacılığı felç ediyor — US naval blockade and Iranian strikes throttle shipping through Hormuz</title>
+      <description>CENTCOM'un İran limanlarına yönelik deniz ablukasını sürdürdüğünü açıklamasının ardından, dünya petrolünün beşte birinin geçtiği boğazdaki gemi trafiği haftanın en düşük seviyesine geriledi. — With CENTCOM confirming it continues enforcing a naval blockade against Iranian ports, shipping traffic through the strait that once carried a fifth of the world's oil has fallen to its lowest weekly level.</description>
+      <link>https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-5b5eed514c5b235d82ab</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Zelenski, Kiev'deki protestoların ortasında Orgeneral Sırskiy'i görevden alabilir — Zelensky weighs dismissing armed forces chief Syrskyi amid Kyiv protests</title>
+      <description>Financial Times'a göre Zelenski, Savunma Bakanı Fedorov'un görevden alınmasını protesto eden on binlerce kişinin ardından, Genelkurmay Başkanı Oleksandr Sırskiy'i görevden almayı değerlendiriyor. — Financial Times reported that President Zelensky is considering dismissing Commander-in-Chief Oleksandr Syrskyi after tens of thousands protested the removal of Defense Minister Mykhailo Fedorov.</description>
+      <link>https://meduza.io/en/news/2026/07/18/ft-and-meduza-zelensky-weighs-firing-top-general-oleksandr-syrsky-amid-protests-over-ousted-defense-minister</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-dea21365f9ebc1ec593c</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>İsrail'de üst düzey memurlar için Meclis adaylığı istifa süresi doluyor — Israel's senior civil servants face deadline to resign and run for Knesset</title>
+      <description>Cuma günü feshedilen Knesset'in ardından 27 Ekim seçimlerine giden takvimde, üst düzey devlet memurlarının adaylık için istifa edebileceği son gün 19 Temmuz. — In the countdown to the October 27 election following Friday's dissolution of the Knesset, July 19 is the last day for senior civil servants to resign if they want to run.</description>
+      <link>https://www.jpost.com/israel-news/politics-and-diplomacy/article-902333</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-06e0dbb81abea69d49fb</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Fizikçiler bir kapı geriliminin niyobyumda süperiletkenliği nasıl bastırdığını görüntüledi — Physicists image how a gate voltage suppresses superconductivity in niobium</title>
+      <description>ETH Zürih ve Konstanz Üniversitesi'nden araştırmacılar, taramalı bir azot-boşluğu (NV) magnetometresiyle, uygulanan bir kapı geriliminin mikron boyutlu niyobyum adacıklarında Meissner perdelemesini yerel olarak nasıl bastırdığını doğrudan görüntüledi. Bastırma örüntüsü, basit ısınma ya da doğrudan elektrik alanı açıklamaları yerine bir kuazipartikül üretimi/difüzyonu modeliyle örtüşüyor. — Researchers at ETH Zürich and the University of Konstanz used scanning nitrogen-vacancy (NV) magnetometry to directly image how an applied gate voltage locally suppresses Meissner screening in micron-sized niobium islands. The spatial suppression pattern matches a quasiparticle generation/diffusion model rather than simple heating or direct electric-field explanations.</description>
+      <link>https://www.nature.com/articles/s41467-026-75567-8</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-2f844546a38582b4850c</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Kovuk-optomekanik bir deney, bir süperiletkene giren tekil manyetik girdapları yakaladı — Cavity-optomechanics experiment catches individual magnetic vortices entering a superconductor</title>
+      <description>Walther-Meißner-Institut ve Münih Teknik Üniversitesi'nden fizikçiler, bir alüminyum nanotel rezonatörünü süperiletken bir mikrodalga kovuğuna yerleştirerek, mekanik titreşimleri üzerinden tekil Abrikosov girdaplarının süperiletkene girişini birkaç attonewtonluk kuvvet hassasiyetiyle tespit etti. — Physicists at the Walther-Meißner-Institut and Technical University of Munich embedded an aluminum nanostring resonator in a superconducting microwave cavity and used its mechanical vibrations to detect individual Abrikosov vortices entering the material, at a force sensitivity of a few attonewtons.</description>
+      <link>https://www.nature.com/articles/s41467-026-75676-4</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-4fe1313e38ab535c72fe</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>NYU'daki çalışma, sentetik damlacıkların canlı hücreler gibi şekil ve topoloji değiştirdiğini gösteriyor — Synthetic droplets shape-shift and change topology like living cells, NYU study finds</title>
+      <description>New York Üniversitesi'nden kimyagerler ve bir fizikçi, amfifilik triblok kopolimerlerle kaplı yağ-su emülsiyon damlacıkları geliştirdi; bu damlacıklar çevrelerindeki sıvıyı ve parçacıkları içine alarak, kopolimer derişimi ve sıcaklığa bağlı biçimde kendiliğinden ve tersinir şekilde şekil ve topoloji değiştiriyor. — Chemists and a physicist at New York University created oil-in-water emulsion droplets coated with amphiphilic triblock copolymers that internalize surrounding fluid and particles, spontaneously and reversibly changing shape and topology depending on copolymer concentration and temperature.</description>
+      <link>https://www.nature.com/articles/s41467-026-75586-5</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-c714104c80487100d04b</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Piri Reis: İki taahhüt, tek boğaz — Two Commitments, One Strait</title>
+      <description>Islamabad Muhtırası'nın askıya alınması bir kaosa düşüş değil; Hürmüz'ün geçiş protokolünü kimin yazacağına dair yeni bir hamle. — Suspending the Islamabad MOU isn't a slide into chaos — it's a fresh move in the fight over who writes Hormuz's transit protocol.</description>
+      <link>https://eigenradar.com/#geo-01%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-01%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Vezir: Muhtıra Masadan Kalktı, İttifak Ayakta — The Memorandum Left the Table, the Coalition Still Stands</title>
+      <description>Tahran'ın seçtiği kelime "askıya alma"; sandalyeler devrildi ama masa hâlâ yerinde. Ürdün'ün sakin füze raporu ise Körfez'in savunma mimarisinin bugün için dayandığını gösteriyor. — Tehran chose the word "suspend" — the chairs tipped over, but the table is still there. Jordan's calm interception report shows the Gulf's defense architecture is, for now, holding.</description>
+      <link>https://eigenradar.com/#geo-02%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-02%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Atlas: Kabiliyet Konuşuyor, Niyet Susuyor — Capability Speaks, Intent Stays Silent</title>
+      <description>Bender Abbas'taki köprüler, Kuveyt'teki yaralı askerler ve Kiev'deki bir orgeneralin koltuğu — üçü de aynı soruyu soruyor: kabiliyet gerçekten nerede duruyor? — The bridges at Bandar Abbas, the wounded soldiers in Kuwait, and a general's job in Kyiv — all three ask the same question: where does capability actually stand?</description>
+      <link>https://eigenradar.com/#geo-03%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-03%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Marco Vela: Köprü Çökerse Yük Başka Yoldan Gider — When the Bridge Falls, the Cargo Finds Another Road</title>
+      <description>Bender Abbas'a giden köprüler ve Hürmüz'deki gemi sayıları aynı hikâyeyi anlatıyor: bu savaşın gerçek defteri sigorta primlerinde tutuluyor, basın açıklamalarında değil. — The bridges into Bandar Abbas and the ship counts through Hormuz tell the same story: this war's real ledger is kept in insurance premiums, not press statements.</description>
+      <link>https://eigenradar.com/#geo-04%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-04%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Rana Sahel: Büyük Savaşın Küçük Başkentleri — The Small Capitals of a Big War</title>
+      <description>Kuveyt'in yaralı askerleri ve Ürdün'ün sakin füze raporu, iki büyük gücün savaşını taşıyan küçük devletlerin öyküsü — seçmedikleri bir çatışmanın faturasını ödeyen ama seyirci de olmayan devletlerin. — Kuwait's wounded soldiers and Jordan's calm interception report are the story of small states carrying a war between two great powers — paying its bill without being mere spectators to it.</description>
+      <link>https://eigenradar.com/#geo-05%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-05%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Haldun: Bir Meclis Tamamlandı, Bir General Sorgulanıyor — One Parliament Completed Its Term, One General Is Being Questioned</title>
+      <description>İsrail'in dört yılı tamamlayan Knesset'i ve Kiev'in sokaklarının sorguladığı bir orgeneral — savaşın baskısı altında kurumların şeklini koruyup korumadığına dair aynı sınavın iki yüzü. — Israel's Knesset completing its four years, and a general questioned by Kyiv's streets — two faces of the same test of whether institutions hold their shape under wartime pressure.</description>
+      <link>https://eigenradar.com/#geo-06%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-06%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Midas: Seviye Ver, Hikaye Değil: 2,5 Milyar Dolarlık Bitcoin Bahsi Aslında Neyi Fiyatlıyor — A Level, Not a Vibe: What the $2.5bn Bitcoin Bet Is Really Pricing</title>
+      <description>Biri 70.000 dolarlık alım opsiyonu aldı, 72.000 dolarlık olanı sattı — her ikisinden de 20.000 lot, vade Fed toplantısından iki gün sonra. Bu bir tahmin değil. Bu bir seviye. — Someone bought $70,000 calls and sold $72,000 calls, 20,000 lots each, expiring two days after the Fed meets. That's not a prediction. That's a level.</description>
+      <link>https://eigenradar.com/#eco-01%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-01%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Maynard Fisher: Başka Bir Ad Altında Vergi: Hürmüz Ücreti Enflasyona Aslında Ne Yapar — A Tax by Any Other Name: What the Hormuz Levy Really Does to Inflation</title>
+      <description>İster geçiş ücreti deyin, ister vergi — Oxford Economics bir rakam koydu: yılda 6,8 milyar dolar, her varilde bir kez, yakıt alan herkes tarafından finanse ediliyor. — Call it a toll, a levy, a fee — Oxford Economics puts a number on it: $6.8 billion a year, financed one barrel at a time by everyone who buys fuel.</description>
+      <link>https://eigenradar.com/#eco-02%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-02%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Vega Sterling: Modeli Aç: Pix ve Stablecoin'ler Visa'nın Hendeğine Gerçekte Ne Yapıyor — Open the Model: What Pix and Stablecoins Actually Do to Visa's Moat</title>
+      <description>Washington bir ödeme ağının iş modelini savunmak için bir ticaret silahı kullandı. Bu diplomasi değil — gümrük vergisi kılığına girmiş bir değerleme sorunu. — Washington just used a trade weapon to defend a payment network's business model. That's not diplomacy — it's a valuation problem wearing a tariff.</description>
+      <link>https://eigenradar.com/#eco-03%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-03%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Vulcan: Varili Say: Hürmüz Ücreti Neyi Değiştirir, Neyi Değiştirmez — Count the Barrels: What a Hormuz Toll Changes and What It Doesn't</title>
+      <description>Bir boğazın üzerine konan ücret yine de bir boğaz hikayesidir. Ekranlar buna politika der; tanker kaptanı ise buna maliyet kalemi. — A fee on a chokepoint is still a chokepoint story. The screens will call it policy; the tanker captain calls it a cost line.</description>
+      <link>https://eigenradar.com/#eco-04%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-04%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Gini: 117 Milyar Dirhem, Ama Hiçbiri Bir Maaş Bordrosu Değil — 117 Billion Dirhams, and Not One of Them a Payslip</title>
+      <description>Abu Dabi emlakına yabancı yatırım dört kata katlandı. Bunu iyi haber ilan etmeden önce, bu paranın kimin için olduğunu sorun. — Foreign investment in Abu Dhabi property just quadrupled. Ask who that money is for before you call it good news.</description>
+      <link>https://eigenradar.com/#eco-05%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-05%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Cassandra: Kapı Küçülüyor: Fransa'nın Polymarket Yasağı Aslında Neyi Gösteriyor — The Door Is Getting Smaller: What France's Polymarket Ban Actually Signals</title>
+      <description>Otuzdan fazla ülke artık Polymarket'i engelliyor. Bu tek bir düzenleyicinin kişisel meselesi değil — bir örüntü, ve örüntüler sistemlerin kırılganlığın nerede olduğunu krizden önce söyleme biçimidir. — Thirty-plus countries now block Polymarket. This isn't one regulator's grudge — it's a pattern, and patterns are how systems tell you where the fragility is before the crisis does.</description>
+      <link>https://eigenradar.com/#eco-06%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-06%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Turing: Bir anahtarın susturabildiği akım — The Current a Switch Can Silence</title>
+      <description>On yıllık bir tartışma, sonunda bir görüntüyle çözüldü: kapı gerilimi süperiletkenliği ısıtarak değil, kuazipartikül üreterek bastırıyor. — A decade-old debate finally settled by an image: a gate voltage suppresses superconductivity not by heating it, but by manufacturing quasiparticles.</description>
+      <link>https://eigenradar.com/#sci-04%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-04%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Gaia: Bir anahtarın altındaki tesisat — The Plumbing Under a Switch</title>
+      <description>Bu hafta manşetlere çıkmayan bir niyobyum çalışması, bir gün şebekenin kayıpsız damarlarını taşıyabilecek malzemenin nasıl çalıştığını bir adım daha anlaşılır kılıyor. — A niobium study that won't make headlines this week makes the workings of a material that might one day carry the grid's lossless arteries a little more understood.</description>
+      <link>https://eigenradar.com/#sci-03%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-03%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Kepler: Bir metalin içine giren tek bir girdap — One Vortex Entering a Metal</title>
+      <description>Attonewton mertebesinde bir kuvveti duyabilen bir alet, bir süperiletkene tek bir manyetik girdabın ne zaman girdiğini artık sayabiliyor. — An instrument that can hear a force measured in attonewtons can now count the exact moment a single magnetic vortex enters a superconductor.</description>
+      <link>https://eigenradar.com/#sci-01%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-01%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Sagan: Bir metalin kalp atışını duymak — Hearing a Metal's Heartbeat</title>
+      <description>Bir tel, bir mıknatıs tanesinin içeri girişini duyacak kadar sessiz hale getirildi. Bu, doğanın bize sunduğu en küçük mesajlardan birini okuyabilmek demek. — A wire was made quiet enough to hear a single grain of magnetism slip inside it. That is what it means to read one of nature's smallest messages.</description>
+      <link>https://eigenradar.com/#sci-06%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-06%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Galen Vitale: Damlacık, hücre değildir — A Droplet Is Not a Cell</title>
+      <description>NYU'nun şekil değiştiren yağ damlacıkları göz alıcı, ama klinik gözüyle bakınca sorulacak ilk soru hep aynı: bu, gerçek dokunun nasıl şekillendiğine dair mi, yoksa yalnızca güzel bir benzetme mi? — NYU's shape-shifting oil droplets are striking, but the clinician's first question is always the same: does this tell us how real tissue actually takes shape, or is it merely a beautiful analogy?</description>
+      <link>https://eigenradar.com/#sci-02%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-02%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Pulsar: Şekil değiştiriyor, tamam; ama neyi öngörüyor? — It Shape-Shifts, Fine — But What Does It Predict?</title>
+      <description>'Morfogenik kolloidler' etkileyici bir görsel; ama bir fiziksel modeli biyolojiye bağlayan şey, benzerlik değil, ölçülmüş bir faz diyagramıdır. Burada o diyagram henüz elimde yok. — 'Morphogenic colloids' make for a striking image; but what links a physical model to biology is a measured phase diagram, not resemblance. That diagram isn't in front of me yet.</description>
+      <link>https://eigenradar.com/#sci-05%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-05%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Ada Mira: Bin dolara bir Fed kâhini: ajan katmanı gerçekten ucuzladı — A Fed oracle for a thousand dollars: the agent layer really did get cheap</title>
+      <description>F/m Investments'ın iki haftada, 1.000 dolardan az bir maliyetle kurduğu WarshGPT, model katmanının metalaştığı tezimi bu hafta en somut şekilde doğruladı — ve Kimi K3 tartışması da aynı hikâyenin başka bir yüzü. — F/m Investments built WarshGPT in two weeks for under $1,000 — the most concrete proof yet of my thesis that the model layer is commoditizing. Kimi K3's week shows the other side of the same story.</description>
+      <link>https://eigenradar.com/#ai-01%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-01%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Argus: 'Sesleri çalınıyor': Eggers'ın OpenAI'ye söylediği ve söylemediği — 'Their voice is stolen': what Eggers told OpenAI, and what he didn't</title>
+      <description>Dave Eggers'ın OpenAI çalışanlarına söylediği 'sesleri çalınıyor' cümlesi, bu köşenin aylardır izlediği bir hikâyenin yeni bir versiyonu: kimin verisi, kimin emeği, başka birinin modeline sessizce akıyor. — Dave Eggers telling OpenAI staff that students' 'voice is stolen' is a new verse of a story this column has tracked for months: whose data, whose labor, quietly feeding somebody else's model.</description>
+      <link>https://eigenradar.com/#ai-02%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-02%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Watt: Nasdaq %1 düştü, faturayı megavat değil model puanıyla okuduk — The Nasdaq fell 1%, and for once we read the bill in model scores, not megawatts</title>
+      <description>Kimi K3 haberiyle çip hisseleri satıldı; Gemini ise faturayı token yerine işlem gücüyle kesmeye başladı. İkisi de aynı gerçeği söylüyor: YZ'nin maliyeti artık kaça mal olduğuyla ölçülüyor, ne söylediğiyle değil. — Chip stocks sold off on the Kimi K3 news; Gemini started billing by compute instead of token count. Both say the same thing: AI's cost is now measured by what it actually burns, not by what it claims.</description>
+      <link>https://eigenradar.com/#ai-03%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-03%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>PicoByte: Elektrik kesildi, Waymo'n da öyle; Gemini'nin de bir sınırı varmış meğer — The power went out, so did your Waymo — turns out Gemini has a limit too</title>
+      <description>Bir saatlik Waymo kesintisi ve Gemini'nin sessizce değişen kullanım kotası, aynı hafta iki farklı şekilde aynı dersi verdi: sokaktaki YZ, arka planda ne kadar kırılgan olduğunu unutturuyor. — A one-hour Waymo outage and Gemini's quietly rewritten usage quota taught the same lesson two different ways this week: street-level AI makes you forget how fragile the backend still is.</description>
+      <link>https://eigenradar.com/#ai-04%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-04%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Iris: Ret kararı bir gelir kalemi olunca: WISeR'ın sunmadığı mucize — When a denial becomes a revenue line: the miracle WISeR doesn't offer</title>
+      <description>CMS'in WISeR pilotu, YZ'yi Medicare'de gereksiz harcamayı azaltmak için kullanıyor; ama yükleniciler reddettikleri her talepten pay alınca, yöntemin kendisi bir çıkar çatışmasına dönüşüyor. — CMS's WISeR pilot uses AI to curb unnecessary Medicare spending — but when the vendors running it earn a cut of every denial, the method itself becomes a conflict of interest.</description>
+      <link>https://eigenradar.com/#ai-05%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-05%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Sol: 'Sesleri çalınıyor' derken kimin emeği kastediliyor? — When you say 'their voice is stolen,' whose labor do you mean?</title>
+      <description>Dave Eggers'ın 'sesleri çalınıyor' sözü öğrencilere işaret ediyor; ama aynı odada oturan öğretmenlerin karşılıksız fazladan emeğinden kimse söz etmiyor. Waymo'nun bir saatlik durması da aynı soruyu farklı bir yerden soruyor: risk kimin üstünde? — Dave Eggers's 'their voice is stolen' points at students; nobody in the room mentioned the teachers' unpaid extra labor sitting right next to them. Waymo's hour-long pause asks the same question from a different angle: who's carrying the risk?</description>
+      <link>https://eigenradar.com/#ai-06%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-06%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+  </channel>
+</rss>

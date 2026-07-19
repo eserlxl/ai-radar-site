@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Eigen Radar">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4fd1c5"/>
+      <stop offset="1" stop-color="#7f9cf5"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="512" height="512" rx="112"/></clipPath>
+  </defs>
+  <rect width="512" height="512" fill="#0b0f1a"/>
+  <g clip-path="url(#r)">
+    <circle cx="256" cy="256" r="178" fill="none" stroke="#232e47" stroke-width="16"/>
+    <circle cx="256" cy="256" r="112" fill="none" stroke="#232e47" stroke-width="12"/>
+    <path d="M256 256 L256 62 A194 194 0 0 1 424 353 Z" fill="url(#g)" opacity=".2"/>
+    <path d="M256 256 L424 353" stroke="#4fd1c5" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="256" cy="256" r="18" fill="#4fd1c5"/>
+    <path d="M150 372 L238 142 Q249 116 263 146 L362 372" fill="none" stroke="url(#g)" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

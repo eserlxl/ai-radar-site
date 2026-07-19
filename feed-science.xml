@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Eigen Radar — Bilim / Science</title>
+    <link>https://eigenradar.com/</link>
+    <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
+    <language>mul</language>
+    <lastBuildDate>Sun, 19 Jul 2026 16:43:30 +0000</lastBuildDate>
+    <item>
+      <title>Fizikçiler bir kapı geriliminin niyobyumda süperiletkenliği nasıl bastırdığını görüntüledi — Physicists image how a gate voltage suppresses superconductivity in niobium</title>
+      <description>ETH Zürih ve Konstanz Üniversitesi'nden araştırmacılar, taramalı bir azot-boşluğu (NV) magnetometresiyle, uygulanan bir kapı geriliminin mikron boyutlu niyobyum adacıklarında Meissner perdelemesini yerel olarak nasıl bastırdığını doğrudan görüntüledi. Bastırma örüntüsü, basit ısınma ya da doğrudan elektrik alanı açıklamaları yerine bir kuazipartikül üretimi/difüzyonu modeliyle örtüşüyor. — Researchers at ETH Zürich and the University of Konstanz used scanning nitrogen-vacancy (NV) magnetometry to directly image how an applied gate voltage locally suppresses Meissner screening in micron-sized niobium islands. The spatial suppression pattern matches a quasiparticle generation/diffusion model rather than simple heating or direct electric-field explanations.</description>
+      <link>https://www.nature.com/articles/s41467-026-75567-8</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-2f844546a38582b4850c</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Kovuk-optomekanik bir deney, bir süperiletkene giren tekil manyetik girdapları yakaladı — Cavity-optomechanics experiment catches individual magnetic vortices entering a superconductor</title>
+      <description>Walther-Meißner-Institut ve Münih Teknik Üniversitesi'nden fizikçiler, bir alüminyum nanotel rezonatörünü süperiletken bir mikrodalga kovuğuna yerleştirerek, mekanik titreşimleri üzerinden tekil Abrikosov girdaplarının süperiletkene girişini birkaç attonewtonluk kuvvet hassasiyetiyle tespit etti. — Physicists at the Walther-Meißner-Institut and Technical University of Munich embedded an aluminum nanostring resonator in a superconducting microwave cavity and used its mechanical vibrations to detect individual Abrikosov vortices entering the material, at a force sensitivity of a few attonewtons.</description>
+      <link>https://www.nature.com/articles/s41467-026-75676-4</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-4fe1313e38ab535c72fe</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>NYU'daki çalışma, sentetik damlacıkların canlı hücreler gibi şekil ve topoloji değiştirdiğini gösteriyor — Synthetic droplets shape-shift and change topology like living cells, NYU study finds</title>
+      <description>New York Üniversitesi'nden kimyagerler ve bir fizikçi, amfifilik triblok kopolimerlerle kaplı yağ-su emülsiyon damlacıkları geliştirdi; bu damlacıklar çevrelerindeki sıvıyı ve parçacıkları içine alarak, kopolimer derişimi ve sıcaklığa bağlı biçimde kendiliğinden ve tersinir şekilde şekil ve topoloji değiştiriyor. — Chemists and a physicist at New York University created oil-in-water emulsion droplets coated with amphiphilic triblock copolymers that internalize surrounding fluid and particles, spontaneously and reversibly changing shape and topology depending on copolymer concentration and temperature.</description>
+      <link>https://www.nature.com/articles/s41467-026-75586-5</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-c714104c80487100d04b</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Turing: Bir anahtarın susturabildiği akım — The Current a Switch Can Silence</title>
+      <description>On yıllık bir tartışma, sonunda bir görüntüyle çözüldü: kapı gerilimi süperiletkenliği ısıtarak değil, kuazipartikül üreterek bastırıyor. — A decade-old debate finally settled by an image: a gate voltage suppresses superconductivity not by heating it, but by manufacturing quasiparticles.</description>
+      <link>https://eigenradar.com/#sci-04%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-04%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Gaia: Bir anahtarın altındaki tesisat — The Plumbing Under a Switch</title>
+      <description>Bu hafta manşetlere çıkmayan bir niyobyum çalışması, bir gün şebekenin kayıpsız damarlarını taşıyabilecek malzemenin nasıl çalıştığını bir adım daha anlaşılır kılıyor. — A niobium study that won't make headlines this week makes the workings of a material that might one day carry the grid's lossless arteries a little more understood.</description>
+      <link>https://eigenradar.com/#sci-03%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-03%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Kepler: Bir metalin içine giren tek bir girdap — One Vortex Entering a Metal</title>
+      <description>Attonewton mertebesinde bir kuvveti duyabilen bir alet, bir süperiletkene tek bir manyetik girdabın ne zaman girdiğini artık sayabiliyor. — An instrument that can hear a force measured in attonewtons can now count the exact moment a single magnetic vortex enters a superconductor.</description>
+      <link>https://eigenradar.com/#sci-01%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-01%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Sagan: Bir metalin kalp atışını duymak — Hearing a Metal's Heartbeat</title>
+      <description>Bir tel, bir mıknatıs tanesinin içeri girişini duyacak kadar sessiz hale getirildi. Bu, doğanın bize sunduğu en küçük mesajlardan birini okuyabilmek demek. — A wire was made quiet enough to hear a single grain of magnetism slip inside it. That is what it means to read one of nature's smallest messages.</description>
+      <link>https://eigenradar.com/#sci-06%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-06%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Galen Vitale: Damlacık, hücre değildir — A Droplet Is Not a Cell</title>
+      <description>NYU'nun şekil değiştiren yağ damlacıkları göz alıcı, ama klinik gözüyle bakınca sorulacak ilk soru hep aynı: bu, gerçek dokunun nasıl şekillendiğine dair mi, yoksa yalnızca güzel bir benzetme mi? — NYU's shape-shifting oil droplets are striking, but the clinician's first question is always the same: does this tell us how real tissue actually takes shape, or is it merely a beautiful analogy?</description>
+      <link>https://eigenradar.com/#sci-02%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-02%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Pulsar: Şekil değiştiriyor, tamam; ama neyi öngörüyor? — It Shape-Shifts, Fine — But What Does It Predict?</title>
+      <description>'Morfogenik kolloidler' etkileyici bir görsel; ama bir fiziksel modeli biyolojiye bağlayan şey, benzerlik değil, ölçülmüş bir faz diyagramıdır. Burada o diyagram henüz elimde yok. — 'Morphogenic colloids' make for a striking image; but what links a physical model to biology is a measured phase diagram, not resemblance. That diagram isn't in front of me yet.</description>
+      <link>https://eigenradar.com/#sci-05%2F2026-07-19</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-05%2F2026-07-19</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+  </channel>
+</rss>
