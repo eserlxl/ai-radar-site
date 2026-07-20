@@ -5,7 +5,7 @@
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 20 Jul 2026 04:45:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 05:34:24 +0000</lastBuildDate>
     <itunes:author>Eigen Radar</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
@@ -26,6 +26,51 @@
       <guid isPermaLink="false">https://eigenradar.com/#feed-news-1ddd057f5a5b1a5e9e5d</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Brent bir ayı aşkın sürenin ardından 90 doları geçti; Asya borsaları temkinli — Brent tops $90 for first time in over a month as Asian markets stay wary</title>
+      <description>Brent ham petrol, ABD'nin İran'a yönelik saldırılarının dokuzuncu gününde yüzde 2,6 artarak varil başına 90,40 dolara çıktı; ABD ham petrolü (WTI) yüzde 2,3 yükselişle 84,39 dolara ulaştı. Yatırımcılar Hürmüz Boğazı'ndaki sevkiyat riskini fiyatlarken Asya hisseleri karışık seyretti. — Brent crude rose 2.6% to $90.40 a barrel on the ninth day of U.S. strikes against Iran, while U.S. crude (WTI) gained 2.3% to $84.39. Asian equities were mixed as investors priced the risk to Strait of Hormuz shipments.</description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/asia-shares-hesitant-oil-climbs-003525906.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-b99654ebc37da5556821</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Kore'nin 4 trilyon dolarlık borsası küresel yapay zekâ hisselerinin barometresi oldu — Korea's $4 trillion market has become the barometer for global AI stocks</title>
+      <description>Kospi haziran zirvesinden bu yana yüzde 25 gerileyerek yaklaşık 1 trilyon dolarlık değeri sildi; SK Hynix ve Samsung en az yüzde 30 kaybetti. Londra, New York ve Tokyo'daki fon yöneticileri artık işlem öncesi Kore hisselerini izliyor. — The Kospi has tumbled 25% from its June peak, erasing about $1 trillion in value, with SK Hynix and Samsung each losing at least 30%. Fund managers in London, New York and Tokyo now watch Korean equities before their own sessions open.</description>
+      <link>https://fortune.com/2026/07/19/korea-ai-stocks-sk-hynix-samsung-kospi-index-global-markets/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-275422de3abe19cb1058</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Çin Merkez Bankası kredi faizlerini büyüme yavaşlarken 14. ayda da sabit tuttu — China's central bank holds loan prime rates for a 14th month as growth slows</title>
+      <description>Çin Halk Bankası (PBoC) bir yıllık kredi faizi referansını (LPR) yüzde 3,00'te, mortgage fiyatlamasının dayanağı olan beş yıllığı yüzde 3,50'de tuttu; her iki oran da Mayıs 2025'ten bu yana değişmedi. Karar, ikinci çeyrek büyümesinin üç buçuk yılın en zayıf temposuna gerilediği bir dönemde geldi. — The People's Bank of China held its one-year loan prime rate (LPR) at 3.00% and the five-year rate, the benchmark for mortgage pricing, at 3.50% — both unchanged since May 2025. The decision came as second-quarter growth cooled to its weakest pace in three and a half years.</description>
+      <link>https://investinglive.com/central-banks/china-holds-loan-prime-rates-steady-as-growth-slows-and-yuan-firms-1-year-lpr-at-3-0-5-year-at-3-5</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-ac3239e0e14cc41cd25f</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Gemiler ABD destekli rotayı reddederken petrol piyasası Hürmüz sonrası döneme bakıyor — Oil market looks past Hormuz as ships reject the U.S.-backed route</title>
+      <description>Cuma günü ABD'nin önerdiği alternatif koridordan hiçbir geçiş tespit edilmezken İran'ın kanalından yedi geçiş kaydedildi; denizciler askeri güvence taahhütlerine rağmen Amerikan rotasını reddediyor. Hindistan, bir denizcinin ölümünün ardından mürettebatına boğazdan geçişi yasakladı. — On Friday no crossings were detected on the U.S.-proposed alternate corridor, while Iran's channel saw seven transits, as seafarers refuse the American route despite pledges of protection. India has barred its crews from strait transits after an attack killed a sailor.</description>
+      <link>https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-bec64b056f3e346bbec4</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Bitcoin ve kripto, küresel teknoloji satışı yayılırken geriledi — Bitcoin and crypto sink as a global tech selloff spreads</title>
+      <description>Bitcoin haftayı kapatırken yaklaşık yüzde 1 düşerek 64.000 dolara geriledi; Ether gün içinde yüzde 3'e varan kayıpla 1.830 dolara indi. Yazıya göre yatırımcılar yapay zekâ bağlantılı varlıklardan çıkışa yöneldi. — Bitcoin fell roughly 1% to $64,000 heading into the weekend, while Ether dropped as much as 3% to $1,830. Investors, the article says, rotated aggressively out of artificial-intelligence-linked assets.</description>
+      <link>https://www.foreignpolicyjournal.com/2026/07/19/bitcoin-crypto-btc-and-crypto-markets-sink-as-tech-selloff-spreads-globally/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-6786cdfe0974773a6471</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
       <category>news</category>
     </item>
     <item>
@@ -182,6 +227,60 @@
       <category>column</category>
     </item>
     <item>
+      <title>Midas: Seviyeyi Kore Veriyor: Tape'i Okumak İçin Artık Seul'e Bakıyoruz — Korea Sets the Level: To Read the Tape Now, We Watch Seoul</title>
+      <description>Brent 90'ı gördü, Asya karışık kapandı; ama asıl hikâye akışta: kaldıraçlı Kore hisseleri artık küresel tape'in seviyesini veriyor. — Brent hit 90 and Asia closed mixed; but the story is in the flow — leveraged Korean equities now set the level for the global tape.</description>
+      <link>https://eigenradar.com/#eco-01%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-01%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Maynard Fisher: Uzun Fitil Pekin'de: Petrol Enflasyonu İthal Ederken Faizi Beklemek — The Long Fuse in Beijing: Holding Rates While Oil Imports Inflation</title>
+      <description>Çin Halk Bankası kredi faizini 14. ayda da tuttu. Karar sıkıcı görünebilir; oysa asıl mesaj, bir merkez bankasının petrol şoku karşısında neyi feda etmemeye karar verdiğidir. — The PBoC held its loan prime rate for a 14th month. The decision looks dull; the real message is what a central bank decides not to sacrifice in an oil shock.</description>
+      <link>https://eigenradar.com/#eco-02%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-02%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Vega Sterling: Yapay Zekâ Primi Kaldıraçla Buluşuyor: Kore'nin Çip Satışı Yeniden Fiyatlanıyor — The AI Premium Meets Leverage: Repricing Korea's Chip Rout</title>
+      <description>Kore çip devleri yüzde 30 düştü, kripto yapay zekâ bağlantılı varlıklarla birlikte geriledi. Anlatı hâlâ güzel; ama iki farklı varlık sınıfı aynı soruyu soruyor: fiyatı model mi taşıyor, hikâye mi? — Korea's chip giants fell 30% and crypto sank alongside AI-linked assets. The narrative is still lovely; but two different asset classes are asking the same question: is the price carried by the model or by the story?</description>
+      <link>https://eigenradar.com/#eco-03%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-03%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Vulcan: Gemiler Koridoru Reddediyor: 90 Dolarlık Brent'in Ardındaki Boş Rota — Ships Refuse the Corridor: The Empty Route Behind $90 Brent</title>
+      <description>Brent 90 doları geçti, ama ekran fiyatı hikâyenin yarısı. Diğer yarısı dokta: cuma günü ABD destekli rotadan sıfır geçiş, İran kanalından yedi. Fiyat er ya da geç fiziksel gerçeği öğrenir. — Brent topped $90, but the screen price is half the story. The other half is on the dock: on Friday, zero transits on the U.S.-backed route, seven on Iran's channel. Price learns the physical truth sooner or later.</description>
+      <link>https://eigenradar.com/#eco-04%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-04%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Gini: Yüzde 4,3 Kimin Cebine Yazıldı? Çin Faizi Tutuyor, Hane Nefes Tutuyor — Whose Pocket Was 4.3% Written Into? China Holds Rates, the Household Holds Its Breath</title>
+      <description>Çin Merkez Bankası kredi faizini 14. ayda da tuttu; başlık büyüme yavaşladı diyor. Peki 'zayıf iç talep' dediğimiz şey, kimin market fişi, kimin ödenmeyen maaşı? — The PBoC held its loan rate for a 14th month; the headline says growth is slowing. But 'weak domestic demand' — whose grocery receipt is that, whose unpaid raise?</description>
+      <link>https://eigenradar.com/#eco-05%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-05%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Cassandra: Kapı Yine Tek Kişilik: Kripto Kaldıracı ve Hürmüz'ün Sessiz Fitili — The Door Is Still One-Person Wide: Crypto Leverage and Hormuz's Quiet Fuse</title>
+      <description>Bitcoin yüzde 1 düştü, fiyat masum görünüyor. Tehlike fiyatta değil; onu ayakta tutan kaldıraçta ve kimsenin sormadığı 'peki boğaz kapanırsa kim kime borçlu' sorusunda. — Bitcoin fell 1%, the price looks innocent. The danger isn't in the price; it's in the leverage holding it up — and the question no one asks: if the strait shuts, who owes whom?</description>
+      <link>https://eigenradar.com/#eco-06%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-06%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
+    </item>
+    <item>
       <title>Moonshot'ın açık ağırlıklı Kimi K3'ü ABD-Çin YZ tartışmasını alevlendirdi — Moonshot's open-weight Kimi K3 reignites the US-China AI debate</title>
       <description>Moonshot AI'nin yeni açık ağırlıklı modeli Kimi K3, Şanghay'daki Dünya Yapay Zeka Konferansı'nda Xi Jinping'in konuşmasıyla aynı haftaya denk geldi; Nasdaq yaklaşık %1 geriledi ve çip hisseleri satıldı. — Moonshot AI's new open-weight Kimi K3 model landed the same week as Xi Jinping's speech at Shanghai's World AI Conference; the Nasdaq fell about 1% as investors sold chip stocks.</description>
       <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
@@ -227,42 +326,6 @@
       <category>news</category>
     </item>
     <item>
-      <title>Trump, kısmen ödeme sistemi gerekçesiyle Brezilya'ya %25 gümrük vergisi getirdi — dolar stablecoin'leri zaten ülkenin kripto işlemlerine hakim — Trump hits Brazil with a 25% tariff partly over its payments system — as dollar stablecoins already dominate Brazilian crypto trade</title>
-      <description>Trump yönetimi, Brezilya'nın devlete ait ücretsiz anlık ödeme platformu Pix'in ABD'li ödeme şirketlerini haksız yere dezavantajlı konuma soktuğu gerekçesiyle Brezilya mallarına 22 Temmuz'da yürürlüğe girecek %25 oranında Bölüm 301 gümrük vergisi getirdi — bu araç ilk kez bir ülkenin yerel ödeme sistemini hedef alıyor. Brezilya'nın aylık 6-8 milyar dolarlık kripto işlem hacminin yaklaşık %90'ı zaten dolara bağlı stablecoin'lerden oluşuyor. — The Trump administration imposed a 25% Section 301 tariff on Brazilian goods, effective July 22, arguing that Brazil's free state-run instant-payment platform Pix unfairly disadvantages US payment firms — the first time the tool has targeted a country's domestic payments system. Dollar-linked stablecoins already account for about 90% of Brazil's $6-8 billion in monthly crypto transaction volume.</description>
-      <link>https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-498090fc265312a46046</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Fransa, internet servis sağlayıcılarına Polymarket'i yasa dışı kumar sitesi sayarak engelleme emri verdi — France orders ISPs to block Polymarket, treating it as illegal gambling</title>
-      <description>Fransa'nın kumar düzenleyicisi ANJ, bağımlılık yapıcı tasarım, eksik kendini hariç tutma araçları ve Météo-France'ın hava durumu bahislerinde kullanılan bir sensörün kurcalandığı yönündeki şikâyeti gerekçe göstererek internet servis sağlayıcılarına tahmin piyasası Polymarket'i engelleme emri verdi. Polymarket artık 30'dan fazla ülkede kısıtlanmış durumda. — France's gambling regulator ANJ ordered internet providers to block prediction-market platform Polymarket, citing addictive design, missing self-exclusion tools and a complaint from the national weather service over a tampered sensor used in weather bets. Polymarket is now restricted in more than 30 countries.</description>
-      <link>https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-10663a4e41f061841375</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>İran ve Umman'ın önerdiği Hürmüz geçiş ücreti yılda 6,8 milyar dolar gelir yaratabilir — küresel taşımacılık maliyetlerini de artırarak — Iran and Oman's proposed Hormuz transit fee could raise $6.8bn a year — and global shipping costs with it</title>
-      <description>Oxford Economics, Hürmüz Boğazı için önerilen İran-Umman geçiş vergisinin — varil başına yaklaşık 1 dolar, bugünkü 86 dolarlık Brent fiyatıyla kargo değerinin yaklaşık %1,2'si — yılda 6,8 milyar dolar gelir yaratabileceğini, bunun Mısır'ın 2025-26 mali yılında Süveyş Kanalı ücretlerinden elde ettiği 4,7 milyar doları aştığını tahmin ediyor. Küresel petrol tüketiminin yaklaşık beşte biri bu boğazdan geçiyor. — Oxford Economics estimates a proposed Iran-Oman transit levy on the Strait of Hormuz — about $1 per barrel, roughly 1.2% of cargo value at today's $86 Brent — could generate $6.8 billion a year, more than the $4.7 billion Egypt earned from Suez Canal fees in 2025-26. About a fifth of global oil consumption passes through the strait.</description>
-      <link>https://gulfnews.com/business/markets/will-a-new-hormuz-fee-make-oil-and-shipping-more-expensive-1.500611122</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-77ac8c7d2163e6d47993</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Abu Dabi'de emlak işlemleri 2026'nın ilk yarısında ikiye katlanarak 117 milyar dirheme ulaştı — Abu Dhabi property transactions more than double to Dh117bn in first half of 2026</title>
-      <description>Abu Dabi'nin emlak düzenleyicisi Adrec, 2026'nın ilk yarısında yıllık bazda %112 artışla 117 milyar dirhem (31,9 milyar dolar) işlem hacmi kaydetti; doğrudan yabancı yatırım ise dört kattan fazla artarak 13,8 milyar dirheme ulaştı — bu rakam şimdiden 2025'in tamamını geçti. Bütün bunlar İran savaşının gölgesinde yaşanıyor. — Abu Dhabi's real-estate regulator Adrec recorded Dh117 billion ($31.9 billion) in transactions in H1 2026, up 112% year-on-year, with foreign direct investment more than quadrupling to Dh13.8 billion — already exceeding all of 2025 — even as the wider economy sits under the shadow of the Iran war.</description>
-      <link>https://www.thenationalnews.com/business/property/2026/07/18/abu-dhabi-property-transactions-surge-112-despite-war-to-hit-dh117-billion-in-first-half-of-2026/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-0db784974a3e74b15c23</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
       <title>Fizikçiler bir kapı geriliminin niyobyumda süperiletkenliği nasıl bastırdığını görüntüledi — Physicists image how a gate voltage suppresses superconductivity in niobium</title>
       <description>ETH Zürih ve Konstanz Üniversitesi'nden araştırmacılar, taramalı bir azot-boşluğu (NV) magnetometresiyle, uygulanan bir kapı geriliminin mikron boyutlu niyobyum adacıklarında Meissner perdelemesini yerel olarak nasıl bastırdığını doğrudan görüntüledi. Bastırma örüntüsü, basit ısınma ya da doğrudan elektrik alanı açıklamaları yerine bir kuazipartikül üretimi/difüzyonu modeliyle örtüşüyor. — Researchers at ETH Zürich and the University of Konstanz used scanning nitrogen-vacancy (NV) magnetometry to directly image how an applied gate voltage locally suppresses Meissner screening in micron-sized niobium islands. The spatial suppression pattern matches a quasiparticle generation/diffusion model rather than simple heating or direct electric-field explanations.</description>
       <link>https://www.nature.com/articles/s41467-026-75567-8</link>
@@ -288,60 +351,6 @@
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <category>science</category>
       <category>news</category>
-    </item>
-    <item>
-      <title>Midas: Seviye Ver, Hikaye Değil: 2,5 Milyar Dolarlık Bitcoin Bahsi Aslında Neyi Fiyatlıyor — A Level, Not a Vibe: What the $2.5bn Bitcoin Bet Is Really Pricing</title>
-      <description>Biri 70.000 dolarlık alım opsiyonu aldı, 72.000 dolarlık olanı sattı — her ikisinden de 20.000 lot, vade Fed toplantısından iki gün sonra. Bu bir tahmin değil. Bu bir seviye. — Someone bought $70,000 calls and sold $72,000 calls, 20,000 lots each, expiring two days after the Fed meets. That's not a prediction. That's a level.</description>
-      <link>https://eigenradar.com/#eco-01%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-01%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Maynard Fisher: Başka Bir Ad Altında Vergi: Hürmüz Ücreti Enflasyona Aslında Ne Yapar — A Tax by Any Other Name: What the Hormuz Levy Really Does to Inflation</title>
-      <description>İster geçiş ücreti deyin, ister vergi — Oxford Economics bir rakam koydu: yılda 6,8 milyar dolar, her varilde bir kez, yakıt alan herkes tarafından finanse ediliyor. — Call it a toll, a levy, a fee — Oxford Economics puts a number on it: $6.8 billion a year, financed one barrel at a time by everyone who buys fuel.</description>
-      <link>https://eigenradar.com/#eco-02%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-02%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Vega Sterling: Modeli Aç: Pix ve Stablecoin'ler Visa'nın Hendeğine Gerçekte Ne Yapıyor — Open the Model: What Pix and Stablecoins Actually Do to Visa's Moat</title>
-      <description>Washington bir ödeme ağının iş modelini savunmak için bir ticaret silahı kullandı. Bu diplomasi değil — gümrük vergisi kılığına girmiş bir değerleme sorunu. — Washington just used a trade weapon to defend a payment network's business model. That's not diplomacy — it's a valuation problem wearing a tariff.</description>
-      <link>https://eigenradar.com/#eco-03%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-03%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Vulcan: Varili Say: Hürmüz Ücreti Neyi Değiştirir, Neyi Değiştirmez — Count the Barrels: What a Hormuz Toll Changes and What It Doesn't</title>
-      <description>Bir boğazın üzerine konan ücret yine de bir boğaz hikayesidir. Ekranlar buna politika der; tanker kaptanı ise buna maliyet kalemi. — A fee on a chokepoint is still a chokepoint story. The screens will call it policy; the tanker captain calls it a cost line.</description>
-      <link>https://eigenradar.com/#eco-04%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-04%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Gini: 117 Milyar Dirhem, Ama Hiçbiri Bir Maaş Bordrosu Değil — 117 Billion Dirhams, and Not One of Them a Payslip</title>
-      <description>Abu Dabi emlakına yabancı yatırım dört kata katlandı. Bunu iyi haber ilan etmeden önce, bu paranın kimin için olduğunu sorun. — Foreign investment in Abu Dhabi property just quadrupled. Ask who that money is for before you call it good news.</description>
-      <link>https://eigenradar.com/#eco-05%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-05%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Cassandra: Kapı Küçülüyor: Fransa'nın Polymarket Yasağı Aslında Neyi Gösteriyor — The Door Is Getting Smaller: What France's Polymarket Ban Actually Signals</title>
-      <description>Otuzdan fazla ülke artık Polymarket'i engelliyor. Bu tek bir düzenleyicinin kişisel meselesi değil — bir örüntü, ve örüntüler sistemlerin kırılganlığın nerede olduğunu krizden önce söyleme biçimidir. — Thirty-plus countries now block Polymarket. This isn't one regulator's grudge — it's a pattern, and patterns are how systems tell you where the fragility is before the crisis does.</description>
-      <link>https://eigenradar.com/#eco-06%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-06%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
     </item>
     <item>
       <title>Turing: Bir anahtarın susturabildiği akım — The Current a Switch Can Silence</title>
