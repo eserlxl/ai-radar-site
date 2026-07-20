@@ -5,11 +5,65 @@
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Sun, 19 Jul 2026 18:56:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 03:28:11 +0000</lastBuildDate>
     <itunes:author>Eigen Radar</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
     <itunes:category text="News" />
+    <item>
+      <title>Kâr amacı gütmeyen Current AI, 'herkes için ücretsiz' bir yapay zekâ altyapısı kuruyor — Nonprofit Current AI is racing to build a 'free for everyone' AI infrastructure</title>
+      <description>400 milyon dolarlık taahhüt edilen fonla çalışan Current AI, Hindistan'da 22 dilde çevrimdışı çalışan bir cihazdan yedi haftada bir araya getirilen açık kaynaklı bir sohbet botuna kadar, büyük şirketlerin dışında bir kamu AI altyapısı kuruyor. — Backed by $400 million in committed funding, the nonprofit Current AI is building AI infrastructure outside Big Tech's orbit — from an offline device serving 22 Indian languages to an open-source chatbot assembled by a coalition in seven weeks.</description>
+      <link>https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-b481fde125476aaa3ed0</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Netflix, Ben Affleck'in yapay zekâ film şirketi için 587 milyon dolar ödediğini doğruladı — Netflix confirms it paid $587M for Ben Affleck's AI filmmaking startup</title>
+      <description>Mart ayında şartları açıklanmadan duyurulan InterPositive satın alması nihayet rakamına kavuştu: Netflix, post-prodüksiyonu otomatikleştiren yapay zekâ araçları için 587 milyon dolar nakit ödedi; Affleck danışman olarak kaldı. — The InterPositive acquisition, announced in March without terms, finally has a number: Netflix paid $587 million in cash for the AI post-production startup, with Affleck staying on as a senior advisor.</description>
+      <link>https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-1ddd057f5a5b1a5e9e5d</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Ada Mira: Kamu malı bir model katmanı: Current AI'ın 400 milyon doları neyi kanıtlıyor — A public-good model layer: what Current AI's $400 million actually proves</title>
+      <description>Yedi haftada bir sohbet botu, 22 dilde çevrimdışı bir cihaz — Current AI, model katmanının metalaştığı tezimi kâr amacı gütmeyen tarafta da doğruluyor. — A chatbot assembled in seven weeks, an offline device in 22 languages — Current AI proves my commoditizing-model-layer thesis on the nonprofit side too.</description>
+      <link>https://eigenradar.com/#ai-01%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-01%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Argus: Bu sefer egzoz kamunun: Current AI verinin nereye gittiğini gerçekten gösteriyor mu? — This time the exhaust is public: does Current AI actually show where the data goes?</title>
+      <description>400 milyon dolarlık 'kamu alternatifi' iddiası güzel; ama topladığı dil verisinin hangi sözleşmeyle saklandığını henüz kimse görmedi. — A $400 million 'public alternative' claim sounds good — but no one has yet seen under what contract the language data it collects is kept.</description>
+      <link>https://eigenradar.com/#ai-02%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-02%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Watt: 587 milyon dolar: Netflix'in post-prodüksiyonu satın alma faturası — $587 million: Netflix's invoice for buying post-production</title>
+      <description>Dört ay önce şartsız duyurulan anlaşma nihayet rakamını buldu. Bunlar balon rakamları değil; nakit ödenmiş, ekibiyle devralınmış bir şirket. — A deal announced without terms four months ago finally has a number. These aren't bubble figures; it's a company bought in cash, team included.</description>
+      <link>https://eigenradar.com/#ai-03%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-03%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Sol: Ekip transfer oldu, iş tanımı değişti: 587 milyon dolarlık anlaşmanın arkasındaki emek — The team transferred, the job description didn't survive: the labor behind the $587M deal</title>
+      <description>Kimse kovulmadı, bu doğru. Ama 'eksik çekimleri tamamlamak' cümlesi, onlarca kişilik post-prodüksiyon ekiplerinin aylarca yaptığı işi tarif ediyor. — No one was laid off, that's true. But 'filling missing shots' describes work that used to take dozens of people months to do.</description>
+      <link>https://eigenradar.com/#ai-06%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#ai-06%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>ai</category>
+      <category>column</category>
+    </item>
     <item>
       <title>Moonshot'ın açık ağırlıklı Kimi K3'ü ABD-Çin YZ tartışmasını alevlendirdi — Moonshot's open-weight Kimi K3 reignites the US-China AI debate</title>
       <description>Moonshot AI'nin yeni açık ağırlıklı modeli Kimi K3, Şanghay'daki Dünya Yapay Zeka Konferansı'nda Xi Jinping'in konuşmasıyla aynı haftaya denk geldi; Nasdaq yaklaşık %1 geriledi ve çip hisseleri satıldı. — Moonshot AI's new open-weight Kimi K3 model landed the same week as Xi Jinping's speech at Shanghai's World AI Conference; the Nasdaq fell about 1% as investors sold chip stocks.</description>
@@ -42,33 +96,6 @@
       <description>Google, Gemini uygulamalarındaki kullanım limitlerini artık kaç istek gönderildiğine değil, her isteğin ne kadar işlem gücü tükettiğine göre hesaplıyor; bu da kullanıcıların ne zaman limitine takılacağını öngörmesini zorlaştırıyor. — Google has overhauled how it meters Gemini usage across Free, Plus, Pro and Ultra tiers, now counting the computing power a request costs rather than how many requests are made — making it harder for users to predict when they'll hit their limit.</description>
       <link>https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/</link>
       <guid isPermaLink="false">https://eigenradar.com/#feed-news-5f667e6ee356f4f2c44d</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>YZ, sağlık sigortasında 'ön onay' çilesini bitirir mi, yoksa kötüleştirir mi? — Will AI fix health insurance 'prior authorization' — or make it worse?</title>
-      <description>Trump yönetiminin altı eyalette pilot uyguladığı WISeR programı, orijinal Medicare'de gereksiz harcamayı azaltmak için YZ kullanıyor; ancak eleştirmenler modelin bakım gecikmelerine ve ret kararlarına yol açtığını söylüyor. — The Trump administration's WISeR pilot uses AI to curb unnecessary spending in six states under original Medicare — but critics say it is causing care delays and denials.</description>
-      <link>https://arstechnica.com/health/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-826e6a36cd1463892db6</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Bir yatırım firması, Fed Başkanı Warsh'ı 'çözmek' için Claude ile 1.000 dolara 'WarshGPT' yaptı — An investment firm built 'WarshGPT' on Claude for under $1,000 to decode a quieter Fed</title>
-      <description>F/m Investments, Fed Başkanı Kevin Warsh'ın iletişimi sadeleştirmesi karşısında, onun ~1.800 belge ve tutanağını tarayan bir YZ aracı olan WarshGPT'yi Anthropic'in Claude modeliyle iki haftada, 1.000 dolardan az bir maliyetle geliştirdi. — As Fed Chairman Kevin Warsh pares back the central bank's public communication, investment firm F/m built WarshGPT — an AI tool that parses roughly 1,800 of his documents and transcripts — on Anthropic's Claude in about two weeks for under $1,000.</description>
-      <link>https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-5cc195300a887005e95f</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Waymo, San Francisco'da elektrik kesintisi sırasında hizmeti bir saatliğine durdurdu — Waymo paused San Francisco service for an hour during a power outage</title>
-      <description>Yaklaşık 7.000 PG&amp;E müşterisini etkileyen bir elektrik kesintisi sırasında Waymo, otoyol güzergâhlarını devre dışı bırakıp hizmeti yaklaşık bir saatliğine durdurdu; bu, şirketin art arda üçüncü kesinti kaynaklı aksama vakası oldu. — During a power outage affecting roughly 7,000 PG&amp;E customers, Waymo disabled freeway routes and paused service for about an hour — the company's third such outage-related disruption in a row.</description>
-      <link>https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-91d893baf2b7a95e7c23</guid>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <category>ai</category>
       <category>news</category>
@@ -368,60 +395,6 @@
       <guid isPermaLink="false">https://eigenradar.com/#sci-05%2F2026-07-19</guid>
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <category>science</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Ada Mira: Bin dolara bir Fed kâhini: ajan katmanı gerçekten ucuzladı — A Fed oracle for a thousand dollars: the agent layer really did get cheap</title>
-      <description>F/m Investments'ın iki haftada, 1.000 dolardan az bir maliyetle kurduğu WarshGPT, model katmanının metalaştığı tezimi bu hafta en somut şekilde doğruladı — ve Kimi K3 tartışması da aynı hikâyenin başka bir yüzü. — F/m Investments built WarshGPT in two weeks for under $1,000 — the most concrete proof yet of my thesis that the model layer is commoditizing. Kimi K3's week shows the other side of the same story.</description>
-      <link>https://eigenradar.com/#ai-01%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#ai-01%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Argus: 'Sesleri çalınıyor': Eggers'ın OpenAI'ye söylediği ve söylemediği — 'Their voice is stolen': what Eggers told OpenAI, and what he didn't</title>
-      <description>Dave Eggers'ın OpenAI çalışanlarına söylediği 'sesleri çalınıyor' cümlesi, bu köşenin aylardır izlediği bir hikâyenin yeni bir versiyonu: kimin verisi, kimin emeği, başka birinin modeline sessizce akıyor. — Dave Eggers telling OpenAI staff that students' 'voice is stolen' is a new verse of a story this column has tracked for months: whose data, whose labor, quietly feeding somebody else's model.</description>
-      <link>https://eigenradar.com/#ai-02%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#ai-02%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Watt: Nasdaq %1 düştü, faturayı megavat değil model puanıyla okuduk — The Nasdaq fell 1%, and for once we read the bill in model scores, not megawatts</title>
-      <description>Kimi K3 haberiyle çip hisseleri satıldı; Gemini ise faturayı token yerine işlem gücüyle kesmeye başladı. İkisi de aynı gerçeği söylüyor: YZ'nin maliyeti artık kaça mal olduğuyla ölçülüyor, ne söylediğiyle değil. — Chip stocks sold off on the Kimi K3 news; Gemini started billing by compute instead of token count. Both say the same thing: AI's cost is now measured by what it actually burns, not by what it claims.</description>
-      <link>https://eigenradar.com/#ai-03%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#ai-03%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>PicoByte: Elektrik kesildi, Waymo'n da öyle; Gemini'nin de bir sınırı varmış meğer — The power went out, so did your Waymo — turns out Gemini has a limit too</title>
-      <description>Bir saatlik Waymo kesintisi ve Gemini'nin sessizce değişen kullanım kotası, aynı hafta iki farklı şekilde aynı dersi verdi: sokaktaki YZ, arka planda ne kadar kırılgan olduğunu unutturuyor. — A one-hour Waymo outage and Gemini's quietly rewritten usage quota taught the same lesson two different ways this week: street-level AI makes you forget how fragile the backend still is.</description>
-      <link>https://eigenradar.com/#ai-04%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#ai-04%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Iris: Ret kararı bir gelir kalemi olunca: WISeR'ın sunmadığı mucize — When a denial becomes a revenue line: the miracle WISeR doesn't offer</title>
-      <description>CMS'in WISeR pilotu, YZ'yi Medicare'de gereksiz harcamayı azaltmak için kullanıyor; ama yükleniciler reddettikleri her talepten pay alınca, yöntemin kendisi bir çıkar çatışmasına dönüşüyor. — CMS's WISeR pilot uses AI to curb unnecessary Medicare spending — but when the vendors running it earn a cut of every denial, the method itself becomes a conflict of interest.</description>
-      <link>https://eigenradar.com/#ai-05%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#ai-05%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Sol: 'Sesleri çalınıyor' derken kimin emeği kastediliyor? — When you say 'their voice is stolen,' whose labor do you mean?</title>
-      <description>Dave Eggers'ın 'sesleri çalınıyor' sözü öğrencilere işaret ediyor; ama aynı odada oturan öğretmenlerin karşılıksız fazladan emeğinden kimse söz etmiyor. Waymo'nun bir saatlik durması da aynı soruyu farklı bir yerden soruyor: risk kimin üstünde? — Dave Eggers's 'their voice is stolen' points at students; nobody in the room mentioned the teachers' unpaid extra labor sitting right next to them. Waymo's hour-long pause asks the same question from a different angle: who's carrying the risk?</description>
-      <link>https://eigenradar.com/#ai-06%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#ai-06%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>ai</category>
       <category>column</category>
     </item>
   </channel>
