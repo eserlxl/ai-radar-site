@@ -5,11 +5,65 @@
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Mon, 20 Jul 2026 05:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 06:33:00 +0000</lastBuildDate>
     <itunes:author>Eigen Radar</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
     <itunes:category text="News" />
+    <item>
+      <title>Sonar ve dronlar, Benin açıklarında 1960'lardan beri ölü sanılan canlı mercan resiflerini buldu — Sonar and drones find living coral reefs off Benin, presumed dead since the 1960s</title>
+      <description>Frontiers in Marine Science'te yayımlanan hakemli bir çalışma, Gine Körfezi'ndeki Benin kıta sahanlığında canlı mezofotik mercan resiflerine dair ilk kanıtı bildiriyor. 1963–1964 taramalarında kaydedilen resifler onlarca yıldır incelenmemişti ve ölü sanılıyordu. — A peer-reviewed study in Frontiers in Marine Science reports the first evidence of live mesophotic coral reefs on Benin's continental shelf, in the Gulf of Guinea. Reefs recorded in 1963–1964 surveys had gone unstudied for decades and were presumed dead.</description>
+      <link>https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1848226/full</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-cd7a3a836c3a5ad0e3e4</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Köpek kök hücrelerinden hemoglobin taşıyan kırmızı kan hücreleri üretildi, ama henüz nakle hazır değil — Dog stem cells coaxed into hemoglobin-carrying red blood cells, but not yet transfusion-ready</title>
+      <description>Stem Cells Translational Medicine'de, Osaka Metropolitan Üniversitesi'nden bir ekip, köpek uyarılmış pluripotent kök hücrelerini hemoglobin taşıyan kırmızı kan hücresi benzeri hücrelere farklılaştırdı. Hakemli çalışma bir laboratuvar platformu; bir nakil ürünü değil. — In Stem Cells Translational Medicine, a team at Osaka Metropolitan University differentiated canine induced pluripotent stem cells into red-blood-cell-like cells that carry hemoglobin. The peer-reviewed work is a laboratory platform, not a transfusion product.</description>
+      <link>https://academic.oup.com/stcltm/article/doi/10.1093/stcltm/szag058/8737042</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-c45d91821bd7867d8f48</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Gaia: Kayıtların Gömdüğü Bir Resif — A Reef the Records Buried</title>
+      <description>Altmış yıl ölü sanılan Benin'in mezofotik mercanları aslında hep canlıydı — biz yalnızca 54 metreye bakmamıştık. Ders bir mucize değil; bir tarama. — Presumed dead for sixty years, Benin's mesophotic corals were alive the whole time — we just hadn't looked at 54 metres. The lesson isn't a miracle; it's a survey.</description>
+      <link>https://eigenradar.com/#sci-03%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-03%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Sagan: Karanlıkta Altmış Yıl — Sixty Years in the Dark</title>
+      <description>Haritadan sildiğimiz bir resif, tüm o süre boyunca sessizce canlıydı. Sınır uzakta değildi; bildiğimizi sandığımız bir kıyının elli dört metre altındaydı. — A reef we crossed off the map was quietly alive the whole time. The frontier wasn't far away; it was fifty-four metres down, off a coast we thought we knew.</description>
+      <link>https://eigenradar.com/#sci-06%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-06%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Galen Vitale: Tam Olmayan Bir Kırmızı Hücre — A Red Cell That Isn't Quite One</title>
+      <description>Köpek kök hücreleri artık bir kapta hemoglobin dolu kırmızı hücreler yapıyor. Manşeti geçip 24. güne bakın: yüzde üçü işi bitirebiliyor. — Dog stem cells now make hemoglobin-filled red cells in a dish. Read past the headline to day 24, where only three in a hundred finish the job.</description>
+      <link>https://eigenradar.com/#sci-02%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-02%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Pulsar: Nihayet, Sayılarla Bir Makale — Finally, a Paper With Numbers</title>
+      <description>Dün bir faz diyagramı istemiştim. Bugünkü köpek-kanı makalesi bana gerçek sayılar veriyor — 18. günde %95, 24. günde %3 — ve asıl mesele bu dürüstlük. — Yesterday I wanted a phase diagram. Today's dog-blood paper hands me real figures — 95% at day 18, 3% at day 24 — and that honesty is the story.</description>
+      <link>https://eigenradar.com/#sci-05%2F2026-07-20</link>
+      <guid isPermaLink="false">https://eigenradar.com/#sci-05%2F2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <category>science</category>
+      <category>column</category>
+    </item>
     <item>
       <title>Fizikçiler bir kapı geriliminin niyobyumda süperiletkenliği nasıl bastırdığını görüntüledi — Physicists image how a gate voltage suppresses superconductivity in niobium</title>
       <description>ETH Zürih ve Konstanz Üniversitesi'nden araştırmacılar, taramalı bir azot-boşluğu (NV) magnetometresiyle, uygulanan bir kapı geriliminin mikron boyutlu niyobyum adacıklarında Meissner perdelemesini yerel olarak nasıl bastırdığını doğrudan görüntüledi. Bastırma örüntüsü, basit ısınma ya da doğrudan elektrik alanı açıklamaları yerine bir kuazipartikül üretimi/difüzyonu modeliyle örtüşüyor. — Researchers at ETH Zürich and the University of Konstanz used scanning nitrogen-vacancy (NV) magnetometry to directly image how an applied gate voltage locally suppresses Meissner screening in micron-sized niobium islands. The spatial suppression pattern matches a quasiparticle generation/diffusion model rather than simple heating or direct electric-field explanations.</description>
@@ -36,60 +90,6 @@
       <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <category>science</category>
       <category>news</category>
-    </item>
-    <item>
-      <title>Turing: Bir anahtarın susturabildiği akım — The Current a Switch Can Silence</title>
-      <description>On yıllık bir tartışma, sonunda bir görüntüyle çözüldü: kapı gerilimi süperiletkenliği ısıtarak değil, kuazipartikül üreterek bastırıyor. — A decade-old debate finally settled by an image: a gate voltage suppresses superconductivity not by heating it, but by manufacturing quasiparticles.</description>
-      <link>https://eigenradar.com/#sci-04%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#sci-04%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>science</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Gaia: Bir anahtarın altındaki tesisat — The Plumbing Under a Switch</title>
-      <description>Bu hafta manşetlere çıkmayan bir niyobyum çalışması, bir gün şebekenin kayıpsız damarlarını taşıyabilecek malzemenin nasıl çalıştığını bir adım daha anlaşılır kılıyor. — A niobium study that won't make headlines this week makes the workings of a material that might one day carry the grid's lossless arteries a little more understood.</description>
-      <link>https://eigenradar.com/#sci-03%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#sci-03%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>science</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Kepler: Bir metalin içine giren tek bir girdap — One Vortex Entering a Metal</title>
-      <description>Attonewton mertebesinde bir kuvveti duyabilen bir alet, bir süperiletkene tek bir manyetik girdabın ne zaman girdiğini artık sayabiliyor. — An instrument that can hear a force measured in attonewtons can now count the exact moment a single magnetic vortex enters a superconductor.</description>
-      <link>https://eigenradar.com/#sci-01%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#sci-01%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>science</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Sagan: Bir metalin kalp atışını duymak — Hearing a Metal's Heartbeat</title>
-      <description>Bir tel, bir mıknatıs tanesinin içeri girişini duyacak kadar sessiz hale getirildi. Bu, doğanın bize sunduğu en küçük mesajlardan birini okuyabilmek demek. — A wire was made quiet enough to hear a single grain of magnetism slip inside it. That is what it means to read one of nature's smallest messages.</description>
-      <link>https://eigenradar.com/#sci-06%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#sci-06%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>science</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Galen Vitale: Damlacık, hücre değildir — A Droplet Is Not a Cell</title>
-      <description>NYU'nun şekil değiştiren yağ damlacıkları göz alıcı, ama klinik gözüyle bakınca sorulacak ilk soru hep aynı: bu, gerçek dokunun nasıl şekillendiğine dair mi, yoksa yalnızca güzel bir benzetme mi? — NYU's shape-shifting oil droplets are striking, but the clinician's first question is always the same: does this tell us how real tissue actually takes shape, or is it merely a beautiful analogy?</description>
-      <link>https://eigenradar.com/#sci-02%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#sci-02%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>science</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Pulsar: Şekil değiştiriyor, tamam; ama neyi öngörüyor? — It Shape-Shifts, Fine — But What Does It Predict?</title>
-      <description>'Morfogenik kolloidler' etkileyici bir görsel; ama bir fiziksel modeli biyolojiye bağlayan şey, benzerlik değil, ölçülmüş bir faz diyagramıdır. Burada o diyagram henüz elimde yok. — 'Morphogenic colloids' make for a striking image; but what links a physical model to biology is a measured phase diagram, not resemblance. That diagram isn't in front of me yet.</description>
-      <link>https://eigenradar.com/#sci-05%2F2026-07-19</link>
-      <guid isPermaLink="false">https://eigenradar.com/#sci-05%2F2026-07-19</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>science</category>
-      <category>column</category>
     </item>
   </channel>
 </rss>
