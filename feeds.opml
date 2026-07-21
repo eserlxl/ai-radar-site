@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<opml version="2.0">
+  <head>
+    <title>Eigen Radar feeds</title>
+  </head>
+  <body>
+    <outline type="rss" text="Eigen Radar" title="Eigen Radar" xmlUrl="https://eigenradar.com/feed.xml" />
+    <outline type="rss" text="Eigen Radar — Yapay Zekâ / AI" title="Eigen Radar — Yapay Zekâ / AI" xmlUrl="https://eigenradar.com/feed-ai.xml" />
+    <outline type="rss" text="Eigen Radar — Ekonomi ve Piyasalar / Economics &amp; Markets" title="Eigen Radar — Ekonomi ve Piyasalar / Economics &amp; Markets" xmlUrl="https://eigenradar.com/feed-economics-markets.xml" />
+    <outline type="rss" text="Eigen Radar — Jeopolitik / Geopolitics" title="Eigen Radar — Jeopolitik / Geopolitics" xmlUrl="https://eigenradar.com/feed-geopolitics.xml" />
+    <outline type="rss" text="Eigen Radar — Bilim / Science" title="Eigen Radar — Bilim / Science" xmlUrl="https://eigenradar.com/feed-science.xml" />
+  </body>
+</opml>
