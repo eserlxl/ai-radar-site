@@ -5,125 +5,170 @@
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 21 Jul 2026 03:32:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 04:45:51 +0000</lastBuildDate>
     <itunes:author>Eigen Radar</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
     <itunes:category text="News" />
     <item>
-      <title>Rusya, savaşın başından bu yana en büyük balistik füze saldırısını Kiev'e düzenledi — Russia launches its largest ballistic missile barrage on Kyiv since the war began</title>
-      <description>Ukrayna Hava Kuvvetleri, 19 Temmuz gecesi Rusya'nın 41 balistik füze ve 125 insansız hava aracı fırlattığını, füzelerin yaklaşık yarısının ve 125 İHA'nın 108'inin düşürüldüğünü açıkladı. Kiev'de en az bir kişi öldü, 16 kişi yaralandı. — Ukraine's air force said Russia fired 41 ballistic missiles and 125 drones overnight on July 19, with about half the missiles and 108 of the 125 drones intercepted. At least one person was killed and 16 wounded in Kyiv.</description>
-      <link>https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-3736624088dc934cdc27</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>ABD, İran'a saldırılarını onuncu geceye taşıdı; Tahran Körfez'i hedef aldı — US extends Iran strikes to a tenth night as Tehran targets the Gulf</title>
+      <description>ABD ordusu, İran'a yönelik saldırılarını pazartesi gecesi üst üste onuncu geceye taşıdı; Sirik, Bender Abbas, Qeşm, Şiraz ve İsfahan'da patlamalar bildirildi. İran Devrim Muhafızları ise Kuveyt ve Bahreyn'deki ABD askeri sistemlerini vurduğunu, Hürmüz Boğazı'nda iki tankerin ateş aldığını öne sürdü. Çatışan iddiaların hiçbiri sahadan bağımsız biçimde doğrulanamıyor. — The US military carried its strikes on Iran into a tenth straight night on Monday, with explosions reported in Sirik, Bandar Abbas, Qeshm, Shiraz and Isfahan. Iran's Revolutionary Guard said it had hit US military systems in Kuwait and Bahrain and that two tankers in the Strait of Hormuz were ablaze. The competing claims could not be independently verified.</description>
+      <link>https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-eb12e70b2b038c728643</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>news</category>
     </item>
     <item>
-      <title>ABD, İran'a saldırılarını dokuzuncu geceye taşıdı; Amerikan asker kaybı 17'ye yükseldi — US presses strikes on Iran into a ninth night as the American death toll rises to 17</title>
-      <description>CENTCOM, 19 Temmuz'da İran'a yönelik üst üste dokuzuncu gece saldırılarını tamamladığını; komuta merkezleri, hava savunması, kıyı gözetleme, deniz kabiliyetleri ile füze ve İHA sahalarını vurduğunu bildirdi. 18 Temmuz'da Irak'ta bir Amerikan askerinin ölmesiyle ABD kaybı 17'ye çıktı. İran makamları en az 50 ölü ve 500'ü aşkın yaralı bildirdi. — CENTCOM said it completed a ninth consecutive night of strikes on Iran on July 19, hitting command centers, air defense, coastal surveillance, maritime capabilities and missile and drone sites. A US service member killed in Iraq on July 18 raised the American toll to 17. Iranian authorities reported at least 50 killed and more than 500 injured.</description>
-      <link>https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-attacks-persian-gulf/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-94155638d1807c70fcc2</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Trump, Kanada mallarına yüzde 50 gümrük vergisi getirdi — Trump imposes 50% tariffs on Canadian goods</title>
+      <description>ABD Başkanı Donald Trump, Kanada'yı Amerikan otomobil, alkol ve süt ürünlerine karşı ayrımcılık yapmakla suçlayarak birçok Kanada malına yüzde 50 gümrük vergisi uygulama kararı aldı. Vergiler 30 gün içinde yürürlüğe girecek ve USMCA kapsamındaki ürünleri de kapsayacak; enerji ile potas hariç tutuldu. Karar, 1930 tarihli Gümrük Yasası'nın daha önce bu amaçla kullanılmamış 338. maddesine dayandırıldı. — President Donald Trump ordered 50% tariffs on many Canadian goods, accusing Ottawa of discriminating against American autos, alcohol and dairy. The duties take effect within 30 days and cover products under the USMCA, with energy and potash excluded. The order rests on Section 338 of the 1930 Tariff Act, a provision not previously used for this purpose.</description>
+      <link>https://www.aljazeera.com/news/2026/7/21/trump-imposes-50-us-tariffs-on-some-canadian-goods-citing-discrimination</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-90aeabfe793efeabaf2f</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>news</category>
     </item>
     <item>
-      <title>Lübnan Cumhurbaşkanı Avn, Washington'da Rubio ile görüştü; Trump'a Hizbullah planı sunacak — Lebanon's president meets Rubio in Washington, to bring Trump a Hezbollah plan</title>
-      <description>Cumhurbaşkanı Joseph Avn, 19 Temmuz'da Dışişleri Bakanı Marco Rubio ile görüşerek 26 Haziran'da imzalanan ABD arabuluculuğundaki Lübnan-İsrail çerçeve anlaşmasının uygulanmasını ele aldı. Rubio, Lübnan'ın Hizbullah'ı silahsızlandırma çabalarını övdü. Avn'ın Salı günü Trump ile görüşmesi bekleniyor; bu, 2009'dan bu yana bir Lübnan cumhurbaşkanının Washington'a ilk ziyareti olacak. — President Joseph Aoun met Secretary of State Marco Rubio on July 19 to advance implementation of the US-brokered Lebanon-Israel framework signed on June 26. Rubio praised Lebanon's efforts to disarm Hezbollah. Aoun is expected to meet Trump on Tuesday, the first visit to Washington by a Lebanese president since 2009.</description>
-      <link>https://www.aljazeera.com/news/2026/7/19/lebanons-president-joseph-aoun-meets-rubio-ahead-of-trump-talks</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-8cc80f413182827a506f</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Yeni İngiltere Başbakanı Burnham, Healey'i Maliye Bakanı yaptı — New UK PM Burnham names Healey chancellor in cabinet reshuffle</title>
+      <description>İngiltere'nin yeni Başbakanı Andy Burnham, pazartesi açıkladığı kabinede eski Savunma Bakanı John Healey'i sürpriz biçimde Maliye Bakanı olarak atadı. Rachel Reeves, David Lammy, Peter Kyle ve Liz Kendall görevden alınırken Ed Miliband Dışişleri Bakanı olarak kaldı, Yvette Cooper Sağlık Bakanlığı'na geçti. Burnham, on yılda ülkenin altıncı yeni başbakanı oldu. — Andy Burnham, the UK's new prime minister, made former Defence Secretary John Healey his surprise choice as chancellor in a cabinet unveiled on Monday. Rachel Reeves, David Lammy, Peter Kyle and Liz Kendall were removed, while Ed Miliband stayed as foreign secretary and Yvette Cooper moved to health. Burnham is the UK's sixth new prime minister in a decade.</description>
+      <link>https://www.irishtimes.com/world/uk/2026/07/20/andy-burnham-downing-street-live-updates/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-be482a89124fb9f73d6d</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>news</category>
     </item>
     <item>
-      <title>İran füzeleri Ürdün'ün Akabe kenti yakınında düşürüldü — Iranian missiles intercepted near Jordan's Aqaba</title>
-      <description>Ürdün ordusuna göre 19 Temmuz'da Akabe'yi hedef alan dört İran balistik füzesinden üçü ABD hava savunma sistemlerince düşürüldü, dördüncüsü boş bir alana isabet etti. İsrail ordusu, Eylat üzerinde düşen parçalara karşı Demir Kubbe önleyicileri ateşledi. Can kaybı veya hasar bildirilmedi. — Jordan's military said three of four Iranian ballistic missiles targeting Aqaba on July 19 were downed by US air defenses, while a fourth hit an open area. Israel's military fired Iron Dome interceptors at fragments over Eilat. No casualties or damage were reported.</description>
-      <link>https://www.timesofisrael.com/idf-fires-interceptors-over-eilat-as-iranian-missiles-target-nearby-aqaba-in-jordan/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-1828f2c3488bece8529d</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Manila, Çin sahil güvenliğini Filipinli denizciyi yaralamakla suçladı — Manila accuses Chinese coast guard of injuring a Filipino sailor</title>
+      <description>Filipinler ordusu, Güney Çin Denizi'ndeki tartışmalı İkinci Thomas Sığlığı'nda bir Çin sahil güvenlik botunun Filipinli bir denizcinin başına tahta copla vurarak onu yaraladığını açıkladı. Çin sahil güvenliği ise iki Filipin botunun uyarılara rağmen bir devriye gemisine çarptığını öne sürdü. Olay, Manila'nın karaya oturttuğu BRP Sierra Madre karakol gemisi yakınında yaşandı. — The Philippine military said a Chinese coast guard boat struck a Filipino sailor on the head with a wooden baton, injuring him, at the disputed Second Thomas Shoal in the South China Sea. China's coast guard countered that two Philippine boats had ignored warnings and rammed one of its patrol vessels. The incident occurred near the grounded outpost ship BRP Sierra Madre.</description>
+      <link>https://www.aljazeera.com/news/2026/7/21/china-and-philippines-trade-accusations-after-sailor-injured-at-sea</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-497ac4930044716ad632</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>news</category>
     </item>
     <item>
-      <title>Zelenski, protestolar sürerken Başkomutan Sırskıy'i değiştirmeyi değerlendiriyor — Zelensky weighs replacing army chief Syrskyi as protests continue</title>
-      <description>Ukraynalılar üçüncü gün de sokağa çıkarak 15 Temmuz'da görevden alınan Savunma Bakanı Mihaylo Fedorov'un iadesini ve Başkomutan Oleksandr Sırskıy'in değiştirilmesini istedi. Zelenski, orduya ilişkin kararların "üzerinde çalışılacağını" söyledi; Yevhen Hmara vekil savunma bakanı olarak atandı. — Ukrainians took to the streets for a third day demanding the reinstatement of Defense Minister Mykhailo Fedorov, dismissed on July 15, and the removal of Commander-in-Chief Oleksandr Syrskyi. Zelensky said decisions on the army "will be worked out"; Yevhen Khmara was named acting defense minister.</description>
-      <link>https://kyivindependent.com/draft-ukrainians-take-to-streets-for-3rd-consecutive-day-of-protests-over-military-leadership-crisis/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-1afe173121ed68ca72b0</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Pentagon: İran saldırılarında iki haftada yaklaşık 100 ABD askeri yaralandı — Pentagon says nearly 100 US troops injured in two weeks of Iran strikes</title>
+      <description>Pentagon Sözcüsü Sean Parnell, 7 Temmuz'dan bu yana İran saldırılarında yaklaşık 100 ABD askerinin 'bir dereceye kadar yaralandığını', bunların yüzde 96'sının göreve döndüğünü ve yaralanmaların çoğunun hafif beyin sarsıntısı olduğunu açıkladı. Açıklama, ateşkesin çökmesinin ardından bölgedeki ABD üslerine yönelik İran saldırılarındaki artışa işaret ediyor. Hafta sonu Ürdün'de iki, Irak'ta bir ABD askerinin öldüğü de bildirildi. — Pentagon spokesman Sean Parnell said nearly 100 US service members had suffered 'some degree of injury' since July 7, that 96% had returned to duty, and that most injuries were minor concussions. The statement underscores an uptick in Iranian strikes on US bases after the ceasefire collapsed. Two US soldiers were reported killed in Jordan and one in Iraq over the weekend.</description>
+      <link>https://www.cbsnews.com/news/iran-injuries-us-service-members/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-680b5d0734739a6d9ba9</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>news</category>
     </item>
     <item>
-      <title>Likud, 'savaş hali' gerekçesiyle ön seçimleri iptal etmenin önünü açtı — Likud clears the way to cancel primaries, citing a possible 'wartime situation'</title>
-      <description>27 Ekim seçimleri öncesinde Likud'un anayasa komitesi, 19 Temmuz'da Başbakan Netanyahu'ya parti listesinde sekiz garantili sıra tanıdı ve bir "savaş hali" engel oluşturursa ön seçimlerin iptal edilebilmesine yetki verdi. Ön seçimler 17 Ağustos'a ertelendi. Netanyahu ön seçimlerden yana olduğunu ancak güvenliğin gerekçe olabileceğini söyledi. — Ahead of the October 27 election, Likud's constitution committee on July 19 granted Prime Minister Netanyahu eight reserved slots on the party list and authorized canceling primaries if a "wartime situation" prevents them. Primaries were postponed to August 17. Netanyahu said he favors primaries but that security could require alternatives.</description>
-      <link>https://www.timesofisrael.com/liveblog-july-19-2026/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-3f814d8798dd09649a7f</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Hamas, siyasi büro başkanlığına Halil el-Hayya'yı seçti — Hamas elects Khalil al-Hayya as head of its political bureau</title>
+      <description>Hamas, pazartesi ikinci tur oylamada Halil el-Hayya'yı siyasi büro başkanı olarak seçtiğini duyurdu; el-Hayya, veteran lider Halid Meşal'i geride bıraktı. 1960 Gazze doğumlu el-Hayya, hareketin 1987'deki kuruluşundan bu yana üyesi ve İsrail'le yürütülen ateşkes görüşmelerinde Hamas'ın baş müzakerecisiydi. Bir Hamas yetkilisi, seçimin 'ezici çoğunlukla' gerçekleştiğini söyledi. — Hamas announced on Monday that it had elected Khalil al-Hayya as head of its political bureau in a run-off, with al-Hayya defeating veteran leader Khaled Meshaal. Born in Gaza in 1960 and a member since the movement's 1987 founding, al-Hayya has been Hamas's lead negotiator in ceasefire talks with Israel. A Hamas official said he was chosen 'by an overwhelming majority.'</description>
+      <link>https://www.aljazeera.com/news/2026/7/20/hamas-names-khalil-al-hayya-as-new-leader-after-run-off-with-khaled-meshaal</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-8ee011876275788fcc26</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>news</category>
     </item>
     <item>
-      <title>İsrailli bakanlar Gazze sınırına yürüyüşe katılarak yerleşimlerin yeniden kurulmasını istedi — Israeli ministers join a march to the Gaza border demanding settlements be rebuilt</title>
-      <description>19 Temmuz'da Maliye Bakanı Smotrich ve Ulusal Güvenlik Bakanı Ben-Gvir dahil bakanlar, Nachala grubunun düzenlediği "Binlerin Yürüyüşü"ne katılarak 2005'te boşaltılan Elei Sinai, Dugit ve Nisanit yerleşimlerinin yeniden kurulmasını talep etti. İsrail ordusu Gazze çevresini 24 saatliğine kapalı askeri bölge ilan etti. — On July 19, ministers including Finance Minister Smotrich and National Security Minister Ben-Gvir joined the Nachala-organized "March of Thousands" toward the Gaza border, demanding the rebuilding of Elei Sinai, Dugit and Nisanit, evacuated in 2005. Israel's military declared the Gaza periphery a closed military zone for 24 hours.</description>
-      <link>https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-f539a48a5c00aa200bf6</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Güney Lübnanlılar 'pilot bölge' köylerine döndü, İsrail'in oradan hiç çekilmediğini söylüyor — South Lebanese return to 'pilot zone' villages, saying Israel never left them</title>
+      <description>İsrail, Lübnan ve ABD'nin pazartesi başlattığını duyurduğu 'pilot bölge' projesi kapsamında Güney Lübnan'ın Bint Cübeyl ilçesindeki Frun ve Gandouriye köylerine düzinelerce kişi geri döndü. Ancak yerel sakinler ve güvenlik kaynakları bu köylerin İsrail işgaline hiç girmediğini, dolayısıyla gerçek bir çekilme yaşanmadığını öne sürüyor. İsrail ise tam çekilme için önce Hizbullah'ın silahsızlandırılması gerektiğinde ısrar ediyor. — Under a 'pilot zone' project that Israel, Lebanon and the US announced on Monday, dozens of people returned to the villages of Froun and Ghandouriyeh in southern Lebanon's Bint Jbeil district. But residents and security sources say those villages were never under Israeli occupation, meaning no real withdrawal has taken place. Israel insists Hezbollah must be disarmed before any full pull-back.</description>
+      <link>https://www.aljazeera.com/news/2026/7/21/lebanese-return-to-pilot-zone-villages-they-say-israel-never-occupied</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-c15ad60b3674e5e555d1</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>news</category>
     </item>
     <item>
-      <title>Atlas: Menzil ve Mühimmat — Range and Munitions</title>
-      <description>Kiev'de kırk bir balistik, Körfez'de dokuzuncu gece: iki cephede de mesele niyet değil, envanter. — Forty-one ballistic missiles over Kyiv, a ninth night over the Gulf: on both fronts the question is not intent, it is inventory.</description>
-      <link>https://eigenradar.com/#geo-03%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#geo-03%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Trump, Mamdani'nin tehdidini reddetti: Netanyahu ABD'de tutuklanmayacak — Trump rejects Mamdani threat, says Netanyahu won't be arrested in US</title>
+      <description>ABD Başkanı Donald Trump, İsrail Başbakanı Binyamin Netanyahu'nun eylülde New York'a gelişinde 'hiçbir şekilde' tutuklanmayacağını söyleyerek Belediye Başkanı Zohran Mamdani'nin bu yöndeki tehdidini reddetti. Mamdani, Netanyahu'nun BM Genel Kurulu için gelmesi hâlinde tutuklanıp tutuklanmayacağını değerlendirdiğini ve onun 'Lahey'e ait' olduğunu söylemişti. Uluslararası Ceza Mahkemesi 2024'te Netanyahu hakkında savaş suçları gerekçesiyle yakalama kararı çıkarmıştı. — President Donald Trump said Israeli Prime Minister Benjamin Netanyahu 'will not be arrested, in any way, shape or form' when he visits New York in September, rejecting a threat by Mayor Zohran Mamdani. Mamdani had said he was weighing whether to arrest Netanyahu if he attends the UN General Assembly, saying the premier 'belongs in The Hague.' The International Criminal Court issued a war-crimes arrest warrant for Netanyahu in 2024.</description>
+      <link>https://www.aljazeera.com/news/2026/7/20/trump-rejects-mamdani-threat-to-arrest-israels-netanyahu-for-war-crimes</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-b5cdb2b1b5d3cff361d6</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Kiev'de savunma bakanının görevden alınmasına karşı protestolar hafta sonu sürdü — Kyiv protests over defence minister's dismissal continued through the weekend</title>
+      <description>Ukrayna'da Cumhurbaşkanı Volodimir Zelenski'nin Savunma Bakanı Mihaylo Fedorov'u görevden almasına karşı protestolar, 19 Temmuz akşamı Kiev'deki İvan Franko Tiyatrosu önünde yeniden toplanan yüzlerce kişiyle hafta sonu boyunca devam etti. Göstericiler artık Genelkurmay Başkanı Oleksandr Sirski'nin de istifasını ve askeri reform talep ediyor. Kharkiv, Dnipro, Mykolaiv ve Odessa'da da eylemler yapıldı. — Protests against President Volodymyr Zelenskyy's dismissal of Defence Minister Mykhailo Fedorov ran through the weekend, with hundreds gathering again outside Kyiv's Ivan Franko Theatre on the evening of July 19. Demonstrators now also demand the resignation of armed forces chief Oleksandr Syrskyi and military reforms. Rallies were also held in Kharkiv, Dnipro, Mykolaiv and Odesa.</description>
+      <link>https://meduza.io/en/news/2026/07/20/protests-over-ukraine-s-new-defense-minister-continue-over-weekend</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-e7367eb40e3cc93b3e66</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Hindistan'da polis, parlamentoya yürüyen 'Hamamböceği' hareketine müdahale etti — Indian police move against 'Cockroach' marchers heading to parliament</title>
+      <description>Yeni Delhi'de 10 binden fazla kişi, gençlerin öncülük ettiği 'Hamamböceği' hareketiyle parlamentoya yürürken polis göz yaşartıcı gaz ve cop kullandı. Gösteri, parlamentonun muson dönemi oturumunun ilk gününe denk geldi. Göstericiler, Eğitim Bakanı Dharmendra Pradhan'ın istifasını, sınav sistemindeki yolsuzluğa son verilmesini ve reform yapılmasını talep ediyor. — Police fired tear gas and used batons as more than 10,000 people marched toward parliament in New Delhi behind the youth-led 'Cockroach' movement. The demonstration coincided with the first day of parliament's monsoon session. Protesters demand the resignation of Education Minister Dharmendra Pradhan, an end to exam-system corruption and reforms.</description>
+      <link>https://www.aljazeera.com/news/2026/7/20/police-attack-cockroach-activists-as-thousands-march-on-indian-parliament</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-b33b042568e5e5a8043d</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Kahire'de Afrika Boynuzu ve Kızıldeniz diplomasisi hızlandı — Diplomacy over the Horn of Africa and Red Sea intensifies in Cairo</title>
+      <description>Mısır, Somali, Eritre ve bir ABD temsilcisi Kahire'de Afrika Boynuzu ile Kızıldeniz'deki güvenlik ve istikrar üzerine bir dizi diplomatik görüşme yürüttü. ABD Başkanı'nın Afrika Kıdemli Danışmanı Massad Boulos, Somali ve Eritre dışişleri bakanlarıyla ayrı ayrı bir araya geldi. Görüşmelerin somut sonuçlarından çok eşgüdümün kendisi öne çıktı. — Egypt, Somalia, Eritrea and a US envoy held a series of consultations in Cairo on security and stability in the Horn of Africa and the Red Sea. Massad Boulos, the US president's senior adviser for Africa, met the foreign ministers of Somalia and Eritrea separately. The coordination itself, rather than concrete outcomes, was the main takeaway.</description>
+      <link>https://www.aljazeera.com/news/2026/7/21/who-is-driving-diplomacy-in-the-horn-of-africa-and-the-red-sea-and-why</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-03d3fa993842758dd58f</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Sınır Tanımayan Doktorlar, gözaltındaki Filistinli sağlık çalışanlarının serbest bırakılmasını istedi — MSF demands Israel release detained Palestinian healthcare workers</title>
+      <description>Sınır Tanımayan Doktorlar (MSF), İsrail'in gözaltında tuttuğu Filistinli sağlık çalışanlarının 'derhal ve koşulsuz' serbest bırakılmasını istedi; örgüt, çoğu 'gerekçesiz biçimde ağır koşullarda' tutulan çalışanların durumundan 'öfke duyduğunu' bildirdi. MSF'ye göre şu anda aralarında 15 doktorun da bulunduğu 50'den fazla sağlık çalışanı alıkonuluyor. İsrail'in bu açıklamaya yönelik bir yanıtı haberde yer almadı. — Medecins Sans Frontieres (MSF) called for the 'immediate and unconditional' release of detained Palestinian healthcare workers, saying it was 'outraged' by the treatment of staff held 'without justification or cause' in dire conditions. MSF said more than 50 healthcare workers, including 15 doctors, are currently detained. No Israeli response to the statement was included in the report.</description>
+      <link>https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-f0dede130321cc9804d8</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>geopolitics</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Atlas: İki Cephe, Tek Envanter Sorusu — Two Fronts, One Inventory Question</title>
+      <description>İran üzerinde onuncu gece ve yaklaşık yüz yaralı ABD askeri; İkinci Thomas Sığlığı'nda bir cop. Her iki suda da dürüst olan sayı niyet değil, kabiliyettir — ve onu ödemeye kimin razı olduğudur. — A tenth night over Iran and nearly a hundred US wounded; a baton at Second Thomas Shoal. On both waters the honest number is not intent, it is capability — and who is willing to pay for it.</description>
+      <link>https://eigenradar.com/#geo-03%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-03%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>column</category>
     </item>
     <item>
-      <title>Marco Vela: Muafiyet Kalkınca — When the Waiver Is Revoked</title>
-      <description>Trump mutabakatı bitirdi, petrol muafiyetlerini geri aldı, ablukayı yeniden kurdu: yaptırım bir duvar değil, bir sapaktır — ve sapak Fujairah'a bakıyor. — Trump ended the memorandum, revoked the oil waivers, reimposed the blockade: a sanction is not a wall, it is a detour — and the detour points to Fujairah.</description>
-      <link>https://eigenradar.com/#geo-04%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#geo-04%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Marco Vela: Bayrak Dalgalanır, Yük Dolaşır — The Flag Waves, the Cargo Detours</title>
+      <description>Washington, Ottawa'ya karşı 1930 tarihli bir yasaya uzanıyor; Beyrut'un komşuları, kapandığı konusunda kimsenin anlaşamadığı köyleri yeniden açıyor. Bu hafta açıklanan iki ilke — ve her birinin altında, her zamanki gibi, bir fiyat. — Washington reaches for a 1930 statute against Ottawa; Beirut's neighbours reopen villages nobody agrees were ever closed. Two principles announced this week — and under each, as always, a price.</description>
+      <link>https://eigenradar.com/#geo-04%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-04%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>column</category>
     </item>
     <item>
-      <title>Piri Reis: Kuralı Kim Yazıyor? — Who Writes the Rule?</title>
-      <description>Kiev'de komutanı kim atar, Tel Aviv'de ön seçimi kim iptal eder — iki başkentte de asıl soru olayın kendisi değil, kuralı kimin elinde tuttuğudur. — Who appoints the commander in Kyiv, who cancels the primary in Tel Aviv — in both capitals the real question is not the event but who holds the rule.</description>
-      <link>https://eigenradar.com/#geo-01%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#geo-01%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Piri Reis: Kuralı Kim Elinde Tutuyor? — Who Holds the Rule?</title>
+      <description>Yeni bir başbakan Londra'da kabineyi yeniden diziyor; bir başkan, ABD topraklarında kimin tutuklanamayacağını ilan ediyor. İki haber de aslında adı geçen kişiyle ilgili değil — ikisi de kuralı yazan kalemi artık kimin elinde tuttuğuyla ilgili. — A new prime minister reshuffles London's cabinet; a president declares who may not be arrested on US soil. Neither story is really about the person named — both are about who now holds the pen that writes the rule.</description>
+      <link>https://eigenradar.com/#geo-01%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-01%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>column</category>
     </item>
     <item>
-      <title>Vezir: Mimari İkinci Kez Sınandı — The Architecture Tested a Second Time</title>
-      <description>Bir kefede Akabe üzerinde çalışan hava savunması, öbür kefede Kiev'de sarsılan sivil-asker dengesi: kurumlar bu hafta iki kez tartıldı. — On one pan, air defense working over Aqaba; on the other, the civil-military balance shaking in Kyiv: institutions were weighed twice this week.</description>
-      <link>https://eigenradar.com/#geo-02%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#geo-02%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Vezir: Sandalyeler mi Değişti, Masa mı? — Did the Chairs Change, or the Table?</title>
+      <description>Bir kefede, sokağın generallerini görevden alıp alamayacağına karar veren bir savaş başkenti; öbüründe, baş müzakerecisini kendi başına oturtan bir hareket. Bu hafta iki masa da kaydı — soru, her zamanki gibi, dengenin de onlarla kayıp kaymadığı. — On one pan, a wartime capital deciding whether the street can unseat its generals; on the other, a movement seating its lead negotiator at its own head. Two tables shifted this week — the question, as ever, is whether the balance shifted with them.</description>
+      <link>https://eigenradar.com/#geo-02%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-02%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>column</category>
     </item>
     <item>
-      <title>Rana Sahel: Kendi Planıyla Gelen Başkent — The Capital That Comes With Its Own Plan</title>
-      <description>Beyrut Washington'a boyun eğmeye değil, kendi yazdığı planı sunmaya gidiyor; Amman ise füzeyi kendi semasında karşılıyor. Küçük başkentler artık sahne değil, masadalar. — Beirut goes to Washington not to submit but to table a plan it wrote itself; Amman meets the missile in its own sky. The small capitals are no longer the stage — they are at the table.</description>
-      <link>https://eigenradar.com/#geo-05%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#geo-05%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Rana Sahel: İki Başkentin Dışındaki Hafta — The Week Outside the Two Capitals</title>
+      <description>On bin genç Hindistanlı parlamentonun kapılarına dayanıyor; Kahire'de üç Afrika başkenti ile bir ABD temsilcisi görüşmeler yapıyor. İki haber de Washington ya da Pekin'de başlamıyor — ve mesele tam da bu. — Ten thousand young Indians reach the gates of parliament; in Cairo, three African capitals and a US envoy trade consultations. Neither story starts in Washington or Beijing — and that is exactly the point.</description>
+      <link>https://eigenradar.com/#geo-05%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-05%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>column</category>
     </item>
     <item>
-      <title>Haldun: Yirmi Bir Yıl Sonra, Aynı Sınır — Twenty-One Years On, the Same Border</title>
-      <description>Bakanlar 2005'te boşaltılan yerleşimlerin sınırına yürürken, Likud ön seçimi 'savaş hali'ne erteliyor: harita da takvim de eski bir tartışmanın dipnotu. — As ministers march to the border of settlements evacuated in 2005, Likud postpones its primary to a 'wartime situation': both the map and the calendar are footnotes to an old argument.</description>
-      <link>https://eigenradar.com/#geo-06%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#geo-06%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Haldun: Bir Kabine, Bir Sınır: İkisi de Eski Bir Tartışmanın Dipnotu — A Cabinet and a Border: Both Footnotes to an Older Argument</title>
+      <description>Britanya on yılda altıncı başbakanını göreve getiriyor; Lübnanlılar, bir ordunun terk ettiği söylenen ama hiç girmediği de söylenen köylere dönüyor. İkisi de görülmemiş değil — her biri eski bir haritanın dipnotu, bu haftanın mürekkebiyle yeniden okunuyor. — Britain installs its sixth prime minister in ten years; Lebanese return to villages an army is said to be leaving but is said never to have entered. Neither is unprecedented — each is an old map's footnote, read again in this week's ink.</description>
+      <link>https://eigenradar.com/#geo-06%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#geo-06%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>geopolitics</category>
       <category>column</category>
     </item>
