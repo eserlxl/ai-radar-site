@@ -1,195 +1,77 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Eigen Radar — Ekonomi ve Piyasalar / Economics &amp; Markets</title>
     <link>https://eigenradar.com/</link>
-    <description>Türkçe ve İngilizce günlük haberler; köşe yazıları yapay zekâ karakterleri tarafından yazılır. Daily news in Turkish and English; columns are written by AI personas.</description>
-    <language>tr</language>
-    <lastBuildDate>Tue, 21 Jul 2026 00:33:19 +0000</lastBuildDate>
+    <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
+    <language>mul</language>
+    <lastBuildDate>Tue, 21 Jul 2026 03:32:16 +0000</lastBuildDate>
     <itunes:author>Eigen Radar</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
     <itunes:category text="News" />
-    <atom:link rel="self" type="application/rss+xml" href="https://eigenradar.com/feed-economics-markets.xml" />
     <item>
-      <title>Alphabet Hisseleri Yüzde 3 Yükseldi: “Frozen v2” Çipi Gemini’ye Özel Tasarlanıyor — Alphabet Shares Jump 3% on Report of Gemini-Specific “Frozen v2” Chip</title>
-      <description>The Information’in haberine göre Google, Gemini modellerini çalıştırmak için özel olarak tasarlanan yeni bir sunucu çipi geliştiriyor; şirket içinde “Frozen v2” adı veriliyor. Haberin ardından Alphabet hisseleri gün içi işlemlerde yüzde 3’ün üzerinde yükseldi. — Alphabet shares rose more than 3% in midday trading after The Information reported Google is developing a new server chip, internally called “Frozen v2,” built exclusively to run its Gemini models.</description>
-      <link>https://finance.yahoo.com/technology/ai/articles/alphabet-stock-gains-report-google-170051187.html</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-a474f427dc88203350e7</guid>
+      <title>Brent bir ayı aşkın sürenin ardından 90 doları geçti; Asya borsaları temkinli — Brent tops $90 for first time in over a month as Asian markets stay wary</title>
+      <description>Brent ham petrol, ABD'nin İran'a yönelik saldırılarının dokuzuncu gününde yüzde 2,6 artarak varil başına 90,40 dolara çıktı; ABD ham petrolü (WTI) yüzde 2,3 yükselişle 84,39 dolara ulaştı. Yatırımcılar Hürmüz Boğazı'ndaki sevkiyat riskini fiyatlarken Asya hisseleri karışık seyretti. — Brent crude rose 2.6% to $90.40 a barrel on the ninth day of U.S. strikes against Iran, while U.S. crude (WTI) gained 2.3% to $84.39. Asian equities were mixed as investors priced the risk to Strait of Hormuz shipments.</description>
+      <link>https://finance.yahoo.com/markets/stocks/articles/asia-shares-hesitant-oil-climbs-003525906.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-b99654ebc37da5556821</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>news</category>
     </item>
     <item>
-      <title>ABD’de Benzin Yeniden 4 Dolara Dayandı — US Gasoline Tops $4 a Gallon Again</title>
-      <description>AAA verilerine göre ABD’de normal benzinin galon ortalaması pazartesi günü 4,00 doları geçti; bir hafta önceki 3,87 dolardan yükseliş, İran ile süren çatışmanın petrol akışını yeniden kesintiye uğratmasıyla geldi. — The US average price for regular gasoline crossed $4.00 a gallon on Monday, according to AAA data, up from $3.87 a week earlier, as renewed fighting with Iran disrupted oil flows again.</description>
-      <link>https://www.forbes.com/sites/siladityaray/2026/07/20/us-gas-prices-top-4-again-as-iran-war-continues-to-escalate/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-3a7e0e8890693f488d90</guid>
+      <title>Kore'nin 4 trilyon dolarlık borsası küresel yapay zekâ hisselerinin barometresi oldu — Korea's $4 trillion market has become the barometer for global AI stocks</title>
+      <description>Kospi haziran zirvesinden bu yana yüzde 25 gerileyerek yaklaşık 1 trilyon dolarlık değeri sildi; SK Hynix ve Samsung en az yüzde 30 kaybetti. Londra, New York ve Tokyo'daki fon yöneticileri artık işlem öncesi Kore hisselerini izliyor. — The Kospi has tumbled 25% from its June peak, erasing about $1 trillion in value, with SK Hynix and Samsung each losing at least 30%. Fund managers in London, New York and Tokyo now watch Korean equities before their own sessions open.</description>
+      <link>https://fortune.com/2026/07/19/korea-ai-stocks-sk-hynix-samsung-kospi-index-global-markets/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-275422de3abe19cb1058</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>news</category>
     </item>
     <item>
-      <title>Archer Aviation Hisseleri Yüzde 19 Fırladı: Anduril ile Askeri Uçak Tanıtıldı — Archer Aviation Stock Soars 19% as Anduril Reveals Military Aircraft</title>
-      <description>Elektrikli hava taksi geliştiricisi Archer Aviation, savunma teknolojisi şirketi Anduril ile birlikte geliştirdiği otonom bir dikey iniş-kalkış platformunu tanıttı; haberin ardından Archer hisseleri gün içinde yüzde 19’un üzerinde değer kazandı. — Electric air-taxi developer Archer Aviation shares climbed more than 19% intraday after it unveiled an autonomous vertical-takeoff-and-landing aircraft platform developed with defense-technology company Anduril.</description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/archer-aviation-stock-rises-anduril-123147999.html</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-49cabc5dbcfaec6d26e8</guid>
+      <title>Çin Merkez Bankası kredi faizlerini büyüme yavaşlarken 14. ayda da sabit tuttu — China's central bank holds loan prime rates for a 14th month as growth slows</title>
+      <description>Çin Halk Bankası (PBoC) bir yıllık kredi faizi referansını (LPR) yüzde 3,00'te, mortgage fiyatlamasının dayanağı olan beş yıllığı yüzde 3,50'de tuttu; her iki oran da Mayıs 2025'ten bu yana değişmedi. Karar, ikinci çeyrek büyümesinin üç buçuk yılın en zayıf temposuna gerilediği bir dönemde geldi. — The People's Bank of China held its one-year loan prime rate (LPR) at 3.00% and the five-year rate, the benchmark for mortgage pricing, at 3.50% — both unchanged since May 2025. The decision came as second-quarter growth cooled to its weakest pace in three and a half years.</description>
+      <link>https://investinglive.com/central-banks/china-holds-loan-prime-rates-steady-as-growth-slows-and-yuan-firms-1-year-lpr-at-3-0-5-year-at-3-5</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-ac3239e0e14cc41cd25f</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>news</category>
     </item>
     <item>
-      <title>Yargıç Paramount-Warner Bros. Discovery Birleşmesini Durdurdu — Judge Halts Paramount-Warner Bros. Discovery Merger</title>
-      <description>Kaliforniya öncülüğündeki 12 eyaletin açtığı davada, ABD’li yargıç Araceli Martínez-Olguín, Paramount Skydance’in Warner Bros. Discovery’yi devralmasını en az iki hafta durduran geçici bir tedbir kararı verdi; borç dahil toplam işlem değeri 110 milyar doları buluyor. — In a lawsuit brought by 12 states led by California, US District Judge Araceli Martínez-Olguín issued a temporary restraining order halting Paramount Skydance’s acquisition of Warner Bros. Discovery for at least two weeks; the deal, including debt, is valued at more than $110 billion.</description>
-      <link>https://www.washingtontimes.com/news/2026/jul/20/paramount-warner-must-halt-merger-least-two-weeks-judge-says-granting/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-01505c8b9aaa2747656a</guid>
+      <title>Gemiler ABD destekli rotayı reddederken petrol piyasası Hürmüz sonrası döneme bakıyor — Oil market looks past Hormuz as ships reject the U.S.-backed route</title>
+      <description>Cuma günü ABD'nin önerdiği alternatif koridordan hiçbir geçiş tespit edilmezken İran'ın kanalından yedi geçiş kaydedildi; denizciler askeri güvence taahhütlerine rağmen Amerikan rotasını reddediyor. Hindistan, bir denizcinin ölümünün ardından mürettebatına boğazdan geçişi yasakladı. — On Friday no crossings were detected on the U.S.-proposed alternate corridor, while Iran's channel saw seven transits, as seafarers refuse the American route despite pledges of protection. India has barred its crews from strait transits after an attack killed a sailor.</description>
+      <link>https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-bec64b056f3e346bbec4</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>news</category>
     </item>
     <item>
-      <title>Brent Yeniden 90 Doları Aştı: İran Hürmüz’de İki Tankeri Vurdu — Brent Tops $90 Again as Iran Strikes Two Tankers in Hormuz</title>
-      <description>Devrim Muhafızları, Hürmüz Boğazı’nın güney rotasından geçmeye çalışan iki petrol tankerinin pazar gecesi “vurulup durdurulduğunu” bildirdi; Brent petrol Asya seansında yüzde 2,4 yükselerek 90,25 dolara çıktı — 11 Haziran’dan bu yana ilk kez bu seviyenin üzerinde. — Iran’s Revolutionary Guard reported that two oil tankers attempting to transit the southern route of the Strait of Hormuz were “blown up and brought to a halt” late Sunday; Brent crude rose 2.4% in Asian trading to $90.25, its first close above that level since June 11th.</description>
-      <link>https://www.irishtimes.com/business/2026/07/20/oil-prices-rise-back-above-90-as-iran-hits-tankers/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-53eea52356e4034e0a13</guid>
+      <title>Bitcoin ve kripto, küresel teknoloji satışı yayılırken geriledi — Bitcoin and crypto sink as a global tech selloff spreads</title>
+      <description>Bitcoin haftayı kapatırken yaklaşık yüzde 1 düşerek 64.000 dolara geriledi; Ether gün içinde yüzde 3'e varan kayıpla 1.830 dolara indi. Yazıya göre yatırımcılar yapay zekâ bağlantılı varlıklardan çıkışa yöneldi. — Bitcoin fell roughly 1% to $64,000 heading into the weekend, while Ether dropped as much as 3% to $1,830. Investors, the article says, rotated aggressively out of artificial-intelligence-linked assets.</description>
+      <link>https://www.foreignpolicyjournal.com/2026/07/19/bitcoin-crypto-btc-and-crypto-markets-sink-as-tech-selloff-spreads-globally/</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-6786cdfe0974773a6471</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>news</category>
     </item>
     <item>
-      <title>Ryanair’in Çeyrek Kârı Yüzde 34 Geriledi: Fatura İran Savaşından Geldi — Ryanair Q1 Profit Falls 34% as Iran War Sends Fuel Costs Soaring</title>
-      <description>Ryanair, Nisan-Haziran döneminde vergi sonrası 538 milyon euro kâr açıkladı — bir önceki yılın 820 milyon eurosuna göre yüzde 34 düşük ve piyasa beklentisi olan 579 milyon eurosun da altında; şirket düşüşü büyük ölçüde hedge’siz yakıt giderlerindeki artışa bağladı. — Ryanair reported first-quarter after-tax profit of €538 million, down 34% from €820 million a year earlier and below the consensus forecast of €579 million, with the airline attributing the decline largely to a surge in unhedged fuel costs.</description>
-      <link>https://uk.investing.com/news/transcripts/earnings-call-transcript-ryanair-q1-2026-profit-falls-34-as-fares-slide-93CH-4777228</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-e689c01f6fd9ba8862fb</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Boeing CEO’su: Yeni Uçak Programı İçin 2030’a Kadar Hazır Oluruz — Boeing CEO: We’ll Be Ready to Fund a New Jet Program by 2030</title>
-      <description>Boeing CEO’su Kelly Ortberg, Farnborough Hava Fuarı’nda şirketin 737 Max’in ardılı yeni bir uçak programını başlatabilmek için 2030’a kadar mali açıdan hazır olacağını söyledi; “Hazır olmamız bir kısıt değil” dedi. — Boeing CEO Kelly Ortberg said at the Farnborough Airshow that the company expects to have the financial resources to launch a successor to the 737 Max by 2030, saying “I don’t see that our readiness is a constraint.”</description>
-      <link>https://www.irishtimes.com/business/2026/07/20/boeing-says-it-will-be-ready-to-fund-new-plane-programme-by-2030/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-a8096446429d3dc07811</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Bitcoin ETF’lerine Para Geri Dönüyor, Ama Borsalardan 2,3 Milyar Dolarlık Sabit Paralı Çıkış Sürüyor — Bitcoin ETFs Draw Fresh Inflows While $2.3 Billion in Stablecoins Drain From Exchanges</title>
-      <description>ABD spot Bitcoin ETF’leri art arda ikinci haftasında net giriş kaydetti — son haftada 75,67 milyon dolar — ama bu, önceki sekiz haftada çekilen 8 milyar doların yalnızca yaklaşık yüzde 3’ünü telafi ediyor; aynı 30 günlük dönemde Binance ve Bybit’ten toplam 2,3 milyar dolarlık sabit para çıkışı yaşandı. — US spot Bitcoin ETFs posted net inflows for a second straight week — $75.67 million in the latest week — recovering only about 3% of the roughly $8 billion withdrawn over the prior eight weeks, while Binance and Bybit together saw nearly $2.3 billion in stablecoin outflows over the same 30-day period.</description>
-      <link>https://cryptoslate.com/bitcoin-etf-inflows-return-but-2-3-billion-stablecoin-liquidity-drain-leaves-57000-exposed/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-c854d575db40409695fa</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Burnham Başbakan Oldu, İngiliz Tahvil Getirileri Yükseldi, Sterlin Geriledi — Gilt Yields Rise, Sterling Dips as Burnham Becomes UK Prime Minister</title>
-      <description>Andy Burnham’ın Birleşik Krallık başbakanlığına başlamasının ardından 10 yıllık İngiliz devlet tahvili getirisi 9 baz puan artışla yüzde 5,04’e, 30 yıllık getiri ise 9 baz puan artışla iki ayın en yükseği olan yüzde 5,75’e çıktı; sterlin dolar karşısında yüzde 0,27 değer kaybederek 1,3416’ya geriledi. — British 10-year gilt yields rose 9 basis points to 5.04% and 30-year yields rose 9 basis points to 5.75% — a two-month high — as Andy Burnham took office as UK prime minister, while sterling fell 0.27% against the dollar to $1.3416.</description>
-      <link>https://live.euronext.com/en/financial-news/british-gilt-yields-rise-sterling-dips-burnham-becomes-uk-prime-minister</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-70f6184e9c9d20da32af</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Çin’in “Milli Takımı” Piyasayı Desteklemek İçin 9 Milyar Dolarlık Hisse Aldı — China’s “National Team” Buys $9 Billion in Shares to Prop Up Market</title>
-      <description>Devlet destekli China Reform Holdings ve China Chengtong Holdings, geçen hafta Şangay Bileşik Endeksi’nin yüzde 5,8, STAR 50 Endeksi’nin ise yüzde 16,9 gerilemesinin ardından, yerli hisse senetleri ve borsa yatırım fonlarına yaklaşık 60 milyar yuan (8,9 milyar dolar) aktardığını açıkladı. — State-backed China Reform Holdings and China Chengtong Holdings said they deployed about 60 billion yuan ($8.9 billion) into domestic equities and ETFs, after the Shanghai Composite fell 5.8% and the STAR 50 index plunged 16.9% over the prior week.</description>
-      <link>https://www.caixinglobal.com/2026-07-20/china-deploys-national-team-in-multi-pronged-stock-market-rescue-102466182.html</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-0b4484e45ed9aece0607</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Çin Otomobil Pazarı 2021’den Bu Yana En Kötü Yılına Gidiyor: Satışlar Yüzde 20 Geriledi — China’s Car Market Heads for Worst Year Since 2021 as Sales Fall 20%</title>
-      <description>Çin’de binek araç satışları yılın ilk yarısında yüzde 20,2 gerileyerek 8,7 milyon adede indi; Çin Yolcu Otomobili Birliği, 2026 tam yıl perakende tahminini önceki durağan öngörüden yüzde 14’lük bir düşüşe çekti. — China’s passenger vehicle sales fell 20.2% in the first half of the year to 8.7 million units, as the China Passenger Car Association cut its full-year 2026 retail forecast from flat to a 14% decline.</description>
-      <link>https://thenextweb.com/news/china-car-sales-plunge-20-percent-worst-since-2021</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-6fdc76abc234954a3c21</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>ECB Anketi: Euro Bölgesi Şirketleri İçin Kredi Koşulları Sıkılaştı — ECB Survey: Financing Conditions Tightened for Euro-Area Firms</title>
-      <description>Avrupa Merkez Bankası’nın 39. Şirketlerin Finansmana Erişimi Anketi’ne (SAFE) göre, ikinci çeyrekte firmaların net yüzde 42’si banka kredilerinde faiz artışı bildirdi — bir önceki çeyrekteki yüzde 26’dan yukarı; net yüzde 31’i ise finansman ücret ve masraflarının arttığını belirtti. — According to the ECB’s 39th Survey on the Access to Finance of Enterprises (SAFE), a net 42% of euro-area firms reported higher interest rates on bank loans in the second quarter, up from 26% in the previous quarter, while a net 31% reported higher financing fees and charges.</description>
-      <link>https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-dd2551db11a9e793498f</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>S&amp;P: İngiliz Emeklilik Sigortacıları Özel Kredi Stresine Karşı “Dirençli” — S&amp;P: UK Pension Insurers “Resilient” to Private Credit Stress</title>
-      <description>S&amp;P Global Ratings, İngiliz toplu emeklilik maaşı (BPA) sigortacılarının artan özel kredi yatırımlarına rağmen, 2007-2009 küresel finans krizi düzeyinde bir şoku bile “yönetilebilir” düzeyde atlatabileceğini bildirdi; test, varlık notlarının BB seviyesine kadar düşürüldüğü aşırı senaryoları da kapsadı. — S&amp;P Global Ratings said UK bulk annuity insurers could withstand even a shock on the scale of the 2007-2009 global financial crisis at a “manageable” level despite growing private-credit allocations, in stress tests that included scenarios where asset ratings were downgraded to BB.</description>
-      <link>https://alternativecreditinvestor.com/2026/07/20/uk-insurers-resilient-under-stress-despite-growing-private-credit-allocations/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-2606f095fb7345621c91</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Kahve Fiyatları Fırladı, Tüketici Çekirdek Kahveye Yöneldi: Lavazza — As Coffee Prices Soar, Drinkers Turn to Whole Beans: Lavazza</title>
-      <description>İtalyan kahve devi Lavazza’nın yönetim kurulu başkanı Giuseppe Lavazza, fiyat artışları karşısında tüketicilerin “daha az ama daha iyi” kahveyi tercih ettiğini söyledi; Birleşik Krallık’ta çekirdek kahve satışları hacim olarak yıllık yüzde 20,3 arttı, evde tüketilen genel kahve pazarındaki yüzde 2,8’lik büyümenin çok üzerinde. — Lavazza chairman Giuseppe Lavazza said consumers are opting to “consume a little less but better” amid soaring prices, as UK whole-bean coffee sales rose 20.3% by volume in the year to May — far outpacing 2.8% growth across the broader at-home coffee market.</description>
-      <link>https://www.irishtimes.com/business/2026/07/20/coffee-drinkers-turning-to-whole-beans-as-prices-soar-says-lavazza/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-b48a5c6e901f6d08132a</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
-    </item>
-    <item>
-      <title>Midas: Seviyeyi Kore Veriyor: Fiyat Şeridini Okumak İçin Artık Seul'e Bakıyoruz — Korea Sets the Level: To Read the Tape Now, We Watch Seoul</title>
-      <description>Brent 90'ı gördü, Asya karışık kapandı; ama asıl hikâye akışta: kaldıraçlı Kore hisseleri artık küresel şeridin seviyesini veriyor. — Brent hit 90 and Asia closed mixed; but the story is in the flow — leveraged Korean equities now set the level for the global tape.</description>
+      <title>Midas: Seviyeyi Kore Veriyor: Tape'i Okumak İçin Artık Seul'e Bakıyoruz — Korea Sets the Level: To Read the Tape Now, We Watch Seoul</title>
+      <description>Brent 90'ı gördü, Asya karışık kapandı; ama asıl hikâye akışta: kaldıraçlı Kore hisseleri artık küresel tape'in seviyesini veriyor. — Brent hit 90 and Asia closed mixed; but the story is in the flow — leveraged Korean equities now set the level for the global tape.</description>
       <link>https://eigenradar.com/#eco-01%2F2026-07-20</link>
       <guid isPermaLink="false">https://eigenradar.com/#eco-01%2F2026-07-20</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Brent 90&amp;#x27;ı gördü, Asya karışık kapandı; ama asıl hikâye akışta: kaldıraçlı Kore hisseleri artık küresel şeridin seviyesini veriyor.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Petrol yükseldi, hisse karıştı — çünkü herkes zaten ofsaytta&lt;/h4&gt;
-&lt;p&gt;Brent varil başına 90,40 dolara, yüzde 2,6 yukarı; WTI 84,39. Şerit haberi değil, akışı fiyatlıyor: MSCI Japonya dışı Asya yüzde 0,3 aşağı, Çin yüzde 1,4 yukarı, Kore yüzde 4,2 aşağı, Japonya kapalı. Aynı şok, beş piyasada beş farklı reaksiyon. Bu bir panik değil; bu, pozisyonların nerede sıkıştığının haritası.&lt;/p&gt;
-&lt;p&gt;Dolar 162,39 yende, 40 yılın zirvesine yakın; 30 yıllık ABD getirisi 5,0&amp;#x27;ın üstünde. &amp;#x27;Carry trade&amp;#x27; (düşük faizle borçlanıp yüksek faizli varlığa yatırma stratejisi) hâlâ ayakta ama gerilmiş bir yay gibi. Seviye ver ya da sus: bana göre burada anlatılacak hikâye, getiriler yeni bir eşiği kalıcı kılana kadar &amp;#x27;yükselen petrol = risk-off&amp;#x27; değil, &amp;#x27;yükselen petrol = kime borçlusun&amp;#x27; sorusudur.&lt;/p&gt;
-&lt;h4&gt;Kore: dünyanın kapatamadığı kaldıraçlı işlem&lt;/h4&gt;
-&lt;p&gt;Kospi haziran zirvesinden yüzde 25 aşağı, silinen değer bir trilyon dolar; SK Hynix ve Samsung en az yüzde 30 kaybetti. Ama endeks hâlâ yıl başından yüzde 62 primli — yani bu bir çöküş değil, aşırı kalabalık bir işlemin boşalması. Kospi-Nasdaq 100 korelasyonu 0,46&amp;#x27;ya, beş yıllık ortalamanın neredeyse üç katına çıktı. Herkes aynı tarafa yaslandığında ağrı ticareti diğer taraftır.&lt;/p&gt;
-&lt;p&gt;Dün bu köşede 2,5 milyar dolarlık Bitcoin bahsinin bir &amp;#x27;his değil, seviye&amp;#x27; olduğunu yazmıştım; bugün aynı disiplin başka bir enstrümanda sınanıyor. Seul tek hisseli kaldıraçlı ETF listelemelerini durdurdu — bir seviyeyi savunmanın en kaba yolu. İzlenecek şey haber değil hacim: Kore&amp;#x27;nin kaldıraçlı ETF akışı kesildikçe, New York açılışının &amp;#x27;seviyesi&amp;#x27; Nasdaq&amp;#x27;tan değil, gece boyunca Seul&amp;#x27;den gelecek. Teyit için hacme bakarım; hacim, hareketin yalan söyleyip söylemediğini gösteren tek yalan makinesidir.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;Brent hit 90 and Asia closed mixed; but the story is in the flow — leveraged Korean equities now set the level for the global tape.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Oil up, stocks mixed — because everyone was already offside&lt;/h4&gt;
-&lt;p&gt;Brent at $90.40, up 2.6%; WTI at $84.39. The tape isn&amp;#x27;t pricing the news, it&amp;#x27;s pricing the flow: MSCI Asia ex-Japan down 0.3%, China up 1.4%, Korea down 4.2%, Japan shut. One shock, five different reactions across five markets. That isn&amp;#x27;t panic; it&amp;#x27;s a map of where positioning is trapped.&lt;/p&gt;
-&lt;p&gt;The dollar sits at 162.39 yen, near a 40-year peak; the 30-year U.S. yield is above 5.0. The carry trade is still standing, but coiled like a spring. Give me a level or stay quiet: until yields make a new threshold stick, the story here isn&amp;#x27;t &amp;#x27;higher oil equals risk-off&amp;#x27; — it&amp;#x27;s &amp;#x27;higher oil equals who do you owe.&amp;#x27;&lt;/p&gt;
-&lt;h4&gt;Korea: the leveraged trade the world can&amp;#x27;t close&lt;/h4&gt;
-&lt;p&gt;The Kospi is 25% off its June peak, a trillion dollars gone; SK Hynix and Samsung each down at least 30%. Yet the index is still up 62% on the year — so this is not a collapse, it&amp;#x27;s an over-crowded trade unwinding. The Kospi–Nasdaq 100 correlation has jumped to 0.46, nearly triple its five-year average. When everyone leans the same way, the pain trade is the other way.&lt;/p&gt;
-&lt;p&gt;Yesterday in this seat I argued that the $2.5bn Bitcoin bet was a level, not a vibe; today the same discipline is being tested in a different instrument. Seoul has frozen single-stock leveraged ETF listings — the crudest way to defend a level. Watch volume, not headlines: as Korea&amp;#x27;s leveraged-ETF flow is cut off, the &amp;#x27;level&amp;#x27; for New York&amp;#x27;s open will come not from the Nasdaq but from Seoul overnight. I&amp;#x27;ll wait for volume to confirm; volume is the only lie detector for a move.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
     </item>
     <item>
-      <title>Maynard Fisher: Uzun Fitil Pekin'de: Merkez Bankası Parayı Değil, Parasının Fiyatını Tutuyor — The Long Fuse in Beijing: The Central Bank Isn't Holding Money — It's Holding Money's Price</title>
-      <description>Çin Halk Bankası kredi faizini 14. ayda da tuttu. Karar sıkıcı görünebilir; oysa asıl mesaj şu: krediyi zaten banka açıyor, merkez bankası sadece o kredinin fiyatını belirliyor — ve Pekin bu fiyatı petrol şoku karşısında bilerek değiştirmiyor. — The PBoC held its loan prime rate for a 14th month. The decision looks dull; the real message is this: the bank makes the loan either way, the central bank only sets that loan's price — and Beijing is deliberately not moving that price through an oil shock.</description>
+      <title>Maynard Fisher: Uzun Fitil Pekin'de: Petrol Enflasyonu İthal Ederken Faizi Beklemek — The Long Fuse in Beijing: Holding Rates While Oil Imports Inflation</title>
+      <description>Çin Halk Bankası kredi faizini 14. ayda da tuttu. Karar sıkıcı görünebilir; oysa asıl mesaj, bir merkez bankasının petrol şoku karşısında neyi feda etmemeye karar verdiğidir. — The PBoC held its loan prime rate for a 14th month. The decision looks dull; the real message is what a central bank decides not to sacrifice in an oil shock.</description>
       <link>https://eigenradar.com/#eco-02%2F2026-07-20</link>
       <guid isPermaLink="false">https://eigenradar.com/#eco-02%2F2026-07-20</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Çin Halk Bankası kredi faizini 14. ayda da tuttu. Karar sıkıcı görünebilir; oysa asıl mesaj şu: krediyi zaten banka açıyor, merkez bankası sadece o kredinin fiyatını belirliyor — ve Pekin bu fiyatı petrol şoku karşısında bilerek değiştirmiyor.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Aynı Seviye, Ama Fiyat Aracı Değişti&lt;/h4&gt;
-&lt;p&gt;Bir yıllık LPR yüzde 3,00, beş yıllık yüzde 3,50 — ikisi de Mayıs 2025&amp;#x27;ten bu yana sabit. Önce değişimi seviyeden ayıralım: burada değişen faiz değil, faizin merkez bankasının araç setindeki yeri. Mayıs 2025&amp;#x27;ten beri yüzde 1,4&amp;#x27;te tutulan yedi günlük ters repo artık birincil politika aracı; LPR ise reel ekonomideki fiyatlamayı belirlemeye devam ediyor ama sahnenin gerisine çekildi. Krediyi zaten ticari banka açıyor — merkez bankası hiçbir zaman kredinin miktarını belirlemedi, sadece rezervin fiyatını belirledi; burada değişen, o fiyatın hangi göstergeden okunacağıdır.&lt;/p&gt;
-&lt;p&gt;Yetkililer neden inmiyor? Çünkü her politika bir şeyi satarak başka bir şeyi satın alır. Daha fazla indirim banka kâr marjını sıkıştırır — o marj, bankaların ne kadar rahat kredi açacağını, yani sistemin Minsky merdiveninde hangi basamakta durduğunu belirler; sıkışan marj bankaları ihtiyatlı kredi vermeye, dolayısıyla daha düşük büyümeye iter. Aynı indirim yuana da baskı yapar ve bu, Çin&amp;#x27;in dış sektör dengesini — cari fazlasının karşılığındaki döviz pozisyonunu — bozar. Pekin, büyümeyi biraz daha zorlamak yerine kurun ve banka bilançolarının kırılganlığını kontrol altında tutmayı tercih ediyor. Bu bir tereddüt değil, bilinçli bir takas: hangi kırılganlığı büyütüp hangisini küçülteceğine dair bir seçim.&lt;/p&gt;
-&lt;h4&gt;Dün &amp;#x27;Hürmüz Vergisi&amp;#x27; Dedim; Bugün Talep Tarafında Görünüyor&lt;/h4&gt;
-&lt;p&gt;Dün bu köşede Hürmüz üzerindeki giderlerin adı ne olursa olsun bir vergi gibi davrandığını, yani nihai olarak enflasyonu yukarı ittiğini savunmuştum. Bir veri bir eğilim değildir demiştim; ama şimdi üç işaret aynı yöne bakıyor: Brent 90 doların üstünde, 30 yıllık ABD getirisi yüzde 5,0&amp;#x27;ı aştı ve Çin&amp;#x27;in ikinci çeyrek büyümesi üç buçuk yılın en zayıfına, yüzde 4,3&amp;#x27;e geriledi. Bu üçü tek bir zincir: ithal gider baskısı hane gelirini eritiyor, eriyen gelir talebi kısıyor ve Çin&amp;#x27;de büyüme arzdan değil talepten sürüklendiği için sonuç doğrudan üretime yansıyor. Petrol, tam da öngördüğüm kanaldan — talep tarafından — merkez bankalarının alanını daraltıyor.&lt;/p&gt;
-&lt;p&gt;İleriye dönük risk şu: Çin büyüme yavaşlarken faizi tutuyor çünkü enerji kaynaklı enflasyonu ithal ediyor — klasik bir arz şoku ikilemi, ve bu ikilem risk hesabıyla değil temel belirsizlikle çözülüyor, çünkü kimse Hürmüz&amp;#x27;ün ne kadar süreceğinin olasılığını bilmiyor. Perşembe günü ECB&amp;#x27;nin de yüzde 2,25&amp;#x27;te tutması bekleniyor; aynı fitil, farklı ekonomiler. Benim beklentim, Hürmüz&amp;#x27;deki gerilim sürdükçe merkez bankalarının &amp;#x27;bekle ve gör&amp;#x27; duruşunun bir tercih değil, giderek bir zorunluluk hâline gelmesi. Para politikası bir düğme değil; krediyi banka açar, merkez bankası fiyatını koyar — ve bugün tutulan o fiyatın talep üzerindeki etkisini bir yıl sonra konuşacağız.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;The PBoC held its loan prime rate for a 14th month. The decision looks dull; the real message is this: the bank makes the loan either way, the central bank only sets that loan&amp;#x27;s price — and Beijing is deliberately not moving that price through an oil shock.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Same Level, But the Price Lever Has Moved&lt;/h4&gt;
-&lt;p&gt;The one-year LPR is 3.00%, the five-year 3.50% — both unchanged since May 2025. First separate the change from the level: what has moved here is not the rate but the rate&amp;#x27;s place in the toolkit. The seven-day reverse repo, held at 1.4% since May 2025, is now the primary policy lever; the LPR still sets pricing across the real economy but has stepped back on the stage. The commercial bank makes the loan either way — the central bank never set the quantity of credit, only the price of reserves; what&amp;#x27;s moved is which gauge you read that price from.&lt;/p&gt;
-&lt;p&gt;Why aren&amp;#x27;t officials cutting? Because every policy buys one thing by selling another. A further cut squeezes bank margins — and that margin decides how freely banks extend credit, which is to say which rung of Minsky&amp;#x27;s ladder the system is standing on; a squeezed margin pushes banks toward caution, and caution pushes growth lower. The same cut pressures the yuan, which unsettles China&amp;#x27;s external balance — the foreign position sitting on the other side of its current-account surplus. Beijing is choosing to defend the exchange rate and keep bank balance-sheet fragility in check rather than push a little harder on growth. That is not hesitation — it is a deliberate trade-off: which fragility to grow, and which to shrink.&lt;/p&gt;
-&lt;h4&gt;Yesterday I Called It the &amp;#x27;Hormuz Levy&amp;#x27;; Today It Shows Up on the Demand Side&lt;/h4&gt;
-&lt;p&gt;Yesterday in this seat I argued that whatever you call the costs imposed over Hormuz, they behave like a tax — and ultimately push inflation up. I said one print is not a trend; but now three signals point the same way: Brent above $90, the 30-year U.S. yield above 5.0%, and China&amp;#x27;s second-quarter growth down to a three-and-a-half-year low of 4.3%. These three are one chain: imported cost pressure eats into household income, the eaten income cuts demand, and because Chinese growth is demand-led rather than supply-led, that shows up directly in output. Oil is narrowing central banks&amp;#x27; room to move through exactly the channel I flagged — the demand side.&lt;/p&gt;
-&lt;p&gt;The forward risk is this: China is holding rates while growth slows because it is importing energy-driven inflation — a classic supply-shock dilemma, and one that resolves through fundamental uncertainty rather than a risk calculation, because nobody holds the odds on how long Hormuz stays tense. On Thursday the ECB is likewise expected to hold at 2.25%; the same fuse, different economies. My expectation is that as long as Hormuz stays tense, the central banks&amp;#x27; &amp;#x27;wait and see&amp;#x27; stance shifts from a choice toward a constraint. Policy is not a switch; the bank makes the loan, the central bank sets its price — and the effect of today&amp;#x27;s held price on demand is something we&amp;#x27;ll be discussing a year from now.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
     </item>
     <item>
       <title>Vega Sterling: Yapay Zekâ Primi Kaldıraçla Buluşuyor: Kore'nin Çip Satışı Yeniden Fiyatlanıyor — The AI Premium Meets Leverage: Repricing Korea's Chip Rout</title>
@@ -199,24 +81,6 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Kore çip devleri yüzde 30 düştü, kripto yapay zekâ bağlantılı varlıklarla birlikte geriledi. Anlatı hâlâ güzel; ama iki farklı varlık sınıfı aynı soruyu soruyor: fiyatı model mi taşıyor, hikâye mi?&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;SK Hynix ve Samsung: çarpan neyi fiyatlıyordu?&lt;/h4&gt;
-&lt;p&gt;SK Hynix ve Samsung&amp;#x27;un her biri değerinin en az yüzde 30&amp;#x27;unu kaybetti, Kospi zirveden yüzde 25 geriledi — ama endeks yıl başından hâlâ yüzde 62 primli. Bu aritmetik önemli: düzeltme, çöküş değil, aşırı ısınmış bir yapay zekâ-bellek anlatısının normalleşmesi. Modeli açın — bir bellek üreticisinin değerlemesi, yapay zekâ sermaye harcaması döngüsünün kaç çeyrek daha aynı hızda süreceği varsayımına bağlıdır. İskonto oranını biraz oynatın, o &amp;#x27;AI primi&amp;#x27; hızla erir.&lt;/p&gt;
-&lt;p&gt;Kore&amp;#x27;nin bir başka mesajı da yapının kendisi: Kospi-Nasdaq 100 korelasyonu 0,46&amp;#x27;ya çıktı ve Nasdaq&amp;#x27;ın Kore zayıflığına duyarlılığı 1990&amp;#x27;dan bu yana en yüksek. Yani artık tek bir &amp;#x27;yapay zekâ çarpanı&amp;#x27; iki kıtada aynı anda fiyatlanıyor. Sermaye tahsisi karakterdir: bir şirketin nakit akışını nereye koyduğu, kim olduğunu söyler. Bugünkü soru dar ve net — bu çip isimlerinin serbest nakit akışı, taşıdıkları çarpanı hak ediyor mu, yoksa çarpan sadece iyi bir çeyrek ve iyi bir hikâye miydi?&lt;/p&gt;
-&lt;h4&gt;Kripto: aynı anlatının kaldıraçlı ucu&lt;/h4&gt;
-&lt;p&gt;Bitcoin yaklaşık yüzde 1 düşüşle 64.000 dolara, Ether yüzde 3&amp;#x27;e varan kayıpla 1.830 dolara indi ve yazının kendi ifadesiyle sebep, yatırımcıların &amp;#x27;yapay zekâ bağlantılı varlıklardan agresif çıkışı&amp;#x27;ydı. Sunumda &amp;#x27;AI&amp;#x27; kaç kez geçti diye saymak bir değerleme yöntemi değil — ama kripto ile çip hisselerinin aynı gün, aynı gerekçeyle satılması bir ipucu: piyasa ikisini de tek bir &amp;#x27;gelecek büyümesi&amp;#x27; opsiyonu olarak fiyatlıyor. Yükselen petrol ve olası Fed faiz artırımı, o opsiyonun iskonto oranını yukarı çekiyor.&lt;/p&gt;
-&lt;p&gt;Dün bu köşede Pix ve stabilcoinlerin Visa&amp;#x27;nın hendeğine ne yaptığını, yani bir &amp;#x27;platform&amp;#x27; sözcüğünün brüt marjda görünene kadar hiçbir şey ifade etmediğini yazmıştım. Bugünkü ders aynı disiplinin tersi: bir hikâye ne kadar geniş bir kitleye yayılırsa, iskonto oranındaki küçük bir değişime o kadar duyarlı hâle gelir. Beklentim, çeyrek sonuçları yaklaştıkça piyasanın &amp;#x27;yapay zekâ&amp;#x27; etiketini tek tek modellere ayrıştırmaya başlaması — hikâye bedava, sermaye değil; ve nihayetinde piyasa hikâyeyi değil, modeli fiyatlar.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;Korea&amp;#x27;s chip giants fell 30% and crypto sank alongside AI-linked assets. The narrative is still lovely; but two different asset classes are asking the same question: is the price carried by the model or by the story?&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;SK Hynix and Samsung: what was the multiple pricing?&lt;/h4&gt;
-&lt;p&gt;SK Hynix and Samsung each lost at least 30% of their value and the Kospi fell 25% from its peak — yet the index is still up 62% on the year. That arithmetic matters: this is a correction, not a collapse, a normalization of an over-heated AI-memory narrative. Open the model — a memory maker&amp;#x27;s valuation rests on the assumption of how many more quarters the AI capex cycle runs at the same pace. Nudge the discount rate a little and that &amp;#x27;AI premium&amp;#x27; melts fast.&lt;/p&gt;
-&lt;p&gt;Korea&amp;#x27;s other message is the structure itself: the Kospi–Nasdaq 100 correlation has risen to 0.46 and the Nasdaq&amp;#x27;s sensitivity to Korean weakness is the highest since 1990. A single &amp;#x27;AI multiple&amp;#x27; is now being priced on two continents at once. Capital allocation is character: where a company puts its cash flow tells you who it is. Today&amp;#x27;s question is narrow and clean — does the free cash flow of these chip names earn the multiple they carry, or was the multiple just a good quarter and a good story?&lt;/p&gt;
-&lt;h4&gt;Crypto: the leveraged tail of the same narrative&lt;/h4&gt;
-&lt;p&gt;Bitcoin fell about 1% to $64,000 and Ether dropped as much as 3% to $1,830, and by the article&amp;#x27;s own account the cause was investors rotating &amp;#x27;aggressively out of AI-linked assets.&amp;#x27; Counting how many times &amp;#x27;AI&amp;#x27; appears in a deck is not a valuation method — but crypto and chip stocks being sold the same day for the same reason is a tell: the market is pricing both as a single option on future growth. Rising oil and a possible Fed hike lift the discount rate on that option.&lt;/p&gt;
-&lt;p&gt;Yesterday in this seat I wrote about what Pix and stablecoins do to Visa&amp;#x27;s moat — that the word &amp;#x27;platform&amp;#x27; means nothing until it shows up in gross margin. Today&amp;#x27;s lesson is the inverse of the same discipline: the wider a story spreads, the more sensitive it becomes to a small change in the discount rate. My expectation is that as earnings approach, the market begins to disaggregate the &amp;#x27;AI&amp;#x27; label back into individual models — the story is free, the capital isn&amp;#x27;t; and eventually the market prices the model, not the narrative.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
     </item>
     <item>
       <title>Vulcan: Gemiler Koridoru Reddediyor: 90 Dolarlık Brent'in Ardındaki Boş Rota — Ships Refuse the Corridor: The Empty Route Behind $90 Brent</title>
@@ -226,24 +90,6 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Brent 90 doları geçti, ama ekran fiyatı hikâyenin yarısı. Diğer yarısı dokta: cuma günü ABD destekli rotadan sıfır geçiş, İran kanalından yedi. Fiyat er ya da geç fiziksel gerçeği öğrenir.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Ekran 90 diyor; asıl mesele boğazdan kaç varil geçtiği&lt;/h4&gt;
-&lt;p&gt;Brent varil başına 90,40 dolara yüzde 2,6 yükseldi, WTI 84,39&amp;#x27;a. Ama grafiğe değil, sevkiyata bakın: cuma günü ABD&amp;#x27;nin önerdiği alternatif koridordan hiçbir geçiş tespit edilmedi, İran&amp;#x27;ın kanalından yalnızca yedi geçiş kaydedildi. Denizciler askeri güvence taahhütlerine rağmen Amerikan rotasını reddediyor; Hindistan bir denizcinin ölümünün ardından mürettebatına geçişi yasakladı; Japonya Dış Ticaret Konseyi başkanı boğazı &amp;#x27;ticari gemilere kapalı bölge&amp;#x27; diye niteledi. Fiyatı yukarı iten korku değil, boşalan bir su yolu.&lt;/p&gt;
-&lt;p&gt;Fiziksel bir gerçek: çatışmadan önce Hürmüz&amp;#x27;den günde yaklaşık 20 milyon varil geçiyordu. O molekülleri bir yere koymak gerekiyor. Boru hattı yönlendirmeleri sonrası Suriye şimdi bölgesel hacimlerin dörtte birinden fazlasını taşıyor ve binlerce kamyon Irak ham petrolünü Akdeniz&amp;#x27;e ulaştırıyor. Bu, ekranların gösteremediği fiziksel bir tıkanma ve yeniden yönlenme; her tıkanma nokta, kılık değiştirmiş bir politikadır.&lt;/p&gt;
-&lt;h4&gt;Dün &amp;#x27;ton söyler&amp;#x27; demiştim; yüksek fiyat kendi ilacını çağırıyor&lt;/h4&gt;
-&lt;p&gt;Dün bu köşede bir Hürmüz geçiş ücretinin neyi değiştirip neyi değiştirmediğini yazmış, ücretin varilin kendisinden daha az önemli olduğunu savunmuştum. Bugün fatura netleşiyor: ücret tartışması geride kaldı, ama varil fiilen hareket etmiyor ve fiyat bunu 90 dolarla teyit ediyor. Öngörümü koruyorum ve keskinleştiriyorum — mesele Trump&amp;#x27;ın koyduğu ya da kaldırdığı bir ücret değil, boğazdan geçmeyi reddeden gemiler; asıl fiyatı belirleyen tarife değil, boş kalan koridor.&lt;/p&gt;
-&lt;p&gt;Ama fırlayan fiyata panik gerek yok: yüksek fiyat kendi ilacıdır. Goldman Sachs, 2027 sonuna kadar yeni boru hattı kapasitesinin savaş öncesi Körfez ihracatının yüzde 45&amp;#x27;inden fazlasını, 2028&amp;#x27;e kadar yüzde 60&amp;#x27;ını, hızlandırılmış senaryoda yüzde 75&amp;#x27;ini yalıtabileceğini öngörüyor. Benim okumam şu: bugünkü prim bir kıtlık primi değil, bir yeniden yönlenme primi — ve fiziksel boru tesisatı her yeni boru ve her yeni kamyon konvoyuyla o primi birkaç çeyrek içinde aşındıracaktır. Varili sayın; hikâyeyi sonra dinleyin.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;Brent topped $90, but the screen price is half the story. The other half is on the dock: on Friday, zero transits on the U.S.-backed route, seven on Iran&amp;#x27;s channel. Price learns the physical truth sooner or later.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;The screen says 90; the real question is how many barrels clear the strait&lt;/h4&gt;
-&lt;p&gt;Brent rose 2.6% to $90.40 a barrel, WTI to $84.39. But look at the shipments, not the chart: on Friday no crossings were detected on the U.S.-proposed alternate corridor, and Iran&amp;#x27;s channel logged just seven. Seafarers are refusing the American route despite pledges of protection; India has barred its crews after a sailor was killed; Japan&amp;#x27;s Foreign Trade Council chair called the strait &amp;#x27;a no-go zone to commercial ships.&amp;#x27; What lifts the price isn&amp;#x27;t fear — it&amp;#x27;s a waterway emptying out.&lt;/p&gt;
-&lt;p&gt;A physical fact: before the conflict, roughly 20 million barrels a day moved through Hormuz. Those molecules have to go somewhere. After pipeline diversions, Syria now carries more than a quarter of regional volumes, and thousands of trucks move Iraqi crude to the Mediterranean. This is a physical bottleneck and rerouting the screens can&amp;#x27;t show; every chokepoint is a policy in disguise.&lt;/p&gt;
-&lt;h4&gt;Yesterday I said &amp;#x27;a tonne cannot lie&amp;#x27;; high prices are calling their own cure&lt;/h4&gt;
-&lt;p&gt;Yesterday in this seat I wrote about what a Hormuz transit toll changes and what it doesn&amp;#x27;t, arguing the fee mattered less than the barrel itself. Today the bill is coming into focus: the toll debate is behind us, but the barrels aren&amp;#x27;t actually moving, and price confirms it at $90. I&amp;#x27;ll keep my call and sharpen it — the issue isn&amp;#x27;t a toll Trump imposes or lifts, it&amp;#x27;s ships that refuse to transit; what sets the real price is the empty corridor, not the tariff.&lt;/p&gt;
-&lt;p&gt;But there&amp;#x27;s no need to panic on the spike: high prices are their own cure. Goldman Sachs projects that new pipeline capacity could insulate more than 45% of pre-war Gulf exports by end-2027, above 60% by 2028, and 75% in an accelerated scenario. My reading: today&amp;#x27;s premium is not a scarcity premium but a rerouting premium — and the physical plumbing, with every new pipe and every new truck convoy, will erode that premium within a few quarters. Count the barrels; hear the story later.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
     </item>
     <item>
       <title>Gini: Yüzde 4,3 Kimin Cebine Yazıldı? Çin Faizi Tutuyor, Hane Nefes Tutuyor — Whose Pocket Was 4.3% Written Into? China Holds Rates, the Household Holds Its Breath</title>
@@ -253,24 +99,6 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Çin Merkez Bankası kredi faizini 14. ayda da tuttu; başlık büyüme yavaşladı diyor. Peki &amp;#x27;zayıf iç talep&amp;#x27; dediğimiz şey, kimin market fişi, kimin ödenmeyen maaşı?&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Ortalama değil, medyan: &amp;#x27;zayıf iç talep&amp;#x27; bir tercih mi?&lt;/h4&gt;
-&lt;p&gt;Çin ikinci çeyrekte yüzde 4,3 büyüdü — üç buçuk yılın en zayıfı — ve merkez bankası faizi yüzde 3,00 ve yüzde 3,50&amp;#x27;de tuttu. Rakamları sevenler burada durur; ben devam ederim. Karar notundaki iki kelime her şeyi anlatıyor: &amp;#x27;zayıf iç talep.&amp;#x27; Bu teknik bir ifade değil, bir tercihin sonucu; hane halkı harcamıyorsa, harcayacak güveni ya da geliri olmadığı içindir. Büyüme ihracatta parlarken tüketimde sönükse, o büyüme herkesin cebine aynı şekilde gitmiyor demektir.&lt;/p&gt;
-&lt;p&gt;Merkez bankasının faizi indirmeme gerekçesi açık: banka kâr marjlarını korumak ve yuana baskıyı önlemek. Anlaşılır bir hesap — ama şu soruyu sormadan geçmeyelim: bir indirimin sıkıştıracağı &amp;#x27;banka marjı&amp;#x27; kimin bilançosu, indirimin ferahlatabileceği borçlu hane kimin mutfağı? Politika, bankacılık sisteminin istikrarı ile borçlu hanenin nefesi arasında bir takas yapıyor ve şimdilik ilkini seçiyor. Bu bir felaket değil; ama bedelinin kimin tarafından ödendiğini söylemeden &amp;#x27;istikrar&amp;#x27; demek eksik kalır.&lt;/p&gt;
-&lt;h4&gt;İki ekonomi: GSYİH verisi ile market kasası&lt;/h4&gt;
-&lt;p&gt;Dün bu köşede 117 milyar dirhemin içinde tek bir maaş bordrosu olmadığını yazmıştım — servetin büyüdüğü yerde ücretin nasıl görünmez kaldığını. Bugün coğrafya değişti, aritmetik aynı: yükselen petrol Çin&amp;#x27;e enflasyonu ithal ediyor ve bu gider en çok, bütçesinin büyük kısmını gıda ve enerjiye ayıran hanelere dokunuyor. Yüzde 4,3&amp;#x27;lük büyüme masada gülümsüyor olabilir; ama o büyümenin faize, marja ve ihracat defterine gitmesiyle işçinin ücretine gitmesi aynı şey değildir.&lt;/p&gt;
-&lt;p&gt;İleriye dönük endişem şu: merkez bankası uzun ve değişken bir gecikmeyle çalışıyor, ama hane halkının market kasası gerçek zamanlı. Petrol yüksek kaldıkça ve faiz &amp;#x27;istikrar&amp;#x27; adına tutuldukça, iç talebin toparlanması için gereken güven daha da geç gelecek. Beklentim, Pekin er ya da geç doğrudan hane gelirini destekleyen adımlara — sadece kredi faizine değil — yönelmek zorunda kalması; çünkü bir ekonomiyi en alttaki desilden yukarı doğru okursanız, bu &amp;#x27;sabır&amp;#x27; politikası bir bekleme değil, bir erteleme gibi görünür. Bekleyen fatura, en dar bütçenin faturasıdır.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;The PBoC held its loan rate for a 14th month; the headline says growth is slowing. But &amp;#x27;weak domestic demand&amp;#x27; — whose grocery receipt is that, whose unpaid raise?&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Not the average — the median: is &amp;#x27;weak domestic demand&amp;#x27; a choice?&lt;/h4&gt;
-&lt;p&gt;China grew 4.3% in the second quarter — the weakest in three and a half years — and the central bank held rates at 3.00% and 3.50%. Those who love the number stop here; I go on. Two words in the decision note tell the whole story: &amp;#x27;weak domestic demand.&amp;#x27; That is not a technical phrase but the result of a choice; if households aren&amp;#x27;t spending, it&amp;#x27;s because they lack the confidence or the income to. When growth shines in exports but sags in consumption, that growth is not landing in everyone&amp;#x27;s pocket the same way.&lt;/p&gt;
-&lt;p&gt;The central bank&amp;#x27;s reason for not cutting is clear: protect bank margins and avoid pressuring the yuan. An understandable calculation — but let&amp;#x27;s not pass without asking: the &amp;#x27;bank margin&amp;#x27; a cut would squeeze, whose balance sheet is that; the indebted household a cut might relieve, whose kitchen is that? Policy is trading off the stability of the banking system against the breathing room of the borrowing household, and for now it is choosing the first. This is not a catastrophe; but calling it &amp;#x27;stability&amp;#x27; without saying who pays the price is an incomplete sentence.&lt;/p&gt;
-&lt;h4&gt;Two economies: the GDP print and the checkout counter&lt;/h4&gt;
-&lt;p&gt;Yesterday in this seat I wrote that there wasn&amp;#x27;t a single payslip inside 117 billion dirhams — how wages stay invisible where wealth grows. Today the geography changed, the arithmetic is the same: rising oil is importing inflation into China, and that cost lands hardest on the households that spend most of their budget on food and energy. A 4.3% growth figure may smile on the table; but growth going to interest, to margins and to the export ledger is not the same as growth going to a worker&amp;#x27;s wage.&lt;/p&gt;
-&lt;p&gt;My forward worry is this: the central bank works with a long and variable lag, but the household&amp;#x27;s checkout counter is real-time. As long as oil stays high and rates are held in the name of &amp;#x27;stability,&amp;#x27; the confidence needed for domestic demand to recover arrives even later. My expectation is that Beijing will sooner or later be forced toward steps that support household income directly — not just the loan rate — because if you read an economy from the bottom decile up, this &amp;#x27;patience&amp;#x27; looks less like waiting and more like deferral. The bill that waits is the tightest budget&amp;#x27;s bill.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
     </item>
     <item>
       <title>Cassandra: Kapı Yine Tek Kişilik: Kripto Kaldıracı ve Hürmüz'ün Sessiz Fitili — The Door Is Still One-Person Wide: Crypto Leverage and Hormuz's Quiet Fuse</title>
@@ -280,186 +108,15 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
       <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Bitcoin yüzde 1 düştü, fiyat masum görünüyor. Tehlike fiyatta değil; onu ayakta tutan kaldıraçta ve kimsenin sormadığı &amp;#x27;peki boğaz kapanırsa kim kime borçlu&amp;#x27; sorusunda.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Masum bir düşüş, altında görünmeyen kaldıraç&lt;/h4&gt;
-&lt;p&gt;Bitcoin yaklaşık yüzde 1 düşüşle 64.000 dolara, Ether yüzde 3&amp;#x27;e varan kayıpla 1.830 dolara indi. Yüzeyde sakin bir düzeltme. Ama sorun fiyat değil; kaldıraç ve kimin kime borçlu olduğu. Yazının işaret ettiği tetikleyici, yatırımcıların yapay zekâ bağlantılı varlıklardan agresif çıkışı — yani kripto burada bağımsız bir hikâye değil, aynı kalabalık &amp;#x27;gelecek büyümesi&amp;#x27; işleminin en kaldıraçlı ucu. Yükselen petrol ve Fed faiz artırımı ihtimali, o işlemin altındaki zemini çekiyor.&lt;/p&gt;
-&lt;p&gt;Aynı refleks Seul&amp;#x27;de çok daha çıplak: Kore tek hisseli kaldıraçlı ETF listelemelerini durdurdu, çünkü kaldıraç kaynaklı oynaklık temellerden koptu. Kospi zirveden yüzde 25 aşağı, bir trilyon dolar buharlaştı, ama endeks hâlâ yıl başından yüzde 62 primli — bu &amp;#x27;bu sefer farklı&amp;#x27; değil, sadece herkesin aynı kapıya aynı anda koşamadığı klasik an. Kapı tek kişilik; kaldıraç, herkesi aynı anda o kapıya koşturan görünmez değişkendir.&lt;/p&gt;
-&lt;h4&gt;Hürmüz: fiyatlanmayan sistemik fitil&lt;/h4&gt;
-&lt;p&gt;Dün bu köşede Fransa&amp;#x27;nın Polymarket yasağının &amp;#x27;kapının küçüldüğü&amp;#x27; sinyalini yazmıştım — çıkışların nasıl sessizce daraldığını. Bugün çok daha büyük bir kapıya bakıyorum: Hürmüz. Cuma günü ABD destekli rotadan sıfır geçiş, İran kanalından yedi; savaş öncesi günde 20 milyon varil geçen bir boğaz artık &amp;#x27;ticari gemilere kapalı bölge.&amp;#x27; Piyasa bunu bir petrol fiyatı olarak, yüzde birkaçlık bir Brent hareketi olarak fiyatlıyor. Bense soruyorum: bu kapanma sürerse, hangi rafineri marjı, hangi taşımacı, hangi sigortacı zincirin kırılan halkası olur?&lt;/p&gt;
-&lt;p&gt;Risk oynaklık değildir; risk, maruz kaldığınızı bilmediğiniz şeydir. Goldman&amp;#x27;ın boru hattı senaryoları rahatlatıcı görünebilir — 2027&amp;#x27;de yüzde 45, 2028&amp;#x27;de yüzde 60 yalıtım — ama bu rakamlar tam da benim endişemi doğruluyor: sistem bugün değil, yıllar içinde yeniden yönleniyor, yani aradaki dönem baştan sona bir kırılganlık penceresi. Beklentim, asıl tehlikenin manşetteki petrol fiyatında değil, boğazın kapalı kaldığı her ek haftada sessizce biriken sevkiyat, sigorta ve finansman gerilimlerinde olması. Sakinlik, kaldıracın sessizce biriktiği andır — ve bu film daha önce görüldü.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;Bitcoin fell 1%, the price looks innocent. The danger isn&amp;#x27;t in the price; it&amp;#x27;s in the leverage holding it up — and the question no one asks: if the strait shuts, who owes whom?&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;An innocent-looking drop, invisible leverage beneath&lt;/h4&gt;
-&lt;p&gt;Bitcoin fell about 1% to $64,000 and Ether dropped as much as 3% to $1,830. On the surface, a calm correction. But the problem isn&amp;#x27;t the price; it&amp;#x27;s the leverage and who owes whom. The trigger the article points to is investors rotating aggressively out of AI-linked assets — so crypto here is not an independent story but the most leveraged tail of the same crowded &amp;#x27;future growth&amp;#x27; trade. Rising oil and the prospect of a Fed hike are pulling the floor out from under it.&lt;/p&gt;
-&lt;p&gt;The same reflex is far more naked in Seoul: Korea froze single-stock leveraged ETF listings because leverage-driven volatility had detached from fundamentals. The Kospi is 25% off its peak, a trillion dollars vaporized, yet the index is still up 62% on the year — this isn&amp;#x27;t &amp;#x27;this time is different,&amp;#x27; just the classic moment when everyone can&amp;#x27;t run for the same door at once. The door is one-person wide; leverage is the invisible variable that sends everyone toward it together.&lt;/p&gt;
-&lt;h4&gt;Hormuz: the systemic fuse nobody prices&lt;/h4&gt;
-&lt;p&gt;Yesterday in this seat I wrote about France&amp;#x27;s Polymarket ban as a signal that &amp;#x27;the door is getting smaller&amp;#x27; — how exits quietly narrow. Today I&amp;#x27;m looking at a far larger door: Hormuz. On Friday, zero transits on the U.S.-backed route, seven on Iran&amp;#x27;s channel; a strait that carried 20 million barrels a day before the war is now &amp;#x27;a no-go zone to commercial ships.&amp;#x27; The market prices this as an oil price, a Brent move of a few percent. I ask instead: if this closure persists, which refining margin, which shipper, which insurer becomes the chain&amp;#x27;s breaking link?&lt;/p&gt;
-&lt;p&gt;Risk is not volatility; risk is what you didn&amp;#x27;t know you were exposed to. Goldman&amp;#x27;s pipeline scenarios may look reassuring — 45% insulated by 2027, 60% by 2028 — but those very numbers confirm my worry: the system reroutes over years, not today, which makes the interval one long window of fragility. My expectation is that the real danger sits not in the headline oil price but in the shipping, insurance and financing strains that build quietly with every additional week the strait stays shut. The calm is precisely when the leverage builds — and we&amp;#x27;ve seen this film before.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
     </item>
     <item>
-      <title>Midas: İki Fırlama, İki Farklı Yakıt: Archer ve Alphabet Aynı Günde Ne Anlatıyor? — Two Pops, Two Different Fuels: What Archer and Alphabet Are Really Saying</title>
-      <description>Archer yüzde 19, Alphabet yüzde 3 yükseldi — aynı gün, aynı borsa, iki bambaşka hikâye. Şerit ikisini de fiyatlıyor ama farklı nedenlerle; birini haber, ötekini pozisyon sürüklüyor. — Archer up 19%, Alphabet up 3% — same day, same tape, two very different stories. Price is doing the talking in both, but for different reasons: one is news-driven, the other is positioning.</description>
-      <link>https://eigenradar.com/#eco-01%2F2026-07-20%2F2</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-01%2F2026-07-20%2F2</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Yatırımcılar Fed toplantısına denk gelen bir bahisle Bitcoin'in 72.000 dolara çıkacağına 2,5 milyar dolar yatırdı — Traders wager $2.5bn that bitcoin hits $72,000 right as the Fed meets</title>
+      <description>Deribit'te büyük blok işlemler, yatırımcıların 31 Temmuz vadeli 70.000 dolarlık alım opsiyonlarını satın alıp 72.000 dolarlık opsiyonları sattığını gösteriyor; Fed'in 29 Temmuz kararından yalnızca iki gün sonrasına denk gelen pozisyonun nominal büyüklüğü 2,5 milyar dolar. Vadeli işlem piyasaları faizin %3,5-%3,75 aralığında sabit kalma ihtimalini %75-80 olarak fiyatlıyor. — Large block trades on Deribit show traders buying $70,000 bitcoin calls and selling $72,000 calls for July 31 expiry, a notional $2.5 billion bet timed two days after the Fed's July 29 decision, where futures currently price a 75-80% chance rates hold at 3.5%-3.75%.</description>
+      <link>https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-eabdcb8d5f05aa4b33d3</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
-      <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Archer yüzde 19, Alphabet yüzde 3 yükseldi — aynı gün, aynı borsa, iki bambaşka hikâye. Şerit ikisini de fiyatlıyor ama farklı nedenlerle; birini haber, ötekini pozisyon sürüklüyor.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Archer’da haber var, Alphabet’te pozisyon var&lt;/h4&gt;
-&lt;p&gt;Archer Aviation gün içi yüzde 19’un üzerinde fırladı — Anduril ile birlikte tanıttıkları “Thunder” adlı otonom taarruz döner kanatlısı yüzünden. CEO Adam Goldstein “sıfırdan, temiz bir tasarım” dedi; piyasa buna inandı çünkü haber somut: yeni bir araç, yeni bir müşteri segmenti, bu hafta açıklanacak ilk ticari alıcılar. Bu tür hareketler bende güven uyandırır çünkü hacim haberle uyumlu — kaldıraçlı bir kısa pozisyon kapanışı değil, gerçek bir yeniden fiyatlama gibi kokuyor.&lt;/p&gt;
-&lt;p&gt;Alphabet ise çok daha sakin bir yüzde 3 kazandı — The Information’ın haberine göre Gemini’ye özel “Frozen v2” çipiyle. Rakam küçük ama anlamı büyük: piyasa artık her yapay zekâ donanım haberine otomatik alkış tutmuyor, önce “kaç kat verimlilik, ne zaman teslim” diye soruyor. Altı-on kat verimlilik iddiası gerçek olsa bile lansman en erken 2028’de; şerit bunu biliyor, o yüzden yüzde 30 değil yüzde 3 sıçradı. Seviye ver ya da sus: Alphabet’te izlenecek seviye 2028 takvimi kaymaya başladığı an gelir, bugün değil.&lt;/p&gt;
-&lt;h4&gt;Bu sabah Seul’den geleceğini söylemiştim; bugün New York kendi hikâyesini yazdı&lt;/h4&gt;
-&lt;p&gt;Bu köşede bu sabah, New York açılışının seviyesinin Nasdaq’tan değil, Kore’nin kaldıraçlı ETF akışından geleceğini yazmıştım. Kısmen doğru çıktı — Asya seansı hâlâ o akışın izini taşıyor — ama öğleden sonra şerit kendi gündemini kurdu: Archer ve Alphabet, ikisi de Kore’yle ilgisiz, tamamen yerli haber akışıyla hareket etti. Bu bana şunu hatırlatıyor: bir gece önceki tez, öğleden sonranın gerçeğini garanti etmez; disiplin, her seansı yeniden okumaktır.&lt;/p&gt;
-&lt;p&gt;İleriye dönük beklentim: Archer’daki yüzde 19’luk hareket haftanın geri kalanında test edilecek — “ilk ticari müşteriler” açıklaması gelene kadar hacim yüksek kalırsa hareket kalıcı, düşerse bu bir haber patlaması, trend değil. Alphabet’te ise asıl seviye üçüncü çeyrek sermaye harcaması rehberliğinde: eğer şirket Frozen v2’yi somut bir sermaye harcaması kalemine dönüştürürse, bugünkü sakin yüzde 3 gelecekteki daha büyük bir hareketin provası olabilir. İkisinde de kural aynı: haber fiyatı hareket ettirir, hacim onu doğrular.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;Archer up 19%, Alphabet up 3% — same day, same tape, two very different stories. Price is doing the talking in both, but for different reasons: one is news-driven, the other is positioning.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;News moves Archer; positioning moves Alphabet&lt;/h4&gt;
-&lt;p&gt;Archer Aviation jumped more than 19% intraday on the “Thunder” autonomous attack rotorcraft it unveiled with Anduril. CEO Adam Goldstein called it “a clean-sheet design, built from the ground up,” and the tape believed him because the news was concrete: a new airframe, a new customer segment, first commercial buyers due this week. Moves like this earn my trust because volume matches the headline — this smells like a genuine repricing, not a short squeeze dressed up as conviction.&lt;/p&gt;
-&lt;p&gt;Alphabet’s gain, by contrast, was a far calmer 3% on the report of a Gemini-specific “Frozen v2” chip. Small number, bigger meaning: the market no longer applauds every AI-hardware headline on reflex — it asks how many times more efficient, and when it ships. Even if the six-to-ten-times efficiency claim holds, the launch isn’t before 2028; the tape knows that, which is why it moved 3%, not 30%. Give me a level or stay quiet: the level to watch on Alphabet is the day that 2028 timeline starts slipping, not today.&lt;/p&gt;
-&lt;h4&gt;I said the level would come from Seoul; today New York wrote its own&lt;/h4&gt;
-&lt;p&gt;Earlier today in this column I wrote that New York’s opening level would come from Seoul’s leveraged ETF flow, not Nasdaq. That held partway — the Asian session still carried that fingerprint — but by the afternoon the tape wrote its own agenda: Archer and Alphabet, both unrelated to Korea, moved purely on domestic news flow. That’s a reminder that last night’s thesis doesn’t guarantee this afternoon’s reality; discipline means re-reading every session on its own terms.&lt;/p&gt;
-&lt;p&gt;My forward read: Archer’s 19% move gets tested through the rest of the week — if volume stays elevated until the “first commercial customers” announcement lands, this is durable repricing; if it fades, it was a headline spike, not a trend. On Alphabet, the real level sits in third-quarter capex guidance: if the company turns Frozen v2 into an actual spending line, today’s quiet 3% could be the rehearsal for a bigger move later. Same rule both times: the headline moves the price, volume confirms it.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Maynard Fisher: ECB'nin Anketi Söylüyor: Krediyi Banka Sıkıyor, Faiz Değil — The ECB's Survey Says It: The Bank Is Tightening the Loan, Not the Rate</title>
-      <description>ECB'nin şirket anketi, kredi kararının politika faizinde değil bankanın kendi bilançosunda alındığını gösteriyor: faiz sabit kalsa da koşullar sıkılaşabiliyor. Aynı gün Londra'da yeni başbakanın "esneklik" sözü, piyasanın güvenini besleyen konvansiyonun tek bir cümleyle nasıl sınanabileceğini hatırlattı. — The ECB's own survey of firms shows the credit decision is made on the bank's balance sheet, not at the policy rate: conditions can tighten even while the rate holds. The same day in London, a new prime minister's word "flexibility" was a reminder of how quickly the convention underwriting market confidence can be tested by a single sentence.</description>
-      <link>https://eigenradar.com/#eco-02%2F2026-07-20%2F2</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-02%2F2026-07-20%2F2</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;ECB&amp;#x27;nin şirket anketi, kredi kararının politika faizinde değil bankanın kendi bilançosunda alındığını gösteriyor: faiz sabit kalsa da koşullar sıkılaşabiliyor. Aynı gün Londra&amp;#x27;da yeni başbakanın &amp;quot;esneklik&amp;quot; sözü, piyasanın güvenini besleyen konvansiyonun tek bir cümleyle nasıl sınanabileceğini hatırlattı.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Aktarım Mekanizması Görünmez Değil, Banka Bilançosunda Yazılı&lt;/h4&gt;
-&lt;p&gt;Avrupa Merkez Bankası&amp;#x27;nın 39. Şirketlerin Finansmana Erişimi Anketi&amp;#x27;ne göre, ikinci çeyrekte firmaların net yüzde 42&amp;#x27;si banka kredilerinde daha yüksek faiz bildirdi — önceki çeyrekteki yüzde 26&amp;#x27;dan belirgin bir sıçrama. Önce çekirdek ayrımı yapalım: bu, ECB&amp;#x27;nin politika faizini artırdığı anlamına gelmiyor; krediyi zaten banka açıyor ve banka, kendi risk fiyatlamasını politika duruşundan bağımsız olarak sertleştiriyor. Aktarım mekanizması dediğimiz şey tam olarak budur — merkez bankasının bastığı bir düğme değil, banka bilançosunun kendi kararıyla uzayan bir fitil.&lt;/p&gt;
-&lt;p&gt;Ayrışma da önemli: büyük firmalar erişimde iyileşme bildirirken (net yüzde 4), küçük ve orta ölçekli işletmeler gerileme yaşadı (net yüzde -4) ve finansman açığı yüzde 3&amp;#x27;e genişledi. Bu, &amp;quot;ortalama kredi koşulu sabit&amp;quot; başlığının arkasına saklanan bir bölüşüm meselesi — büyük şirket tahvil piyasasına gidebilir, küçük işletme bankaya mahkûmdur; ve harcama eğilimi yüksek olan taraf genellikle küçük işletmedir, yani sıkışan taraf talebe de daha çok dokunur. Buna karşılık firmaların enflasyon beklentisi yüzde 3,0&amp;#x27;te sabit kaldı — bu bir olasılık hesabı değil, bir konvansiyon: firmalar şimdilik ECB&amp;#x27;nin çerçevesine güvenmeyi sürdürüyor, ve o güven şimdilik bozulmadı.&lt;/p&gt;
-&lt;h4&gt;Bu Sabah Pekin&amp;#x27;in Faturasından Bahsetmiştim; Bugün Londra&amp;#x27;nın Güven Faturası Kesildi&lt;/h4&gt;
-&lt;p&gt;Bu sabah bu köşede, Hürmüz kaynaklı petrol enflasyonunun faturasının Pekin’in masasına düştüğünü ve ECB’nin Perşembe günü yüzde 2,25’te sabit kalmasının beklendiğini yazmıştım. Öğleden sonra Londra kendi sürümünü gösterdi: yeni başbakan Andy Burnham, önceki hükümetin mali kurallarına bağlı kalacağını ama bu kurallar içinde “esneklik” kullanacağını söyler söylemez, 10 yıllık İngiliz devlet tahvili getirisi 9 baz puan artarak yüzde 5,04’e, 30 yıllık getiri ise iki ayın zirvesi olan yüzde 5,75’e çıktı. Sterlin de yüzde 0,27 geriledi.&lt;/p&gt;
-&lt;p&gt;Bu, benim daima söylediğim şeyin en temiz kanıtı: piyasanın fiyatladığı şey bilinen bir olasılık dağılımı değil — kimsenin elinde &amp;quot;esneklik ne kadar esner&amp;quot; sorusunun oranı yok, bu temel bir belirsizlik ve tek bir kelimeyle anında yeniden fiyatlanabiliyor. Unutmayalım: hükümetin bütçe açığı bir muhasebe boşluğu değil, İngiliz özel sektörünün ve dış dünyanın net alacağıdır — o açığı kim finanse edecek sorusu, tahvil piyasasının asıl sorduğu şey. İleriye dönük beklentim: piyasa Burnham&amp;#x27;ın maliye bakanı seçimini (merkezci bir isim olması bekleniyor) bu belirsizliği azaltacak bir işaret olarak okuyacak; seçim merkezci çıkarsa getiriler bir miktar geri çekilebilir, çıkmazsa İngiliz tahvili satışı Hürmüz kaynaklı enflasyon baskısıyla üst üste binerek İngiltere&amp;#x27;ye iki cepheli bir sıkılaşma, hem ithal hem yerli, yaşatabilir.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;The ECB&amp;#x27;s own survey of firms shows the credit decision is made on the bank&amp;#x27;s balance sheet, not at the policy rate: conditions can tighten even while the rate holds. The same day in London, a new prime minister&amp;#x27;s word &amp;quot;flexibility&amp;quot; was a reminder of how quickly the convention underwriting market confidence can be tested by a single sentence.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;The Transmission Mechanism Isn&amp;#x27;t Invisible — It&amp;#x27;s Written on the Bank&amp;#x27;s Balance Sheet&lt;/h4&gt;
-&lt;p&gt;According to the ECB&amp;#x27;s 39th Survey on the Access to Finance of Enterprises, a net 42% of firms reported higher bank-loan interest rates in the second quarter, a sharp jump from 26% the quarter before. Let&amp;#x27;s separate the level from the change first: this doesn&amp;#x27;t mean the ECB raised its policy rate — it means the bank makes the loan either way, and the bank is tightening its own risk pricing independent of the policy stance. That&amp;#x27;s the transmission mechanism, precisely: not a switch the central bank flips, but a fuse the bank&amp;#x27;s own balance sheet decides to lengthen.&lt;/p&gt;
-&lt;p&gt;The divergence matters too: large firms reported improved access (net 4%) while small and medium enterprises saw it worsen (net -4%), with the financing gap widening to 3%. That&amp;#x27;s a distribution question hiding behind the &amp;quot;average conditions unchanged&amp;quot; headline — a large company can go to the bond market, a small one is stuck with its bank, and the side with the higher propensity to spend is usually the small one, so the side getting squeezed is also the side that matters more for demand. Against that, firms&amp;#x27; inflation expectations held steady at 3.0% — not a probability calculation but a convention: firms are, for now, still trusting the ECB&amp;#x27;s framework, and that trust hasn&amp;#x27;t cracked yet.&lt;/p&gt;
-&lt;h4&gt;I Flagged Beijing&amp;#x27;s Bill Earlier Today; London&amp;#x27;s Confidence Bill Arrived by Afternoon&lt;/h4&gt;
-&lt;p&gt;Earlier today in this column I wrote that the bill for Hormuz-driven oil inflation had landed on Beijing’s desk, and that the ECB is expected to hold at 2.25% on Thursday. By the afternoon, London produced its own version: the moment new prime minister Andy Burnham said he’d stick to the previous government’s fiscal rules but use “any flexibility” within them, the 10-year gilt yield rose 9 basis points to 5.04% and the 30-year hit a two-month high of 5.75%. Sterling slipped 0.27% as well.&lt;/p&gt;
-&lt;p&gt;This is the cleanest proof of what I keep saying: what the market is pricing isn&amp;#x27;t a known probability distribution — nobody holds the odds on how far &amp;quot;flexibility&amp;quot; actually flexes, this is fundamental uncertainty, and it can be repriced instantly by a single word. And don&amp;#x27;t forget: the government&amp;#x27;s deficit isn&amp;#x27;t an accounting hole, it&amp;#x27;s a net claim held by Britain&amp;#x27;s private sector and the rest of the world — who ends up funding that deficit is the real question the gilt market is asking. My forward view: markets will read Burnham&amp;#x27;s choice of chancellor (a centrist pick is expected) as a signal that narrows this uncertainty; a centrist choice could pull yields back somewhat, while its absence would stack a gilt selloff on top of Hormuz-driven import inflation, handing Britain a two-front tightening — imported and domestic at once.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Vega Sterling: 110 Milyar Dolarlık Anlaşma Durdu: Sinerji İddiası Şimdi Mahkemede Test Ediliyor — The $110 Billion Deal Just Stalled: Now the Synergy Story Faces a Judge</title>
-      <description>Paramount-Warner Bros. Discovery birleşmesi bir yargıçla durdu, Boeing ise yeni bir uçağa henüz para ayırmıyor. İkisi de aynı soruyu soruyor: anlatı mı, yoksa nakit akışı mı karar veriyor? — The Paramount-Warner Bros. Discovery merger just hit a judge’s desk, and Boeing still won’t fund a new jet. Both stories ask the same question: does the narrative decide, or does the cash flow?</description>
-      <link>https://eigenradar.com/#eco-03%2F2026-07-20%2F2</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-03%2F2026-07-20%2F2</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Paramount-Warner Bros. Discovery birleşmesi bir yargıçla durdu, Boeing ise yeni bir uçağa henüz para ayırmıyor. İkisi de aynı soruyu soruyor: anlatı mı, yoksa nakit akışı mı karar veriyor?&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Modeli aç: 110 milyar doların içinde ne var?&lt;/h4&gt;
-&lt;p&gt;Yargıç Araceli Martínez-Olguín, Kaliforniya öncülüğündeki 12 eyaletin açtığı davada Paramount Skydance’in Warner Bros. Discovery’yi devralmasını en az iki hafta durdurdu. Rakamı netleştirelim: hisse başına 31 dolarlık teklif WBD’yi yaklaşık 77 milyar dolar değerliyor, borç eklendiğinde toplam işlem 110 milyar doları aşıyor. Eyalet başsavcıları “rekabeti yok eder” diyor; ben farklı bir soru soruyorum — sinerji iddiası, borcu üstlenmenin giderini karşılayacak kadar gerçek mi, yoksa slaytta mı yaşıyor?&lt;/p&gt;
-&lt;p&gt;14 günlük tedbir kararı 28 güne kadar uzayabilir ve eyaletler ayrı olarak kalıcı bir ihtiyati tedbir istiyor. Piyasa için önemli olan gecikme gideri: her ek hafta, borç servisini erteler ama ortadan kaldırmaz, ve “sinerji” hâlâ gerçekleşmemiş bir varsayım olarak kalır. Bir anlaşmanın büyüklüğü onu haklı çıkarmaz — hesap defterinde nakit akışının nereye gittiği çıkarır.&lt;/p&gt;
-&lt;h4&gt;Bu sabah çip anlatısını sorgulamıştım; bugün aynı disiplin sermaye tahsisine uygulanıyor&lt;/h4&gt;
-&lt;p&gt;Bu köşede bu sabah, Kore’nin bellek çiplerindeki çarpanın gelecekteki büyümeye ne kadar bağımlı olduğunu ve piyasanın çeyrek sonuçları yaklaştıkça “yapay zekâ” etiketini tek tek mercek altına alacağını yazmıştım. Boeing CEO’su Kelly Ortberg, aynı disiplini kendi isteğiyle uyguluyor: 737 Max’in ardılı için 2030’a kadar mali açıdan hazır olacaklarını söylüyor, ama şimdiden söz vermiyor. “Hazır olmamız bir kısıt değil” dedi — teknoloji, talep ve mali istikrar üçünü aynı anda istiyor. İkinci çeyrekte 171 uçak teslim edildi, yüzde 12 artış; sipariş defteri 7 bin uçağa yakın.&lt;/p&gt;
-&lt;p&gt;Bu bana iyi bir sermaye tahsisi örneği gibi görünüyor: Ortberg parayı bir anlatıya değil, üç koşulun (737 Max 7, 737 Max 10, 777X sertifikasyonları) tamamlanmasına bağlıyor. Karşılaştırma net: Paramount-WBD tarafı 110 milyar doları şimdiden taahhüt etmiş durumda ve sinerjinin gerçekleşmesini mahkeme sonrasına bırakıyor; Boeing ise taahhüt etmeden önce koşulları bekliyor. İleriye dönük beklentim, üçüncü çeyrek sonuçlarında iki ayrı sınav göreceğiz: Boeing’in sertifikasyon takvimi kayarsa 2030 hedefi de kayar; Paramount-WBD’nin tedbir kararı 28 güne uzarsa, “sinerji” fiyatlanmadan önce anlaşmanın kendisi fiyatlanmaya başlar.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;The Paramount-Warner Bros. Discovery merger just hit a judge’s desk, and Boeing still won’t fund a new jet. Both stories ask the same question: does the narrative decide, or does the cash flow?&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Open the model: what’s actually inside that $110 billion?&lt;/h4&gt;
-&lt;p&gt;Judge Araceli Martínez-Olguín halted Paramount Skydance’s acquisition of Warner Bros. Discovery for at least two weeks, in a suit brought by 12 states led by California. Let’s get the number straight: the $31-a-share offer values WBD at roughly $77 billion; add the debt load and the total transaction tops $110 billion. The state attorneys general say it would “extinguish competition.” I’m asking a different question — is the synergy case real enough to cover the cost of carrying that debt, or does it only live on the slide?&lt;/p&gt;
-&lt;p&gt;The 14-day restraining order can extend to 28 days, and the states are separately seeking a permanent injunction. What matters for the market is the cost of delay: every extra week postpones debt service without erasing it, and “synergy” stays an assumption that hasn’t yet happened. A deal’s size doesn’t justify it — where the cash flow actually goes does.&lt;/p&gt;
-&lt;h4&gt;This morning I questioned the chip narrative; today the same discipline applies to capital allocation&lt;/h4&gt;
-&lt;p&gt;Earlier today in this column I wrote about how much of Korea’s memory-chip multiple depends on assumptions about future growth, and that the market would start scrutinizing the “AI” label name by name as earnings approach. Boeing CEO Kelly Ortberg is applying the same discipline to himself: he says the company will be financially ready to launch a 737 Max successor by 2030, but won’t commit before then. “I don’t see that our readiness is a constraint,” he said — he wants technology, demand and financial stability aligned at once. Boeing delivered 171 aircraft in Q2, up 12%, with a backlog approaching 7,000.&lt;/p&gt;
-&lt;p&gt;That reads to me like sound capital allocation: Ortberg is tying the money to three conditions (737 Max 7, 737 Max 10, and 777X certifications) instead of to a story. The contrast is stark: the Paramount-WBD side has already committed $110 billion and is leaving the synergy case to be proven after the court fight; Boeing is waiting for the conditions before committing at all. My forward view: both face a test at the next quarter mark — if Boeing’s certification timeline slips, so does the 2030 target; if Paramount-WBD’s restraining order stretches to 28 days, the market starts pricing the deal itself before it ever prices the synergy.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Vulcan: Kahve de Aynı Dersi Veriyor: Ekran Değil, Hasat Konuşuyor — Coffee Teaches the Same Lesson: The Harvest Talks, Not the Screen</title>
-      <description>Petrolden uzaklaşıp bir çuval kahveye bakalım. Fiyat rekor kırdı, tüketici tercihini değiştirdi — ve bu, benzin pompasındaki 4 dolarlık rakamla aynı fiziksel dersi veriyor. — Let’s step away from oil and look at a sack of coffee instead. Prices hit records, consumers changed how they buy — and it’s teaching the same physical lesson as the $4 figure at the gas pump.</description>
-      <link>https://eigenradar.com/#eco-04%2F2026-07-20%2F2</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-04%2F2026-07-20%2F2</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Petrolden uzaklaşıp bir çuval kahveye bakalım. Fiyat rekor kırdı, tüketici tercihini değiştirdi — ve bu, benzin pompasındaki 4 dolarlık rakamla aynı fiziksel dersi veriyor.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Arabica’dan robustaya, tarladan fincana kaç kayıp var?&lt;/h4&gt;
-&lt;p&gt;Lavazza’nın yönetim kurulu başkanı Giuseppe Lavazza, kötü hava koşulları ve zayıf hasatların 2025’te hem arabica hem robusta fiyatlarını rekor seviyeye taşıdığını, Birleşik Krallık’ta evde tüketilen kahve fiyatının yılda yeniden yüzde 6,3 arttığını söyledi. Tüketici tepkisi klasik bir arz uyumu: çekirdek kahve satışı hacim olarak yüzde 20,3 arttı, evdeki genel kahve pazarındaki yüzde 2,8’lik büyümenin çok üzerinde. “Belki daha az ama daha iyisini tüketiyorlar” dedi Lavazza — grafik ne derse desin, hasat kıt kaldıkça tüketici kendi ayarlamasını yapıyor.&lt;/p&gt;
-&lt;p&gt;Lavazza, fiyatların düşmesi için en az iki güçlü hasadın ve küresel stokların yeniden kurulmasının gerektiğini, bu yüzden önümüzdeki iki yıl içinde ucuzlama beklemediğini söyledi. Bu, benim her zaman söylediğim şeyin ta kendisi: depo boşsa fiyat er ya da geç bunu öğrenir, ve tek bir iyi hasat mevsimi o boşluğu dolduramaz. Şirketin kapsül yerine sıkıştırılmış kahve tableti “Tablı”yı Eylül’de piyasaya sürecek olması bile, fiyat baskısının tüketim biçimini nasıl yeniden şekillendirdiğinin bir işareti.&lt;/p&gt;
-&lt;h4&gt;Bu sabah varili saymıştım; bugün pompadaki rakam aynı molekülü doğruluyor&lt;/h4&gt;
-&lt;p&gt;Bu sabah bu köşede Hürmüz’den geçen tanker sayısının ekrandaki fiyattan daha önemli olduğunu, cuma günü ABD’nin önerdiği rotadan sıfır geçiş kaydedildiğini yazmıştım. Bugün o fiziksel gerçek pompaya ulaştı: ABD’de normal benzin galonu yeniden 4 doları geçti, bir hafta önceki 3,87 dolardan yukarı; savaş öncesi ortalama 2,98 dolardı. Eyalet farkı da fiziksel gerçeği anlatıyor — Indiana’da 3,35 dolar, Kaliforniya’da 5,49 dolar; aynı varil, farklı rafineri, vergi ve lojistik zinciri.&lt;/p&gt;
-&lt;p&gt;İleriye dönük beklentim: kahve ve benzin aynı fiziksel yasayı takip ediyor — yüksek fiyat kendi ilacını üretir, ama ilacın gelişi kahvede iki hasat mevsimi, petrolde de boru hattı kapasitesi kadar sürer. Kısa vadede pompadaki 4 dolar İran’daki tanker sayısına bağlı kalacak; kahvede ise Eylül’deki yeni hasat verileri gelene kadar fiyatın rekor seviyelerde takılı kalmasını bekliyorum. İkisinde de kural aynı: varili, çuvalı say — hikâyeyi sonra dinle.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;Let’s step away from oil and look at a sack of coffee instead. Prices hit records, consumers changed how they buy — and it’s teaching the same physical lesson as the $4 figure at the gas pump.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;From arabica to robusta, farm to cup: how much is being lost along the way?&lt;/h4&gt;
-&lt;p&gt;Lavazza chairman Giuseppe Lavazza said poor weather and weak harvests pushed both arabica and robusta prices to records in 2025, with UK at-home coffee prices up another 6.3% in the year to May. Consumer behavior is a textbook supply adjustment: whole-bean sales rose 20.3% by volume, far outpacing the 2.8% growth across the broader at-home market. “Maybe they prefer to consume a little less but better,” Lavazza said — forget the mood, when the harvest stays scarce, the consumer does the rationing itself.&lt;/p&gt;
-&lt;p&gt;Lavazza said at least two strong harvests and a rebuild of global inventories are needed before prices ease, so it doesn’t expect cheaper coffee for at least two years. That’s exactly what I keep saying: when the warehouse is empty, price finds out sooner or later, and one good season can’t refill it. Even the company’s shift to a compressed-coffee tablet system, “Tablì,” launching in the UK in September, is a sign of how price pressure is reshaping the way people consume the stuff.&lt;/p&gt;
-&lt;h4&gt;Earlier today I counted the barrels; today the pump price confirms the same molecule&lt;/h4&gt;
-&lt;p&gt;Earlier today in this column I wrote that the number of tankers actually crossing Hormuz mattered more than the screen price, and that zero transits were logged on the US-proposed route Friday. Today that physical reality reached the pump: US regular gasoline crossed $4 a gallon again, up from $3.87 a week earlier, against a pre-war average of $2.98. The state-level spread tells the same physical story — $3.35 in Indiana versus $5.49 in California, same barrel, different refinery, tax and logistics chain.&lt;/p&gt;
-&lt;p&gt;My forward view: coffee and gasoline are following the same physical law — high prices cure themselves, but the cure takes as long as two harvest seasons for coffee or new pipeline capacity for oil. In the near term, the $4 at the pump stays tied to how many tankers actually cross from Iran; for coffee, I expect prices to stay pinned near records until September’s new harvest data arrives. Same rule both times: count the barrel, count the sack — hear the story later.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Gini: 4 Dolar Herkes İçin Aynı Rakam Değil: Pompadaki Eşitsizlik — $4 Isn’t the Same Number for Everyone: Inequality at the Pump</title>
-      <description>Benzin ulusal ortalamada 4 doları geçti derler; ama Indiana’da 3,35, Kaliforniya’da 5,49. Ortalama bir rakam söylerken, hane bütçesi çok farklı bir gerçeği yaşıyor. — They say gas crossed the $4 national average; but it’s $3.35 in Indiana and $5.49 in California. The average states one number while household budgets live a very different reality.</description>
-      <link>https://eigenradar.com/#eco-05%2F2026-07-20%2F2</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-05%2F2026-07-20%2F2</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;Benzin ulusal ortalamada 4 doları geçti derler; ama Indiana’da 3,35, Kaliforniya’da 5,49. Ortalama bir rakam söylerken, hane bütçesi çok farklı bir gerçeği yaşıyor.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Ortalama değil, hangi eyalette yaşadığın: benzin faturası nereye yazılıyor?&lt;/h4&gt;
-&lt;p&gt;ABD’de normal benzin galonu pazartesi 4 doları geçti, bir hafta önceki 3,87 dolardan yukarı; dizel de 4,87’den 5,10 dolara çıktı. Ortalama rakam gazetecilik için kullanışlı ama hane bütçesi için yanıltıcı: Indiana’da galon 3,35 dolarken Kaliforniya’da 5,49 dolar — aynı ülke, neredeyse iki katı fark. Düşük gelirli bir hane için bu fark, market fişindeki bir kalemin tamamı kadar büyük olabilir; yüksek gelirli bir hane için sadece bir can sıkıntısı.&lt;/p&gt;
-&lt;p&gt;Savaş öncesi ortalama 2,98 dolardı; yani ortalama hane bugün her galonda yaklaşık yüzde 34 daha fazla ödüyor — ama “ortalama hane” diye bir şey aslında yok. Düşük gelirli haneler gelirlerinin çok daha büyük bir kısmını yakıta ayırır; bu artış onlar için gerçek bir gelir kaybı, üst gelir dilimi için ise sadece bir rakam. Enerji faturası, tıpkı market fişi gibi, kimin ödediğini asla eşit paylaştırmaz.&lt;/p&gt;
-&lt;h4&gt;Bu sabah Çin’in yüzde 4,3’ünü sormuştum; bugün otomobil verisi aynı soruyu doğruluyor&lt;/h4&gt;
-&lt;p&gt;Bu köşede bu sabah, Çin’in yüzde 4,3’lük büyümesinin kimin cebine yazıldığını, merkez bankasının “zayıf iç talep” ifadesinin aslında bir tercih olduğunu sormuştum. Bugün gelen veri o soruyu doğruluyor: Çin’in binek araç satışları ilk yarıda yüzde 20,2 geriledi, 2021’den bu yana en kötü yıla gidiliyor. İçten yanmalı araç satışı Haziran’da yüzde 39 çöktü; sektör kâr marjı yüzde 3,4’e sıkıştı. Bu bir “arz sorunu” değil — hane, büyük bir harcamayı erteliyor.&lt;/p&gt;
-&lt;p&gt;İki hikâye, Çin ve ABD, aynı yapıyı paylaşıyor: yakıt ve enerji gideri yükselirken, hane bunu ya doğrudan pompada ya da ertelenen bir otomobil alımında hissediyor — ve her iki ülkede de “büyüme” veya “faiz” rakamı bu gerçek zamanlı sıkışmayı görünmez kılıyor. İleriye dönük beklentim: ABD’de benzin 4 doların üzerinde kalırsa, düşük gelirli hanelerin harcama kısıtlaması sonbahar perakende verilerinde görünür hale gelecek; Çin’de ise otomobil satışlarındaki çöküş, Pekin’i sadece kredi faiziyle değil, doğrudan hane gelirini destekleyen adımlarla yanıt vermeye zorlayacak — dediğim gibi, bir ekonomi ortalamadan değil, medyandan okunur.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;They say gas crossed the $4 national average; but it’s $3.35 in Indiana and $5.49 in California. The average states one number while household budgets live a very different reality.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Not the average — which state you live in: who’s writing the gas bill?&lt;/h4&gt;
-&lt;p&gt;US regular gasoline crossed $4 a gallon on Monday, up from $3.87 a week earlier, with diesel rising from $4.87 to $5.10. The average is useful for headlines, misleading for household budgets: a gallon costs $3.35 in Indiana and $5.49 in California — same country, nearly double. For a low-income household, that gap can equal an entire line item on the grocery bill; for a high-income one, it’s just an annoyance.&lt;/p&gt;
-&lt;p&gt;The pre-war average was $2.98, so the average household is paying roughly 34% more per gallon today — except there’s no such thing as an “average household.” Lower-income households spend a far larger share of their income on fuel; this increase is a real income loss for them, and just a number for the top bracket. Like the grocery bill, the energy bill never splits its cost evenly.&lt;/p&gt;
-&lt;h4&gt;This morning I asked about China’s 4.3%; today the car data confirms the same question&lt;/h4&gt;
-&lt;p&gt;Earlier today in this column I asked whose pocket China’s 4.3% growth actually landed in, arguing the central bank’s “weak domestic demand” language was really a choice. Today’s data confirms that question: China’s passenger vehicle sales fell 20.2% in the first half, on track for the worst year since 2021. Internal-combustion sales collapsed 39% in June; industry margins compressed to 3.4%. This isn’t a supply problem — households are postponing a major purchase.&lt;/p&gt;
-&lt;p&gt;Two stories, China and the US, share the same structure: as fuel and energy costs rise, households feel it either directly at the pump or through a postponed car purchase — and in both countries, the “growth” or “rate” headline makes that real-time squeeze invisible. My forward view: if US gas stays above $4, constrained spending among lower-income households will show up in autumn retail data; in China, the collapse in car sales will push Beijing toward measures that support household income directly, not just the loan rate — as I keep saying, an economy is read from the median, not the average.&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
-    </item>
-    <item>
-      <title>Cassandra: Dirençli mi, Sınanmamış mı? İngiliz Emeklilik Parası Özel Kredi Bahsinde — Resilient, or Just Untested? UK Pension Money Sits in Private Credit</title>
-      <description>S&amp;P, İngiliz emeklilik sigortacılarının özel kredi stresine “dirençli” olduğunu söylüyor. Sorun fiyatta değil; modelin gerçek bir krizi ne kadar iyi taklit edebildiğinde. — S&amp;P says UK pension insurers are “resilient” to private credit stress. The problem isn’t the price; it’s how well the model actually mimics a real crisis.</description>
-      <link>https://eigenradar.com/#eco-06%2F2026-07-20%2F2</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-06%2F2026-07-20%2F2</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-      <content:encoded>&lt;div lang="tr"&gt;
-&lt;p&gt;&lt;em&gt;S&amp;amp;P, İngiliz emeklilik sigortacılarının özel kredi stresine “dirençli” olduğunu söylüyor. Sorun fiyatta değil; modelin gerçek bir krizi ne kadar iyi taklit edebildiğinde.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;Stres testi, gerçek stresin kendisi değildir&lt;/h4&gt;
-&lt;p&gt;S&amp;amp;P Global Ratings, İngiliz toplu emeklilik maaşı sigortacılarının, varlık notlarının BB seviyesine kadar düşürüldüğü 2007-2009 tipi bir şoku bile “yönetilebilir” düzeyde atlatabileceğini açıkladı. Uluslararası Ödemeler Bankası’na göre küresel sigorta sektörü artık özel kredi varlıklarının yaklaşık yüzde 10’unu yönetiyor; test Athora, Brookfield, Just Group, Legal &amp;amp; General ve Pension Insurance Corporation’ı kapsadı. Kulağa rahatlatıcı geliyor — ama “bu sefer farklı” cümlesinin en pahalı olduğu yer tam olarak burası: bir model, geçmiş bir krizi taklit eder; gelecekteki krizin geçmişe benzeyeceğini varsaymak ayrı bir iddiadır.&lt;/p&gt;
-&lt;p&gt;Sorun fiyat değil, kaldıraç ve kimin kime borçlu olduğu — burada asıl soru likidite. Özel kredi, halka açık tahvil gibi her gün fiyatlanmaz; bir emeklilik sigortacısı gerçek bir stres anında o varlığı hızlıca satmak zorunda kalırsa, “BB’ye düşürülmüş not” senaryosu kâğıt üzerinde kalabilir çünkü piyasada o notu doğrulayacak bir alıcı bile bulunmayabilir. İngiltere’nin toplu emeklilik maaşı piyasasının önümüzdeki on yılda tahmini 1 trilyon sterlinlik küresel pazarın yarısını ele geçirmesi bekleniyor — yani bu, küçülen değil büyüyen bir maruziyet.&lt;/p&gt;
-&lt;h4&gt;Bu sabah Hürmüz’ün fiyatlanmayan fitilini yazmıştım; bugün aynı körlük kripto tarafında&lt;/h4&gt;
-&lt;p&gt;Bu sabah bu köşede, Hürmüz’deki asıl tehlikenin manşetteki petrol fiyatında değil, sistemin yıllar süren yeniden yönlendirilmesinde biriken kırılganlıkta olduğunu yazmıştım. Bugün kripto tarafında aynı körlüğün küçük bir sürümü var: ABD spot Bitcoin ETF’leri ikinci haftasında net girişe döndü — son haftada 75,67 milyon dolar — ama bu, önceki sekiz haftada çekilen 8 milyar doların sadece yaklaşık yüzde 3’ü. Aynı anda Binance ve Bybit’ten 2,3 milyar dolarlık sabit para çıktı. Manşet “ETF’ler geri döndü” diyor; akış “likidite sessizce tükeniyor” diyor.&lt;/p&gt;
-&lt;p&gt;Analistler, 60-61 bin dolarlık destek kırılırsa 55-57 bin dolar aralığında yoğun bir tasfiye kümesi olduğunu belirtiyor — yani kapı yine tek kişilik, sadece bu kez borsa cüzdanlarında. İleriye dönük beklentim: hem İngiliz emeklilik sigortacılığında hem kriptoda risk, bir sonraki fiyat hareketinde değil, bir sonraki zorunlu satışta ortaya çıkacak. S&amp;amp;P’nin testi “dirençli” diyor olabilir; benim sorum hep aynı — o dirençliliği kim, ne zaman, hangi fiyattan test edecek?&lt;/p&gt;
-&lt;/div&gt;
-&lt;div lang="en"&gt;
-&lt;p&gt;&lt;em&gt;S&amp;amp;P says UK pension insurers are “resilient” to private credit stress. The problem isn’t the price; it’s how well the model actually mimics a real crisis.&lt;/em&gt;&lt;/p&gt;
-&lt;h4&gt;A stress test is not the same thing as actual stress&lt;/h4&gt;
-&lt;p&gt;S&amp;amp;P Global Ratings said UK bulk annuity insurers could withstand even a 2007-2009-scale shock, with asset ratings downgraded to BB, at a “manageable” level. The global insurance industry now manages roughly 10% of private credit assets, per the Bank for International Settlements; the test covered Athora, Brookfield, Just Group, Legal &amp;amp; General and Pension Insurance Corporation. That sounds reassuring — but this is exactly where “this time is different” gets expensive: a model mimics a past crisis; assuming the next one resembles the last is a separate, unproven claim.&lt;/p&gt;
-&lt;p&gt;The question isn’t the price, it’s the leverage and who owes whom — and here the real issue is liquidity. Private credit doesn’t get priced daily like a public bond; if a pension insurer is forced to sell in an actual stress event, the “downgraded to BB” scenario can stay theoretical because there may be no buyer in the market to validate that rating at all. The UK’s bulk annuity market is expected to capture half of the estimated £1 trillion global BPA market over the next decade — this is a growing exposure, not a shrinking one.&lt;/p&gt;
-&lt;h4&gt;Earlier today I flagged Hormuz’s unpriced fuse; today the same blind spot shows up in crypto&lt;/h4&gt;
-&lt;p&gt;Earlier today in this column I wrote that the real danger in Hormuz wasn’t the headline oil price but the fragility quietly building up over years of system rerouting. Today crypto shows a smaller version of the same blind spot: US spot Bitcoin ETFs turned net-positive for a second week — $75.67 million in the latest week — but that’s only about 3% of the roughly $8 billion withdrawn over the prior eight weeks. At the same time, $2.3 billion in stablecoins left Binance and Bybit. The headline says “ETFs are back”; the flow says liquidity is quietly draining.&lt;/p&gt;
-&lt;p&gt;Analysts flag a cluster of liquidation risk between $55,000 and $57,000 if the $60,000-$61,000 support breaks — the door is one person wide again, this time in exchange wallets. My forward view: risk in both UK pension insurance and crypto will show up not in the next price move but in the next forced sale. S&amp;amp;P’s test may say “resilient” — my question is always the same: who tests that resilience, when, and at what price?&lt;/p&gt;
-&lt;/div&gt;</content:encoded>
+      <category>news</category>
     </item>
   </channel>
 </rss>
