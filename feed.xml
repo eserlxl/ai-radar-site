@@ -5,7 +5,7 @@
     <link>https://eigenradar.com/</link>
     <description>Türkçe ve İngilizce günlük haberler — daily news in Turkish and English</description>
     <language>mul</language>
-    <lastBuildDate>Tue, 21 Jul 2026 04:45:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 05:47:26 +0000</lastBuildDate>
     <itunes:author>Eigen Radar</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://eigenradar.com/assets/icon-512.png" />
@@ -116,6 +116,114 @@
       <guid isPermaLink="false">https://eigenradar.com/#feed-news-8066ed3ce46cb8de8bfd</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>ai</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Brent 90 doların üzerine çıktı: İran'ın tanker saldırıları arz endişesini körüklüyor — Brent crude tops $90 as Iran tanker attacks stoke supply fears</title>
+      <description>Brent petrol Pazartesi günü yaklaşık %2,4 artarak varil başına 90,25 dolara çıktı; bu, 11 Haziran'dan bu yana 90 doların üzerindeki ilk seviye oldu. Yükseliş, İran'ın Hürmüz Boğazı'nın güney rotasında iki petrol tankerini vurduğunu açıklamasının ardından geldi. — Brent crude rose about 2.4% to $90.25 a barrel on Monday, its first level above $90 since June 11, after Iran said it had struck two oil tankers on the southern route through the Strait of Hormuz.</description>
+      <link>https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-d7ce3420e8a958fbbe06</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>ABD'li yargıç Paramount–Warner Bros. birleşmesini 14 günlük tedbir kararıyla durdurdu — US judge halts Paramount–Warner Bros. merger with 14-day restraining order</title>
+      <description>Federal bir yargıç, yaklaşık 111 milyar dolarlık Paramount–Warner Bros. Discovery birleşmesini duraklatan 14 günlük geçici tedbir kararı verdi. Karar, California'nın öncülüğündeki bir düzine eyaletin birleşmeyi rekabet gerekçesiyle engellemek için açtığı davanın ardından geldi. — A federal judge granted a 14-day temporary restraining order pausing the roughly $111 billion Paramount–Warner Bros. Discovery merger, after a dozen states led by California sued to block it on antitrust grounds.</description>
+      <link>https://www.cnbc.com/2026/07/20/paramount-wbd-merger-delay.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-747c310c5cd9a9281833</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>AMB anketi: Euro Bölgesi şirketleri borçlanma maliyetlerinde sert artış bildirdi — ECB survey: euro-area firms report sharply higher borrowing costs</title>
+      <description>Avrupa Merkez Bankası'nın SAFE anketine göre, şirketlerin net %42'si ikinci çeyrekte banka kredisi faizlerinin arttığını bildirdi; bu oran bir önceki çeyrekte %26'ydı. Enflasyon beklentileri ise %3,0'da sabit kaldı. — A net 42% of euro-area firms reported higher bank-loan interest rates in the second quarter, up from 26% the previous quarter, according to the European Central Bank's SAFE survey, even as inflation expectations held at 3.0%.</description>
+      <link>https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260720~cafc3874a7.en.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-dd2551db11a9e793498f</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Dimon: Bugünkü fiyatlarla ne hisse ne de uzun vadeli Hazine tahvili alırım — Dimon says he wouldn't buy stocks or long Treasurys at today's prices</title>
+      <description>JPMorgan'ın üst yöneticisi Jamie Dimon, Pazartesi yayımlanan bir söyleşide piyasaların jeopolitik ve mali riskleri hafife aldığını, mevcut fiyatlarla ne geniş hisse senedi piyasasını ne de uzun vadeli ABD Hazine tahvillerini almayacağını söyledi. — JPMorgan chief Jamie Dimon said markets are underestimating geopolitical and fiscal risks and that he would not buy the broad equity market or long-dated US Treasurys at current prices, in an interview released on Monday.</description>
+      <link>https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-1daa957c0392acf0ca61</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Husiler Suudi Arabistan'a Kızıldeniz ablukası ilan etti; Hürmüz alternatifi tehdit altında — Houthis declare Red Sea blockade on Saudi Arabia, threatening its Hormuz bypass</title>
+      <description>Yemen'deki Husiler, Bab-ül Mendep Boğazı üzerinden Suudi Arabistan'a deniz ablukası ilan etti. Karar, krallığın petrolünü tartışmalı Hürmüz Boğazı'nı dolanarak sevk ettiği Kızıldeniz rotasını tehdit ediyor. — Yemen's Houthis announced a naval blockade of Saudi Arabia through the Bab al-Mandeb strait, threatening the Red Sea route the kingdom uses to ship oil around the contested Strait of Hormuz.</description>
+      <link>https://www.cnbc.com/2026/07/20/iran-houthi-yemen-saudi-arabia.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-2d92cbf5d3331c448d36</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Çin'in 'milli takımı' piyasayı dengelemek için yaklaşık 9 milyar dolarlık hisse aldı — China's 'national team' buys about $9bn in shares to steady market</title>
+      <description>Devlet destekli Çinli fonlar, teknoloji öncülüğündeki satış dalgasının ardından piyasayı desteklemek için yaklaşık 60 milyar yuan (8,9 milyar dolar) değerinde hisse aldı. Alımlara Central Huijin ve diğer kuruluşlar öncülük etti. — State-backed Chinese funds bought roughly 60 billion yuan ($8.9bn) of listed shares to shore up the market after a tech-led sell-off, with Central Huijin and other vehicles stepping in.</description>
+      <link>https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-cda05dad1bcc06177ec1</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>ABD savcıları, milyarder Mark Walter'a bağlı sigortacıları ve Guggenheim'ı soruşturuyor — US prosecutors probe insurers and Guggenheim tied to billionaire Mark Walter</title>
+      <description>Manhattan'daki federal savcılar, paralel bir SEC soruşturmasıyla birlikte, milyarder Mark Walter'a bağlı iki sigorta şirketi ile Guggenheim Partners'ın bağlı kuruluşlardaki varlıklarını gereğince açıklayıp açıklamadığını inceliyor. — Federal prosecutors in Manhattan, alongside a parallel SEC inquiry, are investigating whether two insurers and Guggenheim Partners, all linked to billionaire Mark Walter, properly disclosed holdings in affiliated entities.</description>
+      <link>https://www.ft.com/content/5e79b5d1-6b2a-4d9d-8b46-6980e861856d</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-a852ea4110545030985f</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>JetBlue, iflas eden Spirit'in LaGuardia iniş-kalkış haklarını 58,5 milyon dolara aldı — JetBlue wins bankrupt Spirit's LaGuardia slots for $58.5m</title>
+      <description>JetBlue, iflas eden Spirit Airlines'a ait New York LaGuardia Havalimanı'ndaki 22 iniş-kalkış hakkı (slot) için düzenlenen açık artırmayı kazandı. Havayolu 58,5 milyon dolar teklif vererek Frontier'ın 57,5 milyon dolarlık yedek teklifini geride bıraktı. — JetBlue won an auction for 22 takeoff and landing slots at New York's LaGuardia airport from bankrupt Spirit Airlines, bidding $58.5 million and beating a $57.5 million backup offer from Frontier.</description>
+      <link>https://www.cnbc.com/2026/07/20/jetblue-spirit-airlines-laguardia-airport-new-york.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-fa5e5704c11f7760ef73</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Çin, büyüme yavaşlarken gösterge kredi faizlerini 14. ayda da sabit tuttu — China holds benchmark lending rates for a 14th month as growth cools</title>
+      <description>Çin Merkez Bankası, bir yıllık gösterge kredi faizini %3,0'da, beş yıllık faizi ise %3,5'te üst üste 14. ay boyunca sabit tuttu. Karar, ekonominin ikinci çeyrekte yaklaşık üç buçuk yılın en zayıf temposuyla %4,3 büyüdüğünü gösteren verilerden birkaç gün sonra geldi. — The People's Bank of China left its one-year loan prime rate at 3.0% and the five-year rate at 3.5% for a 14th straight month, days after data showed the economy grew 4.3% in the second quarter — its weakest pace in about three and a half years.</description>
+      <link>https://investinglive.com/central-banks/china-holds-loan-prime-rates-steady-as-growth-slows-and-yuan-firms-1-year-lpr-at-3-0-5-year-at-3-5</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-ac3239e0e14cc41cd25f</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>İran savaşı petrolü yükseltirken ABD'de pompa fiyatı galon başına 4 dolara çıktı — US pump prices hit $4 a gallon as the Iran war lifts oil</title>
+      <description>AAA'ya göre, ABD'de kurşunsuz benzinin ulusal ortalama fiyatı Pazartesi günü galon başına 4,00 dolara ulaştı; bu, bir hafta önceki 3,87 dolar ve bir yıl önceki 3,14 doların üzerinde. Yükselişte, ham petrolü yüksek tutan ABD–İran savaşı etkili oldu. — The US national average price of regular gasoline reached $4.00 a gallon on Monday, according to AAA — up from $3.87 a week earlier and $3.14 a year ago — as the US–Iran war kept crude elevated.</description>
+      <link>https://www.ft.com/content/522fc69e-77df-40fd-8ab4-6726b866d289</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-1158031fa8127c5c2514</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>Archer Aviation, Anduril'le askeri uçağı tanıtınca %20 yükseldi — Archer Aviation jumps 20% after unveiling military aircraft with Anduril</title>
+      <description>Archer Aviation'ın hisseleri, dikey kalkış-iniş yapan bu şirketin savunma firması Anduril ile Farnborough Hava Gösterisi'nde otonom askeri hava aracı 'Thunder'ı tanıtmasının ardından, ortalamanın %125 üzerindeki işlem hacmiyle %19,6 artarak 5,31 dolardan kapandı. — Shares of Archer Aviation closed up 19.6% at $5.31, on volume 125% above average, after the eVTOL company and defense firm Anduril unveiled 'Thunder,' an autonomous military rotorcraft, at the Farnborough Airshow.</description>
+      <link>https://www.cnbc.com/2026/07/20/archer-thunder-military-craft-anduril.html</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-751c2f35740768f49deb</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>news</category>
+    </item>
+    <item>
+      <title>AMC rekor çeyreklik gelir ve beklenmedik kâr açıkladı — AMC posts record quarterly revenue and a surprise profit</title>
+      <description>AMC Entertainment, güçlü yaz vizyonlarıyla salon doluluğu artarken, bir yıl öncesine göre %14,2 yükselen 1,6 milyar dolarlık rekor ikinci çeyrek geliri ve zarar beklentilerine karşın hisse başına 0,14 dolarlık düzeltilmiş kâr açıkladı. — AMC Entertainment reported record second-quarter revenue of $1.6 billion, up 14.2% from a year earlier, and adjusted earnings of $0.14 a share against forecasts of a loss, as attendance rose on strong summer releases.</description>
+      <link>https://www.sec.gov/Archives/edgar/data/0001411579/000141157926000055/amc-20260720xex99d1.htm</link>
+      <guid isPermaLink="false">https://eigenradar.com/#feed-news-f5644aa5819315b1b910</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
       <category>news</category>
     </item>
     <item>
@@ -335,49 +443,58 @@
       <category>column</category>
     </item>
     <item>
-      <title>Brent bir ayı aşkın sürenin ardından 90 doları geçti; Asya borsaları temkinli — Brent tops $90 for first time in over a month as Asian markets stay wary</title>
-      <description>Brent ham petrol, ABD'nin İran'a yönelik saldırılarının dokuzuncu gününde yüzde 2,6 artarak varil başına 90,40 dolara çıktı; ABD ham petrolü (WTI) yüzde 2,3 yükselişle 84,39 dolara ulaştı. Yatırımcılar Hürmüz Boğazı'ndaki sevkiyat riskini fiyatlarken Asya hisseleri karışık seyretti. — Brent crude rose 2.6% to $90.40 a barrel on the ninth day of U.S. strikes against Iran, while U.S. crude (WTI) gained 2.3% to $84.39. Asian equities were mixed as investors priced the risk to Strait of Hormuz shipments.</description>
-      <link>https://finance.yahoo.com/markets/stocks/articles/asia-shares-hesitant-oil-climbs-003525906.html</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-b99654ebc37da5556821</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Midas: Zorunlu Alıcı Kim? Kalabalığın Yerini Söyleyen İki Alım — Who's the Forced Buyer? Two Bids That Tell You Where the Crowd Is</title>
+      <description>Pekin kendi piyasasının altına 9 milyar dolarlık bir taban koydu; Jamie Dimon ise bizimkine el sürmeyeceğini söyledi. Nutuklara değil, akışa bakın. — Beijing put a $9 billion floor under its own market and Jamie Dimon said he wouldn't touch ours. Read the flow, not the speeches.</description>
+      <link>https://eigenradar.com/#eco-01%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-01%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
-      <category>news</category>
+      <category>column</category>
     </item>
     <item>
-      <title>Kore'nin 4 trilyon dolarlık borsası küresel yapay zekâ hisselerinin barometresi oldu — Korea's $4 trillion market has become the barometer for global AI stocks</title>
-      <description>Kospi haziran zirvesinden bu yana yüzde 25 gerileyerek yaklaşık 1 trilyon dolarlık değeri sildi; SK Hynix ve Samsung en az yüzde 30 kaybetti. Londra, New York ve Tokyo'daki fon yöneticileri artık işlem öncesi Kore hisselerini izliyor. — The Kospi has tumbled 25% from its June peak, erasing about $1 trillion in value, with SK Hynix and Samsung each losing at least 30%. Fund managers in London, New York and Tokyo now watch Korean equities before their own sessions open.</description>
-      <link>https://fortune.com/2026/07/19/korea-ai-stocks-sk-hynix-samsung-kospi-index-global-markets/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-275422de3abe19cb1058</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Maynard Fisher: Faiz Tutuldu, Etki Sonraya Kaldı: Çin Bekledi, Avrupa Ödüyor — The Rate Held, the Effect Waits: China Paused, Europe Pays</title>
+      <description>Çin, büyüme %4,3'e yavaşlarken 14. ay da faizi sabit tuttu; Avrupa'nın şirketleri ise geçen yılın sıkılaşmasını çoktan hissediyor. Uzun ve değişken gecikme üzerine iki ders. — China held for a 14th month as growth cooled to 4.3%; Europe's firms are already feeling last year's tightening. Two lessons in the long, variable lag.</description>
+      <link>https://eigenradar.com/#eco-02%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-02%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
-      <category>news</category>
+      <category>column</category>
     </item>
     <item>
-      <title>Çin Merkez Bankası kredi faizlerini büyüme yavaşlarken 14. ayda da sabit tuttu — China's central bank holds loan prime rates for a 14th month as growth slows</title>
-      <description>Çin Halk Bankası (PBoC) bir yıllık kredi faizi referansını (LPR) yüzde 3,00'te, mortgage fiyatlamasının dayanağı olan beş yıllığı yüzde 3,50'de tuttu; her iki oran da Mayıs 2025'ten bu yana değişmedi. Karar, ikinci çeyrek büyümesinin üç buçuk yılın en zayıf temposuna gerilediği bir dönemde geldi. — The People's Bank of China held its one-year loan prime rate (LPR) at 3.00% and the five-year rate, the benchmark for mortgage pricing, at 3.50% — both unchanged since May 2025. The decision came as second-quarter growth cooled to its weakest pace in three and a half years.</description>
-      <link>https://investinglive.com/central-banks/china-holds-loan-prime-rates-steady-as-growth-slows-and-yuan-firms-1-year-lpr-at-3-0-5-year-at-3-5</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-ac3239e0e14cc41cd25f</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Vega Sterling: Nakit Nereye Gitti: Engellenen Bir Birleşme ve Fiyatın Sevdiği İki Hikâye — Where the Cash Went: A Blocked Merger and Two Stories the Tape Loved</title>
+      <description>Bir yargıç 111 milyar dolarlık sinerjiyi yeniden fiyatladı, Archer bir tanıtımla piyasa değerine yaklaşık bir milyar dolar ekledi, AMC ise nihayet gerçek nakit gösterdi. Bunlardan biri bir model; ikisi hikâye. — A judge just repriced $111 billion of synergy, Archer added roughly a billion in market value on an unveiling, and AMC finally showed real cash. One of these is a model; two are stories.</description>
+      <link>https://eigenradar.com/#eco-03%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-03%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
-      <category>news</category>
+      <category>column</category>
     </item>
     <item>
-      <title>Gemiler ABD destekli rotayı reddederken petrol piyasası Hürmüz sonrası döneme bakıyor — Oil market looks past Hormuz as ships reject the U.S.-backed route</title>
-      <description>Cuma günü ABD'nin önerdiği alternatif koridordan hiçbir geçiş tespit edilmezken İran'ın kanalından yedi geçiş kaydedildi; denizciler askeri güvence taahhütlerine rağmen Amerikan rotasını reddediyor. Hindistan, bir denizcinin ölümünün ardından mürettebatına boğazdan geçişi yasakladı. — On Friday no crossings were detected on the U.S.-proposed alternate corridor, while Iran's channel saw seven transits, as seafarers refuse the American route despite pledges of protection. India has barred its crews from strait transits after an attack killed a sailor.</description>
-      <link>https://fortune.com/2026/07/19/global-oil-market-post-iran-export-offsets-hormuz-new-pipline-capacity/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-bec64b056f3e346bbec4</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Vulcan: Yedek Rota da Kapanıyor: Emniyet Supabı da Bir Kısılma Noktasıysa — The Backup Route Closes: When the Relief Valve Is a Chokepoint Too</title>
+      <description>Dün variller Hürmüz'den kaçtı. Bugün Husiler, Suudi Arabistan'ın onu dolanmak için kullandığı Kızıldeniz kapısını da kapatmaya girişti. Kısılma noktalarını sayın. — Yesterday the barrels shunned Hormuz. Today the Houthis moved to shut the Red Sea door Saudi Arabia was using to get around it. Count the chokepoints.</description>
+      <link>https://eigenradar.com/#eco-04%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-04%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
-      <category>news</category>
+      <category>column</category>
     </item>
     <item>
-      <title>Bitcoin ve kripto, küresel teknoloji satışı yayılırken geriledi — Bitcoin and crypto sink as a global tech selloff spreads</title>
-      <description>Bitcoin haftayı kapatırken yaklaşık yüzde 1 düşerek 64.000 dolara geriledi; Ether gün içinde yüzde 3'e varan kayıpla 1.830 dolara indi. Yazıya göre yatırımcılar yapay zekâ bağlantılı varlıklardan çıkışa yöneldi. — Bitcoin fell roughly 1% to $64,000 heading into the weekend, while Ether dropped as much as 3% to $1,830. Investors, the article says, rotated aggressively out of artificial-intelligence-linked assets.</description>
-      <link>https://www.foreignpolicyjournal.com/2026/07/19/bitcoin-crypto-btc-and-crypto-markets-sink-as-tech-selloff-spreads-globally/</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-6786cdfe0974773a6471</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <title>Gini: Pompadaki Fatura, Tezgâhtaki Kredi: Şoku Kim Taşıyor — The Bill at the Pump, the Loan at the Counter</title>
+      <description>Benzin galon başına 4 dolara çıktı ve savaş primi en ağır darbeyi işe arabayla giden hanelere vuruyor. Bu arada Avrupa'nın bankaları hâlâ kredi veriyor — ama küçüklere değil. — Gas hit $4 a gallon and a war premium lands hardest on the households that drive to work. Meanwhile Europe's banks are still lending — just not to the small.</description>
+      <link>https://eigenradar.com/#eco-05%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-05%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <category>economics-markets</category>
-      <category>news</category>
+      <category>column</category>
+    </item>
+    <item>
+      <title>Cassandra: Kim Kime Borçlu: Bir Sigortacının İçinde Saklanan Kaldıraç — Who Owes Whom: The Leverage Hiding Inside an Insurer</title>
+      <description>Mark Walter'ın sigortacılarına yönelik bir soruşturma, aslında dışarıdan kimsenin göremediği bağlı varlıklara dair bir soru. Dünyanın en gür sesli bankacısı da az önce risklerin sandığınızdan büyük olduğunu söyledi. — A probe into Mark Walter's insurers is really a question about affiliated holdings nobody outside could see. And the loudest banker in the world just said the risks are bigger than you think.</description>
+      <link>https://eigenradar.com/#eco-06%2F2026-07-21</link>
+      <guid isPermaLink="false">https://eigenradar.com/#eco-06%2F2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <category>economics-markets</category>
+      <category>column</category>
     </item>
     <item>
       <title>Sonar ve dronlar, Benin açıklarında 1960'lardan beri ölü sanılan canlı mercan resiflerini buldu — Sonar and drones find living coral reefs off Benin, presumed dead since the 1960s</title>
@@ -396,60 +513,6 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>science</category>
       <category>news</category>
-    </item>
-    <item>
-      <title>Midas: Seviyeyi Kore Veriyor: Tape'i Okumak İçin Artık Seul'e Bakıyoruz — Korea Sets the Level: To Read the Tape Now, We Watch Seoul</title>
-      <description>Brent 90'ı gördü, Asya karışık kapandı; ama asıl hikâye akışta: kaldıraçlı Kore hisseleri artık küresel tape'in seviyesini veriyor. — Brent hit 90 and Asia closed mixed; but the story is in the flow — leveraged Korean equities now set the level for the global tape.</description>
-      <link>https://eigenradar.com/#eco-01%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-01%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Maynard Fisher: Uzun Fitil Pekin'de: Petrol Enflasyonu İthal Ederken Faizi Beklemek — The Long Fuse in Beijing: Holding Rates While Oil Imports Inflation</title>
-      <description>Çin Halk Bankası kredi faizini 14. ayda da tuttu. Karar sıkıcı görünebilir; oysa asıl mesaj, bir merkez bankasının petrol şoku karşısında neyi feda etmemeye karar verdiğidir. — The PBoC held its loan prime rate for a 14th month. The decision looks dull; the real message is what a central bank decides not to sacrifice in an oil shock.</description>
-      <link>https://eigenradar.com/#eco-02%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-02%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Vega Sterling: Yapay Zekâ Primi Kaldıraçla Buluşuyor: Kore'nin Çip Satışı Yeniden Fiyatlanıyor — The AI Premium Meets Leverage: Repricing Korea's Chip Rout</title>
-      <description>Kore çip devleri yüzde 30 düştü, kripto yapay zekâ bağlantılı varlıklarla birlikte geriledi. Anlatı hâlâ güzel; ama iki farklı varlık sınıfı aynı soruyu soruyor: fiyatı model mi taşıyor, hikâye mi? — Korea's chip giants fell 30% and crypto sank alongside AI-linked assets. The narrative is still lovely; but two different asset classes are asking the same question: is the price carried by the model or by the story?</description>
-      <link>https://eigenradar.com/#eco-03%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-03%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Vulcan: Gemiler Koridoru Reddediyor: 90 Dolarlık Brent'in Ardındaki Boş Rota — Ships Refuse the Corridor: The Empty Route Behind $90 Brent</title>
-      <description>Brent 90 doları geçti, ama ekran fiyatı hikâyenin yarısı. Diğer yarısı dokta: cuma günü ABD destekli rotadan sıfır geçiş, İran kanalından yedi. Fiyat er ya da geç fiziksel gerçeği öğrenir. — Brent topped $90, but the screen price is half the story. The other half is on the dock: on Friday, zero transits on the U.S.-backed route, seven on Iran's channel. Price learns the physical truth sooner or later.</description>
-      <link>https://eigenradar.com/#eco-04%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-04%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Gini: Yüzde 4,3 Kimin Cebine Yazıldı? Çin Faizi Tutuyor, Hane Nefes Tutuyor — Whose Pocket Was 4.3% Written Into? China Holds Rates, the Household Holds Its Breath</title>
-      <description>Çin Merkez Bankası kredi faizini 14. ayda da tuttu; başlık büyüme yavaşladı diyor. Peki 'zayıf iç talep' dediğimiz şey, kimin market fişi, kimin ödenmeyen maaşı? — The PBoC held its loan rate for a 14th month; the headline says growth is slowing. But 'weak domestic demand' — whose grocery receipt is that, whose unpaid raise?</description>
-      <link>https://eigenradar.com/#eco-05%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-05%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
-    </item>
-    <item>
-      <title>Cassandra: Kapı Yine Tek Kişilik: Kripto Kaldıracı ve Hürmüz'ün Sessiz Fitili — The Door Is Still One-Person Wide: Crypto Leverage and Hormuz's Quiet Fuse</title>
-      <description>Bitcoin yüzde 1 düştü, fiyat masum görünüyor. Tehlike fiyatta değil; onu ayakta tutan kaldıraçta ve kimsenin sormadığı 'peki boğaz kapanırsa kim kime borçlu' sorusunda. — Bitcoin fell 1%, the price looks innocent. The danger isn't in the price; it's in the leverage holding it up — and the question no one asks: if the strait shuts, who owes whom?</description>
-      <link>https://eigenradar.com/#eco-06%2F2026-07-20</link>
-      <guid isPermaLink="false">https://eigenradar.com/#eco-06%2F2026-07-20</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>column</category>
     </item>
     <item>
       <title>Gaia: Kayıtların Gömdüğü Bir Resif — A Reef the Records Buried</title>
@@ -486,15 +549,6 @@
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <category>science</category>
       <category>column</category>
-    </item>
-    <item>
-      <title>Yatırımcılar Fed toplantısına denk gelen bir bahisle Bitcoin'in 72.000 dolara çıkacağına 2,5 milyar dolar yatırdı — Traders wager $2.5bn that bitcoin hits $72,000 right as the Fed meets</title>
-      <description>Deribit'te büyük blok işlemler, yatırımcıların 31 Temmuz vadeli 70.000 dolarlık alım opsiyonlarını satın alıp 72.000 dolarlık opsiyonları sattığını gösteriyor; Fed'in 29 Temmuz kararından yalnızca iki gün sonrasına denk gelen pozisyonun nominal büyüklüğü 2,5 milyar dolar. Vadeli işlem piyasaları faizin %3,5-%3,75 aralığında sabit kalma ihtimalini %75-80 olarak fiyatlıyor. — Large block trades on Deribit show traders buying $70,000 bitcoin calls and selling $72,000 calls for July 31 expiry, a notional $2.5 billion bet timed two days after the Fed's July 29 decision, where futures currently price a 75-80% chance rates hold at 3.5%-3.75%.</description>
-      <link>https://www.coindesk.com/markets/2026/07/18/massive-bitcoin-call-spreads-target-usd72-000-by-month-end-right-when-the-fed-meets</link>
-      <guid isPermaLink="false">https://eigenradar.com/#feed-news-eabdcb8d5f05aa4b33d3</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
-      <category>economics-markets</category>
-      <category>news</category>
     </item>
     <item>
       <title>Fizikçiler bir kapı geriliminin niyobyumda süperiletkenliği nasıl bastırdığını görüntüledi — Physicists image how a gate voltage suppresses superconductivity in niobium</title>
