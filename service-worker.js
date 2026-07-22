@@ -1,4 +1,4 @@
-const CACHE = 'eigen-radar-shell-v2';
+const CACHE = 'eigen-radar-shell-v3';
 const SHELL = [
   '/index.html',
   '/manifest.webmanifest',
@@ -21,18 +21,26 @@ self.addEventListener('activate', event => {
 });
 
 async function networkFirstNavigation(event) {
+  const path = new URL(event.request.url).pathname;
+  const shellPath = path.startsWith('/tr/')
+    ? '/tr/index.html'
+    : path.startsWith('/en/')
+      ? '/en/index.html'
+      : '/index.html';
   try {
     const response = await fetch(event.request);
-    // Only the shell itself may refresh the cached shell: caching every navigation
-    // (e.g. /feed.xml) here replaced index.html with whatever was last visited.
-    const path = new URL(event.request.url).pathname;
-    if (response.ok && (path === '/' || path === '/index.html')) {
+    // Only a real application-shell route may refresh its cache entry: caching every
+    // navigation (e.g. /feed.xml) here replaced index.html with the last visited page.
+    if (response.ok && (path === '/' || path === '/index.html'
+        || path === '/tr/' || path === '/tr/index.html'
+        || path === '/en/' || path === '/en/index.html')) {
       const cache = await caches.open(CACHE);
-      await cache.put('/index.html', response.clone());
+      await cache.put(shellPath, response.clone());
     }
     return response;
   } catch {
-    return (await caches.match('/index.html')) || (await caches.match('/'));
+    return (await caches.match(shellPath)) || (await caches.match('/index.html'))
+      || (await caches.match('/'));
   }
 }
 

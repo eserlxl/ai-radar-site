@@ -2,7 +2,7 @@
   "name": "Eigen Radar",
   "short_name": "Eigen Radar",
   "description": "A daily Turkish and English news and columnist edition across four independent desks.",
-  "lang": "tr",
+  "lang": "mul",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
